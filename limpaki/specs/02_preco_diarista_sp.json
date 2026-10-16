@@ -1,0 +1,12 @@
+{
+  "fps": 30,
+  "cards": [
+    {"type": "hook", "title": "Quanto custa uma diarista em São Paulo em 2026?", "sub": "fiz as contas", "dur": 2.4},
+    {"type": "data", "label": "Faxina simples", "value": "R$ 150 a 250", "note": "a diária, apê padrão", "dur": 2.3},
+    {"type": "data", "label": "Faxina pesada", "value": "R$ 250 a 400", "note": "vidros e armários por dentro", "dur": 2.3},
+    {"type": "data", "label": "Pós-obra", "value": "R$ 400+", "note": "cobre à parte, sempre", "dur": 2.0},
+    {"type": "data", "label": "Por hora", "value": "R$ 25 a 45", "note": "raro em SP, maioria cobra diária", "dur": 2.3},
+    {"type": "data", "label": "Toda semana", "value": "R$ 600 a 1.400", "note": "por mês, 1x por semana", "dur": 2.4},
+    {"type": "cta", "title": "Quanto você paga?", "sub": "Comenta a cidade e o valor e salva pra comparar depois", "dur": 2.6}
+  ]
+}
