@@ -5,7 +5,7 @@ Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, fax
 Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/).
 
 ## Publicados
-- 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — TikTok: pendente
+- 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
 - 03 — "Se a sua diarista faz isso, segura ela" — 5 sinais de diarista boa — objetivo: compartilhamento ("manda pra ela")
