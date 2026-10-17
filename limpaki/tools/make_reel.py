@@ -207,7 +207,10 @@ def main(spec_path, out_path):
     # narração externa (spec["voice"]): mixa por cima dos efeitos
     if spec.get("voice"):
         vwav = f"{tmp}/voice.wav"
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", spec["voice"], "-ac", "1", "-ar", str(sr), vwav], check=True)
+        vpath = spec["voice"]
+        if not os.path.isabs(vpath):
+            vpath = os.path.join(os.path.dirname(os.path.abspath(spec_path)), vpath)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vpath, "-ac", "1", "-ar", str(sr), vwav], check=True)
         with wave.open(vwav) as vf:
             v = np.frombuffer(vf.readframes(vf.getnframes()), dtype=np.int16).astype(np.float32) / 32767
         n = min(len(v), len(audio))

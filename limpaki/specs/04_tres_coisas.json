@@ -1,0 +1,11 @@
+{
+  "fps": 30,
+  "voice": "../audio/04_voz.mp3",
+  "cards": [
+    {"type": "hook", "title": "3 coisas que você nunca deveria pedir pra uma diarista", "sub": "e muita gente pede", "dur": 4.00},
+    {"type": "data", "label": "Nunca peça", "value": "Cuidar do seu filho", "note": "diarista não é babá", "dur": 5.08},
+    {"type": "data", "label": "Nunca peça", "value": "Lavar a área externa", "note": "no preço da faxina: é extra", "dur": 5.23},
+    {"type": "data", "label": "Nunca", "value": "Começar sem preço fechado", "note": "combina tudo por mensagem, antes", "dur": 5.78},
+    {"type": "cta", "title": "Comenta REGRAS", "sub": "que eu te mando no direct a lista completa do que combinar antes", "dur": 3.31}
+  ]
+}
