@@ -5,13 +5,13 @@ Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, fax
 Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/).
 
 ## Publicados
+- 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story: pendente — TikTok: pendente — isca: página /sinais + fluxo ManyChat "SINAIS"
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
 ## Foco atual (16/10/2026): CONQUISTAR CLIENTES
 Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala com quem CONTRATA: pessoa de cidade grande que precisa de faxina e tem medo de trazer desconhecido pra casa. Posts "pra diaristas" ficam pra depois.
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
-- 03 — "Se a sua diarista faz isso, segura ela" — 5 sinais de diarista boa — objetivo: compartilhamento ("manda pra ela")
 - 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — objetivo: comentário/debate
 - 10 — "O que uma faxina padrão inclui (e o que não inclui)" — checklist — objetivo: salvamento (CARROSSEL)
 - 12 — "Como saber se dá pra confiar numa diarista que você nunca viu" — 5 sinais — objetivo: salvamento (CARROSSEL); prepara o terreno pras garantias (avaliação, documento, pagamento)
