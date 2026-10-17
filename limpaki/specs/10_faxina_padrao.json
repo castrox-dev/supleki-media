@@ -1,0 +1,26 @@
+{
+  "slides": [
+    {"type": "hook", "title": "O que uma faxina padrão inclui (e o que não inclui)", "sub": "salva antes de combinar com a diarista"},
+    {"type": "list", "label": "ENTRA NA FAXINA PADRÃO", "icon": "check", "items": [
+      ["Varrer e passar pano no chão todo", ""],
+      ["Banheiro completo", "vaso, box, pia, espelho, azulejo que alcança"],
+      ["Cozinha por fora", "pia, fogão, bancada, mesa"],
+      ["Tirar pó de móveis e prateleiras", ""],
+      ["Cama arrumada e lixo recolhido", "saco trocado"],
+      ["Vidro e espelho por dentro", "só o que dá pra alcançar"]
+    ]},
+    {"type": "list", "label": "NÃO ENTRA: É EXTRA", "icon": "x", "items": [
+      ["Lavar, secar ou passar roupa", ""],
+      ["Geladeira, forno e fogão por dentro", ""],
+      ["Armário e guarda-roupa por dentro", "organizar e dobrar roupa também"],
+      ["Vidro alto ou do lado de fora", ""],
+      ["Azulejo até o teto, área externa", "é faxina pesada, outro preço"]
+    ], "foot": "Extra se combina antes e paga à parte."},
+    {"type": "list", "label": "NUNCA ENTRA", "icon": "x", "items": [
+      ["Cuidar de criança ou idoso", "diarista não é babá nem cuidadora"],
+      ["Pós-obra e pós-mudança", "é outro serviço, com outro preço"]
+    ]},
+    {"type": "text", "label": "O PROBLEMA", "title": "Cada diarista tem a própria lista.", "sub": "O que não foi combinado antes vira discussão às cinco da tarde. Manda a lista por mensagem antes do primeiro dia."},
+    {"type": "cta", "title": "Comenta CHECKLIST", "sub": "que eu te mando no direct a lista completa pra mandar pra diarista", "save": "Salva pra não perder"}
+  ]
+}
