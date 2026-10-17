@@ -101,7 +101,7 @@ def render_data(card, t, prog, idx):
     img = bg(prog)
     d = ImageDraw.Draw(img)
     a = ease_out(min(1, t / 0.4))
-    cw, ch = 940, 760
+    cw, ch = 940, 800
     cx, cy = (W - cw) / 2, (H - ch) / 2 - 60 + (1 - a) * 120
     d.rounded_rectangle((cx, cy, cx + cw, cy + ch), 56, fill=WHITE)
     # numero do card
@@ -113,7 +113,13 @@ def render_data(card, t, prog, idx):
     d.text((cx + 200, cy + 76), card["label"].upper(), font=fl, fill=TURQ_DARK)
     # valor grande com pop
     b = ease_out(min(1, max(0, t - 0.25) / 0.35))
-    size = int(138 * (0.6 + 0.4 * b))
+    # escolhe o maior tamanho em que o valor cabe em 2 linhas
+    base = 138
+    while base > 80:
+        if len(wrap(d, card["value"], F_BLACK(base), cw - 120)) <= 2:
+            break
+        base -= 8
+    size = int(base * (0.6 + 0.4 * b))
     fv = F_BLACK(size)
     vlines = wrap(d, card["value"], fv, cw - 120)
     y = cy + 230

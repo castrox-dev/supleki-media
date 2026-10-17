@@ -1,0 +1,12 @@
+{
+  "fps": 30,
+  "cards": [
+    {"type": "hook", "title": "Se a sua diarista faz isso, segura ela", "sub": "5 sinais", "dur": 2.4},
+    {"type": "data", "label": "Sinal 1", "value": "Avisa se vai atrasar", "note": "antes da hora, não depois", "dur": 2.3},
+    {"type": "data", "label": "Sinal 2", "value": "Pergunta antes de mexer", "note": "em gaveta, armário, objeto de valor", "dur": 2.3},
+    {"type": "data", "label": "Sinal 3", "value": "Fecha o preço antes", "note": "sem surpresa no fim do dia", "dur": 2.3},
+    {"type": "data", "label": "Sinal 4", "value": "Avisa o que acabou", "note": "produto, pano, saco de lixo", "dur": 2.3},
+    {"type": "data", "label": "Sinal 5", "value": "Tem referência real", "note": "cliente antigo que você pode ligar", "dur": 2.5},
+    {"type": "cta", "title": "Comenta SINAIS", "sub": "que eu te mando no direct a lista completa pra conferir antes de contratar", "dur": 2.8}
+  ]
+}
