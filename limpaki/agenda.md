@@ -2,9 +2,10 @@
 
 Estratégia: entrar pelo nicho "limpeza/faxina", sem citar o Limpaki nos 5 primeiros posts.
 Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, faxina, cliente, casa — nunca "marketplace", "plataforma", "app", "solução".
-Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/).
+Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/). Carrossel: limpaki/tools/make_carousel.py spec.json carrosseis/ prefixo (slides 1080x1350).
 
 ## Publicados
+- 17/10/2026 (tarde) — Carrossel 10 "O que uma faxina padrão inclui (e o que não inclui)" (6 slides, sem narração) — IG media id 18129742699889125 — Story 10 media id 18137946382644000 — TikTok: não (carrossel) — isca: fluxo ManyChat "CHECKLIST" (lista em texto na DM) + página site/checklist.html (AINDA NÃO no ar: falta copiar pra public/ do limpae e push; /regras e /sinais também não estão no ar)
 - 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story 03 media id 18129057031694248 — TikTok: publicado 17/10 11:02 (em análise no momento da publicação) — isca: página /sinais + fluxo ManyChat "SINAIS"
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
@@ -12,8 +13,7 @@ Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limp
 Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala com quem CONTRATA: pessoa de cidade grande que precisa de faxina e tem medo de trazer desconhecido pra casa. Posts "pra diaristas" ficam pra depois.
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
-- 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — objetivo: comentário/debate
-- 10 — "O que uma faxina padrão inclui (e o que não inclui)" — checklist — objetivo: salvamento (CARROSSEL)
+- 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — PRONTO (reels/04_tres_coisas.mp4 com narração, story 04, isca REGRAS); usuário pediu pra segurar em 17/10 — publicar quando ele liberar
 - 12 — "Como saber se dá pra confiar numa diarista que você nunca viu" — 5 sinais — objetivo: salvamento (CARROSSEL); prepara o terreno pras garantias (avaliação, documento, pagamento)
 - 08 — "Pedir diarista no grupo do condomínio: por que dá errado" — primeira dor que o Limpaki resolve, SEM citar o app
 - 13 — "Diarista cancelou em cima da hora: o que fazer" — dor + objetivo: comentário
