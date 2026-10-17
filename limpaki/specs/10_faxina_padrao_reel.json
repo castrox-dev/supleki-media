@@ -1,0 +1,112 @@
+{
+ "fps": 30,
+ "music": true,
+ "scenes": [
+  {
+   "type": "hook",
+   "title": "Faxina padrão: o que entra e o que não entra",
+   "sub": "salva antes de contratar",
+   "dur": 3.6
+  },
+  {
+   "type": "list",
+   "label": "ENTRA",
+   "icon": "check",
+   "dur": 7.0,
+   "items": [
+    [
+     "Chão varrido e com pano",
+     ""
+    ],
+    [
+     "Banheiro completo",
+     "vaso, box, pia, espelho"
+    ],
+    [
+     "Cozinha por fora",
+     "pia, fogão, bancada"
+    ],
+    [
+     "Pó dos móveis",
+     ""
+    ],
+    [
+     "Cama arrumada",
+     ""
+    ],
+    [
+     "Lixo recolhido",
+     "saco trocado"
+    ]
+   ],
+   "at": [
+    1.15,
+    1.9,
+    2.7,
+    4.1,
+    5.1,
+    6.0
+   ]
+  },
+  {
+   "type": "list",
+   "label": "É EXTRA",
+   "icon": "x",
+   "dur": 7.85,
+   "foot": "combina antes e paga à parte",
+   "items": [
+    [
+     "Lavar e passar roupa",
+     ""
+    ],
+    [
+     "Geladeira e forno por dentro",
+     ""
+    ],
+    [
+     "Vidro de fora",
+     ""
+    ],
+    [
+     "Área externa",
+     "é faxina pesada"
+    ]
+   ],
+   "at": [
+    1.3,
+    2.3,
+    4.75,
+    5.7
+   ]
+  },
+  {
+   "type": "list",
+   "label": "NUNCA",
+   "icon": "x",
+   "dur": 3.05,
+   "items": [
+    [
+     "Cuidar de criança",
+     "diarista não é babá"
+    ],
+    [
+     "Pós-obra",
+     "é outro serviço"
+    ]
+   ],
+   "at": [
+    0.3,
+    1.5
+   ]
+  },
+  {
+   "type": "cta",
+   "pre": "Comenta",
+   "word": "CHECKLIST",
+   "sub": "que eu te mando a lista no direct",
+   "dur": 3.1
+  }
+ ],
+ "voice": "../audio/10_voz.mp3",
+ "music_vol": 0.45
+}
