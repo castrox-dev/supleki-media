@@ -204,6 +204,14 @@ def main(spec_path, out_path):
             img.save(f"{tmp}/f{frame_i:05d}.jpg", quality=92)
             frame_i += 1
         elapsed += c["dur"]
+    # narração externa (spec["voice"]): mixa por cima dos efeitos
+    if spec.get("voice"):
+        vwav = f"{tmp}/voice.wav"
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", spec["voice"], "-ac", "1", "-ar", str(sr), vwav], check=True)
+        with wave.open(vwav) as vf:
+            v = np.frombuffer(vf.readframes(vf.getnframes()), dtype=np.int16).astype(np.float32) / 32767
+        n = min(len(v), len(audio))
+        audio[:n] = audio[:n] * 0.35 + v[:n] * 0.95
     wav_path = f"{tmp}/a.wav"
     audio = np.clip(audio, -1, 1)
     with wave.open(wav_path, "w") as wf:
