@@ -5,7 +5,7 @@ Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, fax
 Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/).
 
 ## Publicados
-- 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story: pendente — TikTok: pendente — isca: página /sinais + fluxo ManyChat "SINAIS"
+- 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story 03 media id 18129057031694248 — TikTok: pendente — isca: página /sinais + fluxo ManyChat "SINAIS"
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
 ## Foco atual (16/10/2026): CONQUISTAR CLIENTES
