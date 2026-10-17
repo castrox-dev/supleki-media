@@ -1,0 +1,24 @@
+=== MANYCHAT — automação "SINAIS" ===
+
+GATILHO: comentário no Reel contendo a palavra SINAIS (marcar "qualquer post" ou só o Reel 03)
+
+RESPOSTA PÚBLICA NO COMENTÁRIO (ManyChat manda automático):
+Mandei no direct 📩
+
+DM 1 (texto):
+Oi! Aqui a lista do que conferir antes de contratar uma diarista 👇
+
+✅ Pede 1 referência que você possa ligar (cliente antigo, não carta)
+✅ Fecha o preço antes de começar, por escrito, nem que seja no WhatsApp
+✅ Combina o que ela NÃO vai fazer (vidro, área externa, cozinha pesada cobram à parte)
+✅ Mostra a casa toda no 1º dia: onde pode mexer e onde não pode
+✅ Tira foto do documento, com ela sabendo
+✅ Observa o 1º dia: chegou na hora? avisou o que acabou? perguntou antes de mexer?
+
+DM 2 (texto + botão/link):
+Quer pular essa parte? No Limpaki a diarista já vem avaliada, com documento verificado e preço combinado antes.
+[BOTÃO] Pedir uma diarista → https://limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=sinais
+
+Versão completa pra salvar: https://limpaki.com.br/sinais
+
+OBS: a página /sinais é o arquivo limpaki/site/sinais.html deste repositório. Subir no site antes de ativar a automação. Enquanto não subir, trocar o link por: https://raw.githubusercontent.com/castrox-dev/supleki-media/main/limpaki/iscas/03_sinais_lista.jpg
