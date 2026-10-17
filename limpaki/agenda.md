@@ -29,6 +29,19 @@ Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala 
 - preço combinado antes
 - pagamento pelo app com garantia
 
+
+## Mecânica aprendida (16/10) — "comenta a PALAVRA que eu mando no direct"
+Referências estudadas: @igao.ia (5.881 likes / 12.403 comentários — 2 comentários por like) e @gut1n (120 likes / 159 comentários). Em ambos a legenda pede pra comentar uma palavra-chave e promete algo útil no direct. Comentário é o sinal que o Instagram mais pesa no teste inicial, e o DM abre conversa 1:1 que vira cliente.
+Estrutura dos dois: hook com número ou afirmação forte (0-2s) → explica o mecanismo em 3-4 passos → "comenta X que eu mando". Capa: texto grande, 1 frase, contraste alto.
+
+COMO USAR NO LIMPAKI (sem copiar o nicho deles):
+- Cada post precisa de uma ISCA útil de verdade pra quem contrata: checklist de faxina padrão (PDF), tabela de preço por cidade, lista "5 perguntas pra fazer antes de contratar", modelo de combinado por escrito com a diarista.
+- Legenda termina com: "Comenta FAXINA que eu te mando a tabela completa no direct." (palavra sempre em caixa alta, 1 palavra, fácil de digitar).
+- DM de resposta (manual nos primeiros dias; o usuário responde ou o Claude redige): entrega a isca + 1 linha "se quiser, no Limpaki você pede uma diarista avaliada e com documento verificado, preço combinado antes: limpaki.com.br". Sem pressão.
+- Responder TODO comentário em até 1 h (puxa o teste do algoritmo) e mandar a isca no mesmo dia.
+- Palavras por post: 02 preços → "TABELA"; 03 segura ela → "SINAIS"; 10 faxina padrão → "CHECKLIST"; 12 confiar → "GUIA"; 08 condomínio → "DIARISTA".
+- Não prometer "mando pro seu direct" se a isca não existir: gerar o PDF/imagem ANTES de publicar o post.
+
 ## Regras de formato
 - 12 a 18 s, 1080x1920, hook em texto grande nos 2 primeiros segundos, sem logo, sem intro.
 - Um sinal principal por post (retenção, salvar, compartilhar ou comentar) — o CTA final pede só ele.
