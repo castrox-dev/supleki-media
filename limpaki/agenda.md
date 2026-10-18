@@ -16,21 +16,26 @@ Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limp
 Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala com quem CONTRATA: pessoa de cidade grande que precisa de faxina e tem medo de trazer desconhecido pra casa. Posts "pra diaristas" ficam pra depois.
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
-- 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — PRONTO (reels/04_tres_coisas.mp4 com narração, story 04, isca REGRAS); usuário pediu pra segurar em 17/10 — publicar quando ele liberar
-- 08 — "Pedir diarista no grupo do condomínio: por que dá errado" — primeira dor que o Limpaki resolve, SEM citar o app
+Arco combinado com o usuário em 18/10: educar o cliente sobre o que pedir/checar numa diarista (sem marca) e, alguns dias depois, mostrar que o Limpaki JÁ FAZ essas checagens por ele.
+- 08 — "Pedir diarista no grupo do condomínio: por que dá errado" — dor, SEM citar o app — palavra DIARISTA
+- 15 — "O que pedir antes de deixar uma diarista entrar na sua casa" — documento com foto, comprovante de residência, selfie conferindo com o documento, contato que responde (e-mail/telefone), avaliação de outros clientes — educativo, SEM marca — palavra DOCUMENTOS (CARROSSEL ou reel animado)
 - 13 — "Diarista cancelou em cima da hora: o que fazer" — dor + objetivo: comentário
-- 09 — "Como eu acho diarista de confiança hoje" — primeira menção ao Limpaki, de passagem (avaliadas, documento verificado, preço combinado antes, pagamento pelo app)
+- 09 — "Como eu acho diarista de confiança hoje" — primeira menção ao Limpaki, de passagem
+- 16 — "Tudo isso que eu te ensinei a checar, o Limpaki já checa" — retoma 12 (GUIA) e 15: selfie, documento, comprovante de residência, e-mail verificado, avaliação dos clientes, preço combinado antes, pagamento pelo app — conversão, CTA pro site
 - 11 — Popó: "o que a gente faz de diferente" — conversão em seguidor/cliente (só com base aquecida)
 - 14 — "Quanto custa diarista na sua cidade" — versão do post 02 pra outra cidade com muitas diaristas cadastradas (perguntar ao usuário quais)
+- 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — PRONTO (reels/04_tres_coisas.mp4, isca REGRAS); usuário pediu pra segurar em 17/10 — só publicar se ele liberar
 - (depois, lado diarista) 06 "o erro que te faz perder cliente"; 07 "cobrar por hora ou por diária"
 - (exigem filmagem real) 01 antes/depois 4h em 12s; 05 "o que a diarista pensa ao entrar na sua casa"
 
-## Garantias reais do Limpaki (pode citar a partir do post 09)
-- diaristas avaliadas pelos clientes
+## Garantias reais do Limpaki (pode citar a partir do post 09; informadas pelo usuário em 18/10)
+- verificação por selfie (usuário falou "quinzenal": CONFIRMAR se a selfie é refeita a cada 15 dias antes de afirmar isso num post)
 - documento verificado
+- comprovante de residência verificado
+- e-mail verificado
+- diaristas avaliadas pelos clientes
 - preço combinado antes
 - pagamento pelo app com garantia
-
 
 ## Mecânica aprendida (16/10) — "comenta a PALAVRA que eu mando no direct"
 Referências estudadas: @igao.ia (5.881 likes / 12.403 comentários — 2 comentários por like) e @gut1n (120 likes / 159 comentários). Em ambos a legenda pede pra comentar uma palavra-chave e promete algo útil no direct. Comentário é o sinal que o Instagram mais pesa no teste inicial, e o DM abre conversa 1:1 que vira cliente.
