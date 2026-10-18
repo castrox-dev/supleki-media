@@ -2,13 +2,55 @@
  "fps": 30,
  "music": true,
  "scenes": [
-  {"type": "hook", "title": "Diarista que você nunca viu: dá pra confiar?", "sub": "5 jeitos de saber antes", "dur": 3.0},
-  {"type": "list", "label": "ANTES DE CONTRATAR", "icon": "num", "dur": 11.0, "at": [0.6, 2.6, 4.6, 7.0, 8.8], "items": [
-   ["Liga pra uma referência", "cliente antigo, não só mensagem"],
-   ["Pede o documento antes", "foto do RG, com ela sabendo"],
-   ["Certidão de antecedentes", "grátis, no site da Polícia Federal"],
-   ["Preço fechado por escrito", "vale mensagem no WhatsApp"],
-   ["Fica em casa no 1º dia", "mostra onde pode mexer"]]},
-  {"type": "cta", "pre": "Comenta", "word": "GUIA", "sub": "que eu te mando o passo a passo no direct", "dur": 3.4}
- ]
+  {
+   "type": "hook",
+   "title": "Diarista que você nunca viu: dá pra confiar?",
+   "sub": "5 jeitos de saber antes",
+   "dur": 4.3
+  },
+  {
+   "type": "list",
+   "label": "ANTES DE CONTRATAR",
+   "icon": "num",
+   "dur": 18.9,
+   "at": [
+    0.3,
+    3.67,
+    7.43,
+    12.75,
+    15.85
+   ],
+   "items": [
+    [
+     "Liga pra uma referência",
+     "cliente antigo, não só mensagem"
+    ],
+    [
+     "Pede o documento antes",
+     "foto do RG, com ela sabendo"
+    ],
+    [
+     "Certidão de antecedentes",
+     "grátis, no site da Polícia Federal"
+    ],
+    [
+     "Preço fechado por escrito",
+     "vale mensagem no WhatsApp"
+    ],
+    [
+     "Fica em casa no 1º dia",
+     "mostra onde pode mexer"
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "pre": "Comenta",
+   "word": "GUIA",
+   "sub": "que eu te mando o passo a passo no direct",
+   "dur": 3.4
+  }
+ ],
+ "voice": "../audio/12_voz.mp3",
+ "music_vol": 0.45
 }
