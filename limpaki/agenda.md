@@ -5,8 +5,9 @@ Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, fax
 Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/). Carrossel: limpaki/tools/make_carousel.py spec.json carrosseis/ prefixo (slides 1080x1350).
 
 ## Publicados
+- 18/10/2026 (noite) — Reel 12 "Diarista que você nunca viu: dá pra confiar?" (animado v2, narração Roberta 26 s) — IG media id 18142707664612887 — Story 12 media id 18100308380642265 — TikTok: publicado 18/10 17:39 (público) — isca: ManyChat "GUIA - reel confiar na diarista (post 12)" LIVE + página site/guia.html (falta subir no limpae)
 - 18/10/2026 (manhã) — stories manhã (sem post de feed): Story 1 "Dica rápida: combina por escrito o que a faxina inclui" media id 18143283481717244 — Story 2 "Ainda não viu? Lavar roupa é extra" (frame do Reel 10b, lembrete CHECKLIST) media id 18097098362657073 — arquivos stories/2026-10-18_manha_1.jpg e _2.jpg (make_story.py agora aceita STORY_TAG via env e centraliza sem capa)
-- 17/10/2026 (noite) — Reel 10b "Faxina padrão: o que entra e o que não entra" (ANIMADO, gerador tools/make_reel_v2.py; narração Roberta 24 s + trilha original) — IG media id 18112748537134259 — Story 10b media id 17919940449452505 — TikTok: PENDENTE (CSP do TikTok bloqueia upload automático pelo navegador do app; mp4 deixado em Downloads/10_faxina_padrao.mp4 pro usuário subir) — isca: ManyChat "CHECKLIST - reel animado faxina padrão (post 10b)" LIVE
+- 17/10/2026 (noite) — Reel 10b "Faxina padrão: o que entra e o que não entra" (ANIMADO, gerador tools/make_reel_v2.py; narração Roberta 24 s + trilha original) — IG media id 18112748537134259 — Story 10b media id 17919940449452505 — TikTok: publicado 18/10 17:43 via Claude in Chrome (file_upload funciona; o navegador do app não) — isca: ManyChat "CHECKLIST - reel animado faxina padrão (post 10b)" LIVE
 - 17/10/2026 (tarde) — Carrossel 10 "O que uma faxina padrão inclui (e o que não inclui)" (6 slides, sem narração) — IG media id 18129742699889125 — Story 10 media id 18137946382644000 — TikTok: não (carrossel) — isca: ManyChat "CHECKLIST - carrossel faxina padrão (post 10)" LIVE desde 17/10 (gatilho: checklist/check list/lista no carrossel; boas-vindas com botão → DM com a lista + botões "Pedir uma diarista" (webapp.limpaki.com.br?utm_campaign=checklist) e "Checklist pra salvar" (limpaki.com.br/checklist)) + página site/checklist.html (AINDA NÃO no ar: falta copiar pra public/ do limpae e push; /regras e /sinais também não estão no ar)
 - 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story 03 media id 18129057031694248 — TikTok: publicado 17/10 11:02 (em análise no momento da publicação) — isca: página /sinais + fluxo ManyChat "SINAIS"
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
@@ -16,7 +17,6 @@ Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala 
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
 - 04 — "3 coisas que você nunca deveria pedir pra uma diarista" — PRONTO (reels/04_tres_coisas.mp4 com narração, story 04, isca REGRAS); usuário pediu pra segurar em 17/10 — publicar quando ele liberar
-- 12 — "Como saber se dá pra confiar numa diarista que você nunca viu" — 5 sinais — objetivo: salvamento (CARROSSEL); prepara o terreno pras garantias (avaliação, documento, pagamento)
 - 08 — "Pedir diarista no grupo do condomínio: por que dá errado" — primeira dor que o Limpaki resolve, SEM citar o app
 - 13 — "Diarista cancelou em cima da hora: o que fazer" — dor + objetivo: comentário
 - 09 — "Como eu acho diarista de confiança hoje" — primeira menção ao Limpaki, de passagem (avaliadas, documento verificado, preço combinado antes, pagamento pelo app)
@@ -45,6 +45,7 @@ COMO USAR NO LIMPAKI (sem copiar o nicho deles):
 - Não prometer "mando pro seu direct" se a isca não existir: gerar o PDF/imagem ANTES de publicar o post.
 
 ## Regras de formato
+- TikTok: publicar pelo Claude in Chrome (tiktokstudio/upload → file_upload no input de vídeo, máx 10 MB; copiar o mp4 pra /mnt/user-data/outputs). Conferir que a privacidade ficou "Todos" na lista de publicações.
 - (17/10) Usuário achou os reels antigos "secos": usar tools/make_reel_v2.py (texto palavra por palavra, itens entrando um a um, transição de rodo, bolhas, trilha + efeitos). Spec em specs/10_faxina_padrao_reel.json.
 - 12 a 18 s, 1080x1920, hook em texto grande nos 2 primeiros segundos, sem logo, sem intro.
 - Um sinal principal por post (retenção, salvar, compartilhar ou comentar) — o CTA final pede só ele.
