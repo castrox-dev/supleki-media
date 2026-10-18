@@ -208,6 +208,9 @@ def scene_hook(sc, t, T, prog):
     return img
 
 
+NUM_CTX = {}
+
+
 def draw_icon(d, kind, x, y, s, k):
     """ícone 64px desenhado progressivamente (k 0..1)."""
     if kind == "check":
@@ -220,6 +223,17 @@ def draw_icon(d, kind, x, y, s, k):
             b = clamp((k - .45) / .55)
             d.line([p2, (p2[0] + (p3[0] - p2[0]) * b, p2[1] + (p3[1] - p2[1]) * b)], fill=TURQ_D, width=9)
             d.ellipse((p2[0] - 4, p2[1] - 4, p2[0] + 4, p2[1] + 4), fill=TURQ_D)
+    elif kind == "num":
+        n = str(NUM_CTX.get("n", 1))
+        sc = back_out(clamp(k / .6)) if k > 0 else 0
+        r = s / 2 * max(0.01, sc)
+        cx, cy = x + s / 2, y + s / 2
+        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=TURQ)
+        if k > .2:
+            f = F(BLACK, int(s * .58 * max(.3, sc)))
+            tw = d.textlength(n, font=f)
+            asc, desc = f.getmetrics()
+            d.text((cx - tw / 2, cy - (asc + desc) / 2 + 2), n, font=f, fill=WHITE)
     else:
         col = RED
         d.rounded_rectangle((x, y, x + s, y + s), 18, fill=(253, 232, 232))
@@ -243,9 +257,10 @@ def scene_list(sc, t, T, prog):
     tw = d0.textlength(sc["label"], font=ft) + 90
     tag = Image.new("RGBA", (int(tw), 100), (0, 0, 0, 0))
     td = ImageDraw.Draw(tag)
-    tagfill = WHITE if sc.get("icon", "check") == "check" else (255, 240, 240)
+    good = sc.get("icon", "check") in ("check", "num")
+    tagfill = WHITE if good else (255, 240, 240)
     td.rounded_rectangle((0, 0, tw - 1, 99), 50, fill=tagfill)
-    td.text((45, 20), sc["label"], font=ft, fill=TURQ_D if sc.get("icon", "check") == "check" else RED)
+    td.text((45, 20), sc["label"], font=ft, fill=TURQ_D if good else RED)
     # layout das linhas
     fT, fN = F(BOLD, 64), F(MED, 44)
     cw = 960
@@ -268,6 +283,7 @@ def scene_list(sc, t, T, prog):
             row = Image.new("RGBA", (cw, int(rh)), (0, 0, 0, 0))
             rd = ImageDraw.Draw(row)
             rd.rounded_rectangle((0, 0, cw - 1, rh - 1), 34, fill=WHITE)
+            NUM_CTX["n"] = i + 1
             draw_icon(rd, sc.get("icon", "check"), 42, (rh - 84) / 2, 84, clamp((t - at[i] - 0.15) / 0.35))
             yy = 38
             for ln in tl:
@@ -281,7 +297,7 @@ def scene_list(sc, t, T, prog):
             paste_scaled(img, sh, 1, cx, y + rh / 2 + 6)
             paste_scaled(img, row, s, cx, y + rh / 2)
             # brilho no item recém-chegado
-            if 0.6 < kk < 2.2 and sc.get("icon", "check") == "check":
+            if 0.6 < kk < 2.2 and sc.get("icon", "check") in ("check", "num"):
                 st = Image.new("RGBA", (W, H), (0, 0, 0, 0))
                 a = math.sin(clamp((kk - .6) / 1.6) * math.pi)
                 star(ImageDraw.Draw(st), cx + cw / 2 - 30, y + 6, 26 * a, (255, 255, 255, int(230 * a)))
@@ -466,7 +482,7 @@ def main(spec_path, out_path):
             at = s.get("at") or [0.45 + i * min(0.55, (s["dur"] * 0.72 - 0.45) / max(1, n)) for i in range(n)]
             for i, a in enumerate(at):
                 add(pop(620 + 45 * i, 320), st + a)
-                add(ding(1320 + 60 * i) if s.get("icon", "check") == "check" else buzz(), st + a + 0.2)
+                add(ding(1320 + 60 * i) if s.get("icon", "check") in ("check", "num") else buzz(), st + a + 0.2)
         elif s["type"] == "cta":
             add(pop(500, 260, .12, .5), st + .05)
             add(ding(1568, .6, .25), st + .4)
