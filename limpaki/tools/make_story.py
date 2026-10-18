@@ -2,7 +2,9 @@
 """Gera um Story 1080x1920 JPEG de chamada pro post do dia.
 
 Uso: python3 make_story.py "hook do post" "linha de apoio" out.jpg [capa_do_post.jpg]
+Tag do topo: env STORY_TAG (padrão "POST NOVO NO PERFIL"); sem capa o texto fica centralizado.
 """
+import os
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -42,14 +44,14 @@ def main(hook, sub, out, cover=None):
     d = ImageDraw.Draw(img)
     # tag topo
     ft = ImageFont.truetype(FD + "Inter-Bold.otf", 44)
-    tag = "POST NOVO NO PERFIL"
+    tag = os.environ.get("STORY_TAG", "POST NOVO NO PERFIL")
     tw = d.textlength(tag, font=ft) + 80
     d.rounded_rectangle(((W - tw) / 2, 330, (W + tw) / 2, 420), 45, fill=WHITE)
     d.text(((W - tw) / 2 + 40, 350), tag, font=ft, fill=TURQ_DARK)
     # hook
     fh = ImageFont.truetype(FD + "InterDisplay-Black.otf", 112)
     lines = wrap(d, hook, fh, 920)
-    y = centered(d, lines, fh, 520, WHITE, 122)
+    y = centered(d, lines, fh, 520 if cover else 640, WHITE, 122)
     # capa do post como "card" inclinado
     if cover:
         c = Image.open(cover).convert("RGB")
@@ -69,7 +71,7 @@ def main(hook, sub, out, cover=None):
     # apoio
     fs = ImageFont.truetype(FD + "Inter-SemiBold.otf", 52)
     sl = wrap(d, sub, fs, 880)
-    centered(d, sl, fs, max(y + 40, H - 660), SOFT, 64)
+    centered(d, sl, fs, max(y + 40, H - 660) if cover else y + 70, SOFT, 64)
     img.save(out, quality=92)
     print("ok", out)
 
