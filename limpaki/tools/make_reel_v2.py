@@ -447,6 +447,7 @@ def music(total):
         if b % 4 == 0:
             t = np.linspace(0, beat * 3.5, int(SR * beat * 3.5), False)
             bs = .18 * np.exp(-t * 1.2) * np.sin(2 * np.pi * hz(ch[0] - 24) * t)
+            bs = bs[:max(0, len(out) - st)]
             out[st:st + len(bs)] += bs
     # fade in/out
     fi = int(SR * .3); out[:fi] *= np.linspace(0, 1, fi)

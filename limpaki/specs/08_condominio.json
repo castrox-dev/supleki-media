@@ -6,19 +6,36 @@
    "type": "hook",
    "title": "Pedir diarista no grupo do condomínio dá errado",
    "sub": "4 motivos pra desconfiar",
-   "dur": 3.4
+   "dur": 4.5
   },
   {
    "type": "list",
    "label": "O QUE DÁ ERRADO",
    "icon": "x",
-   "dur": 13.0,
-   "at": [0.3, 3.4, 6.5, 9.6],
+   "dur": 15.44,
+   "at": [
+    0.1,
+    3.96,
+    7.12,
+    11.43
+   ],
    "items": [
-    ["Indicação não é referência", "ninguém ligou pra um cliente antigo"],
-    ["Ninguém viu o documento", "nem RG, nem comprovante de endereço"],
-    ["Indicação roda há anos", "sem ninguém conferir de novo"],
-    ["Deu problema, e aí?", "não tem com quem reclamar"]
+    [
+     "Indicação não é referência",
+     "ninguém ligou pra um cliente antigo"
+    ],
+    [
+     "Ninguém viu o documento",
+     "nem RG, nem comprovante de endereço"
+    ],
+    [
+     "Indicação roda há anos",
+     "sem ninguém conferir de novo"
+    ],
+    [
+     "Deu problema, e aí?",
+     "não tem com quem reclamar"
+    ]
    ]
   },
   {
@@ -26,8 +43,9 @@
    "pre": "Comenta",
    "word": "DIARISTA",
    "sub": "que eu te mando o que pedir antes, no direct",
-   "dur": 3.4
+   "dur": 4.0
   }
  ],
- "music_vol": 0.45
+ "music_vol": 0.45,
+ "voice": "../audio/08_voz.mp3"
 }
