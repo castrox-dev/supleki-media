@@ -28,19 +28,22 @@ Primary site: https://limpaki.com.br (app: https://webapp.limpaki.com.br)
 4. Achar diarista no grupo do condomínio/indicação e dar errado.
 
 ## 5. Competitive landscape
-| Alternative | Type | Why prospects consider it |
-| --- | --- | --- |
-| Indicação de amigo / grupo do condomínio / WhatsApp | status quo | grátis, "alguém conhece" |
-| Parafuzo | direct | app de diarista conhecido (citado pelo usuário, 19/10) |
-| Mary Help | direct | rede de franquias de diaristas (citado pelo usuário, 19/10) |
-| Maria Brasileira | direct | rede de franquias de limpeza (citado pelo usuário, 19/10) |
-| GetNinjas e afins (classificados de serviço) | indirect | muitas opções, orçamento rápido |
-| Fazer a faxina sozinho | status quo | não gasta nada |
+Pesquisa feita em 19/10/2026 (fontes públicas; dados de concorrente podem estar desatualizados — não citar números deles em post sem conferir de novo).
+
+| Alternative | Type | O que se sabe | Fonte |
+| --- | --- | --- | --- |
+| Parafuzo | direct (app) | Atua em SP, RJ e outras cidades. Preço só por orçamento no site/app (varia por local, tipo, extras, frequência). Profissionais "selecionadas com cuidado, levando em consideração sua experiência, habilidades e referências"; na véspera o cliente recebe nome e RG da profissional. Clientes avaliam. Cobra só depois do serviço (cartão, Pix ou dinheiro). Desconto na 1ª faxina e em assinatura. Google 4,8 com 15 mil+ avaliações. Reclame Aqui 8,1 ("Ótima"), 1.529 reclamações, 82,5% resolvidas; temas: reparos/limpeza, problemas gerais, qualidade do serviço. | parafuzo.com/faxina-sao-paulo; reclameaqui.com.br (19/10/2026) |
+| Mary Help | direct (franquia) | Rede de franquias de diaristas e mensalistas; "rigorosa seleção", treinamento, documentos checados, substituição se a profissional faltar. 70+ franquias no fim de 2017. Diz que a profissional fica com 55–70% do valor; reportagem de 2022 achou caso de R$ 55 de R$ 152 (~36%), contestado pela empresa. | portaldofranchising.com.br (2018); Intercept Brasil (12/05/2022) |
+| Maria Brasileira | direct (franquia) | 520+ unidades em todos os estados; expansão focada em cidades de até 50 mil habitantes no Norte, Nordeste e Centro-Oeste. Faz residencial, empresarial, pós-obra, passadoria, vidros. Preço e seleção não divulgados publicamente. | PR Maria Brasileira, ABF Expo 2026 |
+| GetNinjas e afins | indirect | classificados de serviço; diz que 100% do valor vai pro profissional (é canal de anúncio) | Intercept Brasil (2022) |
+| Indicação / grupo do condomínio / WhatsApp | status quo | grátis, "alguém conhece" | — |
+| Fazer a faxina sozinho | status quo | não gasta nada | — |
 
 ## 6. Differentiation
-- vs indicação/grupo do condomínio: diarista com documento, comprovante de residência e selfie verificados, avaliada por outros clientes, preço combinado antes e pagamento pelo app. (usuário, 18/10)
-- vs Parafuzo / Mary Help / Maria Brasileira: *(unverified — usuário não sabe ainda; pesquisar com competitor-intel antes de comparar em público)*
-- Only-we claim: NENHUMA confirmada. Candidata: selfie refeita a cada 15 dias — usuário não sabe se concorrentes fazem (19/10). Não dizer "só a gente faz" até pesquisar; pode dizer "a cada 15 dias a diarista prova que é ela mesma".
+- vs indicação/grupo do condomínio: diarista com documento, comprovante de residência, e-mail e selfie verificados; preço combinado antes; pagamento pelo app; avaliação depois de cada serviço. (usuário, 18/10)
+- vs Parafuzo: verificação mais explícita e contínua (selfie a cada 15 dias + comprovante de residência, contra "experiência e referências" + nome/RG na véspera, segundo o site deles). Ponto fraco nosso: eles têm 15 mil+ avaliações no Google; nós temos zero clientes. Não competir em prova social; competir em transparência da verificação.
+- vs Mary Help / Maria Brasileira (franquias): no Limpaki a diarista fica com 82% (comissão de 18%), contra 55–70% declarado pela Mary Help. Bom argumento pro lado diarista e pra "preço justo"; pro cliente, o ganho é escolher a diarista direto, com preço na tela antes de confirmar.
+- Only-we claim: NENHUMA confirmada. Candidata: selfie refeita a cada 15 dias — nenhum dos três divulga algo parecido nas fontes vistas em 19/10, mas isso não prova que não fazem. Usar "a cada 15 dias a diarista prova que é ela mesma", sem "só a gente".
 
 ## 7. Objections & switching
 - Hipótese do usuário (19/10): medo por ser algo novo / marca desconhecida. Resposta honesta: verificações reais (documento, comprovante de residência, e-mail, selfie a cada 15 dias), preço combinado antes, pagamento pelo app.
