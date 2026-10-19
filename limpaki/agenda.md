@@ -13,7 +13,7 @@ Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limp
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
 ## Anúncios pagos
-- 19/10/2026 — TikTok Promover (web), vídeo "Faxina padrão" (item 7696457564279573767) — objetivo: visualizações de perfil — público: cidade de São Paulo, 25-54, interesses Serviços de limpeza doméstica / Manutenção doméstica / Produtos domésticos — 12h — R$ 26 com cupom 20% = R$ 20,80 pago pelo usuário — estimativa TikTok 326-1.655 visitas ao perfil — RESULTADO: pendente (pedir print ao usuário)
+- 19/10/2026 — TikTok Promover (web), vídeo "Faxina padrão" (item 7696457564279573767) — objetivo: visualizações de perfil — público: cidade de São Paulo, 25-54, interesses Serviços de limpeza doméstica / Manutenção doméstica / Produtos domésticos — 12h — R$ 26 com cupom 20% = R$ 20,80 pago pelo usuário — estimativa TikTok 326-1.655 visitas ao perfil — pedido 1879434172689730 feito 18/10 21:01, "Em análise" — RESULTADO: pendente (pedir print ao usuário)
 - Conta do TikTok Ads Manager "Ki Company _adv" está com contrato pendente e saldo 0 (mínimo lá ~US$20/dia por grupo); pra valores pequenos usar o Promover em tiktok.com/promote/web/delivery?item_id=<id>
 
 ## Foco atual (16/10/2026): CONQUISTAR CLIENTES
