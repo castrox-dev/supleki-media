@@ -33,11 +33,11 @@ Arco combinado com o usuário em 18/10: educar o cliente sobre o que pedir/checa
 - (exigem filmagem real) 01 antes/depois 4h em 12s; 05 "o que a diarista pensa ao entrar na sua casa"
 
 ## Garantias reais do Limpaki (pode citar a partir do post 09; informadas pelo usuário em 18/10)
-- verificação por selfie, refeita a cada 15 dias (confirmado pelo usuário em 18/10) — destaque forte pro post 16
+- verificação por selfie, refeita a cada 15 dias (confirmado pelo usuário em 18/10) — destaque forte pro post 16; não dizer "só o Limpaki faz" (não sabemos se Parafuzo/Mary Help/Maria Brasileira fazem)
 - documento verificado
 - comprovante de residência verificado
 - e-mail verificado
-- diaristas avaliadas pelos clientes
+- avaliação do cliente depois de cada serviço (ATENÇÃO: ainda zero clientes em 19/10 — não dizer que as diaristas "já são bem avaliadas")
 - preço combinado antes
 - pagamento pelo app com garantia
 

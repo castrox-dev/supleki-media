@@ -8,13 +8,14 @@ Primary site: https://limpaki.com.br (app: https://webapp.limpaki.com.br)
 - What it does: (1) mostra diaristas da região; (2) agenda por hora, diária ou por cômodo, com data, horário e endereço; (3) mostra o preço antes de confirmar; (4) cobra pelo app; (5) cliente e diarista se avaliam depois do serviço. (fonte: site)
 - Category: app de diarista / contratar diarista online / faxina sob demanda.
 - One-liner: "Limpaki é um app para quem precisa de faxina em casa encontrar diarista verificada perto de você, com preço combinado antes e pagamento pelo app."
-- Business model: marketplace (diaristas definem dias, serviços e preço; cadastro grátis para cliente e diarista). Taxa/comissão: *(unverified — needs input)*
+- Business model: marketplace (diaristas definem dias, serviços e preço; cadastro grátis para cliente e diarista). Comissão: 18% sobre o valor da diarista (usuário, 19/10/2026).
 
 ## 2. Target audience / ICP
 - Ideal customer: pessoa de cidade grande (foco atual: São Paulo) que precisa de faxina em casa e tem medo de colocar uma desconhecida dentro de casa. (fonte: usuário, agenda 16/10)
 - Buying trigger: *(unverified — needs input; hipóteses a validar: diarista antiga sumiu/cancelou, mudança, falta de tempo, visita chegando)*
 - NOT for: *(unverified — needs input; ex.: quem quer empregada mensalista com carteira?)*
 - Lado oferta: 200+ diaristas cadastradas (usuário, out/2026) — não é o foco da comunicação agora.
+- Situação atual: ainda SEM clientes (usuário, 19/10/2026). Todo o esforço é trazer os primeiros.
 
 ## 3. Personas
 *(unverified — needs input; nenhuma persona confirmada pelo usuário ainda)*
@@ -30,20 +31,23 @@ Primary site: https://limpaki.com.br (app: https://webapp.limpaki.com.br)
 | Alternative | Type | Why prospects consider it |
 | --- | --- | --- |
 | Indicação de amigo / grupo do condomínio / WhatsApp | status quo | grátis, "alguém conhece" |
-| Outros apps de diarista | direct | *(unverified — needs input: quais concorrentes vocês veem?)* |
+| Parafuzo | direct | app de diarista conhecido (citado pelo usuário, 19/10) |
+| Mary Help | direct | rede de franquias de diaristas (citado pelo usuário, 19/10) |
+| Maria Brasileira | direct | rede de franquias de limpeza (citado pelo usuário, 19/10) |
 | GetNinjas e afins (classificados de serviço) | indirect | muitas opções, orçamento rápido |
 | Fazer a faxina sozinho | status quo | não gasta nada |
 
 ## 6. Differentiation
 - vs indicação/grupo do condomínio: diarista com documento, comprovante de residência e selfie verificados, avaliada por outros clientes, preço combinado antes e pagamento pelo app. (usuário, 18/10)
-- vs outros apps: *(unverified — needs input)*
-- Only-we claim (candidata, CONFIRMAR que nenhum concorrente faz): verificação por selfie refeita a cada 15 dias.
+- vs Parafuzo / Mary Help / Maria Brasileira: *(unverified — usuário não sabe ainda; pesquisar com competitor-intel antes de comparar em público)*
+- Only-we claim: NENHUMA confirmada. Candidata: selfie refeita a cada 15 dias — usuário não sabe se concorrentes fazem (19/10). Não dizer "só a gente faz" até pesquisar; pode dizer "a cada 15 dias a diarista prova que é ela mesma".
 
 ## 7. Objections & switching
-*(unverified — needs input: por que um cliente bom desiste? preço? taxa? medo de app?)*
+- Hipótese do usuário (19/10): medo por ser algo novo / marca desconhecida. Resposta honesta: verificações reais (documento, comprovante de residência, e-mail, selfie a cada 15 dias), preço combinado antes, pagamento pelo app.
+- Sem dados reais de desistência ainda (zero clientes).
 
 ## 8. Customer language (verbatim — do not paraphrase)
-*(unverified — needs input: nenhum depoimento ou comentário de cliente coletado ainda. Fonte possível: comentários e DMs do ManyChat (SINAIS, CHECKLIST, GUIA) e avaliações no app.)*
+*(vazio: ainda não há clientes nem depoimentos — usuário, 19/10/2026. Coletar dos comentários/DMs do ManyChat e das primeiras avaliações. NUNCA inventar depoimento.)*
 
 ## 9. Brand voice
 - Tone: prático, direto, com pitada opinativa; fala como uma pessoa que já contratou diarista, não como empresa.
@@ -57,10 +61,11 @@ Primary site: https://limpaki.com.br (app: https://webapp.limpaki.com.br)
 - 200+ diaristas cadastradas (usuário, out/2026)
 - Verificação: documento, comprovante de residência, e-mail e selfie refeita a cada 15 dias (usuário, 18/10/2026)
 - Avaliação mútua cliente/diarista após cada serviço; pagamento pelo app; cadastro grátis (site, out/2026)
-- Número de clientes, nota média, cidades com diaristas ativas: *(unverified — needs input)*
+- Clientes: zero (19/10/2026) → NÃO usar prova social de clientes ("milhares de clientes", "bem avaliadas por clientes", nota média). Pode dizer que existe avaliação depois de cada serviço.
+- Nota média e cidades com diaristas ativas: *(unverified — needs input)*
 
 ## 11. Goals & current focus
-- Now (out/2026): conquistar CLIENTES (quem contrata diarista). Oferta de diaristas resolvida.
+- Now (out/2026): conseguir os PRIMEIROS clientes (hoje zero). Oferta de diaristas resolvida (200+).
 - Priority channels: Instagram @limpakibrasil (Reels animados + carrosséis + Stories), TikTok; mecânica "comenta a PALAVRA" + ManyChat; primeiro teste pago: TikTok Promover R$ 20,80 (19/10).
 - Explicitly not doing: posts pra diaristas por enquanto; citar o app antes do fim do arco educativo.
 
