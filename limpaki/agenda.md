@@ -12,6 +12,10 @@ Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limp
 - 17/10/2026 — Reel 03 "Se a sua diarista faz isso, segura ela" (com narração ElevenLabs, 35s) — IG media id 18390411592230884 — Story 03 media id 18129057031694248 — TikTok: publicado 17/10 11:02 (em análise no momento da publicação) — isca: página /sinais + fluxo ManyChat "SINAIS"
 - 16/10/2026 — Reel 02 "Quanto custa uma diarista em SP em 2026" — IG media id 18109389203615053 — Story 02 media id 17921195265446875 — TikTok: pendente (usuário sobe manualmente)
 
+## Anúncios pagos
+- 19/10/2026 — TikTok Promover (web), vídeo "Faxina padrão" (item 7696457564279573767) — objetivo: visualizações de perfil — público: cidade de São Paulo, 25-54, interesses Serviços de limpeza doméstica / Manutenção doméstica / Produtos domésticos — 12h — R$ 26 com cupom 20% = R$ 20,80 pago pelo usuário — estimativa TikTok 326-1.655 visitas ao perfil — RESULTADO: pendente (pedir print ao usuário)
+- Conta do TikTok Ads Manager "Ki Company _adv" está com contrato pendente e saldo 0 (mínimo lá ~US$20/dia por grupo); pra valores pequenos usar o Promover em tiktok.com/promote/web/delivery?item_id=<id>
+
 ## Foco atual (16/10/2026): CONQUISTAR CLIENTES
 Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala com quem CONTRATA: pessoa de cidade grande que precisa de faxina e tem medo de trazer desconhecido pra casa. Posts "pra diaristas" ficam pra depois.
 
