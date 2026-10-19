@@ -1,0 +1,27 @@
+=== MANYCHAT — automação "DIARISTA" (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+POST: Reel 08 "Pedir diarista no grupo do condomínio dá errado"
+GATILHO: comentário no Reel 08 contendo: diarista, diarísta, lista
+(ATENÇÃO: a palavra é comum; deixar o gatilho só nesse post, não "em todos os posts")
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Quero a lista"):
+Oi! Vi seu comentário no vídeo da diarista do grupo do condomínio 😊
+Clica aqui embaixo que eu te mando o que pedir antes de deixar ela entrar.
+
+DM 2 (lista + botões):
+Indicaram uma diarista no grupo? Antes de deixar ela entrar, pede isso 👇
+
+1️⃣ Pergunta a quem indicou: ela já trabalhou NA SUA casa? (muita indicação é de ouvir falar)
+2️⃣ 1 referência que você possa ligar (cliente antigo, não só mensagem)
+3️⃣ Foto do RG ou CNH antes do 1º dia, com ela sabendo
+4️⃣ Comprovante de endereço (conta de luz ou água recente)
+5️⃣ Certidão de antecedentes: grátis no gov.br, só com nome, CPF e data de nascimento
+6️⃣ Preço, horário e o que entra, por escrito (WhatsApp vale)
+7️⃣ No 1º dia, fica em casa e mostra onde pode mexer
+8️⃣ Indicação antiga? Confere de novo, como se fosse a primeira vez
+
+Quer pular essa parte? No Limpaki a diarista já chega com documento, comprovante de endereço e e-mail verificados, preço combinado antes e pagamento pelo app 👇
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=diarista
+[BOTÃO] Lista pra salvar → https://limpaki.com.br/diarista

@@ -55,7 +55,10 @@ def main(hook, sub, out, cover=None):
     # capa do post como "card" inclinado
     if cover:
         c = Image.open(cover).convert("RGB")
-        c = c.resize((500, int(500 * c.height / c.width)))
+        # encolhe a capa quando o hook ocupa muitas linhas, pra linha de apoio caber
+        max_h = H - 300 - (y + 60)
+        cw = max(300, min(500, int(max_h * c.width / c.height / 1.1)))
+        c = c.resize((cw, int(cw * c.height / c.width)))
         mask = Image.new("L", c.size, 0)
         ImageDraw.Draw(mask).rounded_rectangle((0, 0, c.width, c.height), 40, fill=255)
         card = Image.new("RGBA", (c.width + 60, c.height + 60), (0, 0, 0, 0))
