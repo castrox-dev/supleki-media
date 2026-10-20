@@ -5,6 +5,7 @@ Um post por dia. Estilo: prático com pitada opinativa. Linguagem: diarista, fax
 Gerador: limpaki/tools/make_reel.py (spec JSON em limpaki/specs/, saída em limpaki/reels/). Carrossel: limpaki/tools/make_carousel.py spec.json carrosseis/ prefixo (slides 1080x1350).
 
 ## Publicados
+- 20/10/2026 (tarde) — Carrossel 15 "O que pedir antes de deixar uma diarista entrar na sua casa" (6 slides, sem narração; specs/15_documentos.json, carrosseis/15_documentos_01..06.jpg) — IG media id 18181319476441754 — Story 15 media id 18154608238550847 (stories/15_story.jpg) — TikTok: não (carrossel) — isca: palavra DOCUMENTOS, página site/documentos.html (falta copiar pra public/ do limpae e push; pasta não estava conectada) + fluxo iscas/15_manychat.txt (AINDA NÃO criado no ManyChat: duplicar o CHECKLIST do post 10; responder comentários no direct manualmente até lá) — fontes na legenda: Serasa 2025 (32% perfil falso) e IBGE PNAD 4º tri 2025 (76% sem carteira, 5,6 mi)
 - 20/10/2026 (manhã) — stories manhã (sem post de feed): Story 1 "Dica rápida: diarista nova? Fica em casa na primeira faxina" media id 18091274213238117 — Story 2 "Ainda não viu? Comenta DIARISTA" (frame do Reel 08 recortado 4:5, lembrete DIARISTA) media id 17908198026329280 — arquivos stories/2026-10-20_manha_1.jpg e _2.jpg — ATENÇÃO: fluxo DIARISTA ainda não existe no ManyChat; responder comentários do Reel 08 no direct manualmente (make_story.py: capa 9:16 estoura o layout, recortar pra 4:5 antes)
 - 19/10/2026 (tarde) — Reel 08 "Pedir diarista no grupo do condomínio dá errado" (animado v2, narração Roberta 23 s, mp3 baixado do ElevenLabs pelo navegador do app porque a API fica bloqueada no container) — IG media id 17997842163045382 — Story 08 media id 17978917839131584 — TikTok: publicado 19/10 (Claude in Chrome, file_upload no input type=file ref do TikTok Studio; "Conteúdo sob análise", privacidade aparecia "Somente eu" durante a análise — CONFERIR se virou "Todos") — isca: palavra DIARISTA, página site/diarista.html (falta copiar pra public/ do limpae e push) + fluxo iscas/08_manychat.txt (AINDA NÃO criado no ManyChat: criar com gatilho só nesse Reel; responder comentários já!) — legenda cita o caso de BH (O Tempo, 14/07/2026) como "investigada"
 - 19/10/2026 (manhã) — stories manhã (sem post de feed): Story 1 "Pergunta rápida: qual parte da casa você mais odeia limpar? Me conta no direct" media id 18157718155513870 — Story 2 "Ainda não viu? Comenta GUIA lá no Reel" (frame do Reel 12, lembrete GUIA) media id 18105711239202770 — arquivos stories/2026-10-19_manha_1.jpg e _2.jpg — ATENÇÃO: Story 1 promete resposta no direct; responder as DMs do dia
@@ -24,8 +25,6 @@ Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala 
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
 Arco combinado com o usuário em 18/10: educar o cliente sobre o que pedir/checar numa diarista (sem marca) e, alguns dias depois, mostrar que o Limpaki JÁ FAZ essas checagens por ele.
-- 08 — "Pedir diarista no grupo do condomínio: por que dá errado" — dor, SEM citar o app — palavra DIARISTA
-- 15 — "O que pedir antes de deixar uma diarista entrar na sua casa" — documento com foto, comprovante de residência, selfie conferindo com o documento, contato que responde (e-mail/telefone), avaliação de outros clientes — educativo, SEM marca — palavra DOCUMENTOS (CARROSSEL ou reel animado)
 - 13 — "Diarista cancelou em cima da hora: o que fazer" — dor + objetivo: comentário
 - 09 — "Como eu acho diarista de confiança hoje" — primeira menção ao Limpaki, de passagem
 - 16 — "Tudo isso que eu te ensinei a checar, o Limpaki já checa" — retoma 12 (GUIA) e 15: selfie refeita a cada 15 dias, documento, comprovante de residência, e-mail verificado, avaliação dos clientes, preço combinado antes, pagamento pelo app — conversão, CTA pro site
@@ -53,7 +52,7 @@ COMO USAR NO LIMPAKI (sem copiar o nicho deles):
 - Legenda termina com: "Comenta FAXINA que eu te mando a tabela completa no direct." (palavra sempre em caixa alta, 1 palavra, fácil de digitar).
 - DM de resposta (manual nos primeiros dias; o usuário responde ou o Claude redige): entrega a isca + 1 linha "se quiser, no Limpaki você pede uma diarista avaliada e com documento verificado, preço combinado antes: limpaki.com.br". Sem pressão.
 - Responder TODO comentário em até 1 h (puxa o teste do algoritmo) e mandar a isca no mesmo dia.
-- Palavras por post: 02 preços → "TABELA"; 03 segura ela → "SINAIS"; 10 faxina padrão → "CHECKLIST"; 12 confiar → "GUIA"; 08 condomínio → "DIARISTA".
+- Palavras por post: 02 preços → "TABELA"; 03 segura ela → "SINAIS"; 10 faxina padrão → "CHECKLIST"; 12 confiar → "GUIA"; 08 condomínio → "DIARISTA"; 15 pedir antes → "DOCUMENTOS".
 - Não prometer "mando pro seu direct" se a isca não existir: gerar o PDF/imagem ANTES de publicar o post.
 
 ## Regras de formato
