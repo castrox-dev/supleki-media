@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {"type": "hook", "title": "O que pedir antes de deixar uma diarista entrar na sua casa", "sub": "5 coisas, 2 minutos de conversa"},
+    {"type": "list", "label": "PEDE ISSO ANTES DO 1º DIA", "icon": "check", "items": [
+      ["Documento com foto", "RG ou CNH, foto frente e verso"],
+      ["Selfie segurando o documento", "o rosto tem que bater com o perfil"],
+      ["Comprovante de residência", "conta de luz ou água, recente"],
+      ["Telefone e e-mail que respondem", "liga uma vez antes de fechar"],
+      ["Quem já contratou ela", "1 cliente antigo que você possa ligar"]
+    ], "foot": "Salva. Vale pra qualquer diarista nova."},
+    {"type": "text", "label": "POR QUE A SELFIE", "title": "Foto de perfil não prova nada.", "sub": "Em 2025, 32% dos golpes nas redes usaram perfil falso: a foto é de uma pessoa, quem aparece é outra. Selfie com o documento na mão fecha essa porta. (Serasa, 2025)"},
+    {"type": "text", "label": "POR QUE O RESTO", "title": "76% das diaristas trabalham sem registro.", "sub": "São 5,6 milhões de pessoas no trabalho doméstico. Sem carteira, ninguém conferiu documento nem endereço antes de você. (IBGE, PNAD 4º tri 2025)"},
+    {"type": "text", "label": "COMO PEDIR SEM CLIMA RUIM", "title": "\"É padrão meu, peço pra todo mundo.\"", "sub": "Quem é séria não se incomoda. E manda os seus dados também: nome completo e endereço. Confiança é dos dois lados."},
+    {"type": "cta", "title": "Comenta DOCUMENTOS", "sub": "que eu te mando no direct a lista pronta pra copiar e mandar pra diarista", "save": "Salva pra não perder"}
+  ]
+}

@@ -1,0 +1,26 @@
+=== MANYCHAT — automação "DOCUMENTOS" (duplicar "CHECKLIST - carrossel faxina padrão (post 10)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no carrossel 15 contendo: documentos, documento, lista
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Quero a lista"):
+Oi! Vi seu comentário no post sobre o que pedir pra diarista nova 😊
+Clica aqui embaixo que eu te mando a lista pronta pra copiar.
+
+DM 2 (lista + mensagem pronta + botões):
+Pede isso antes do 1º dia 👇
+
+1️⃣ Documento com foto (RG ou CNH, frente e verso)
+2️⃣ Selfie segurando o documento: o rosto tem que bater com o perfil
+3️⃣ Comprovante de residência (conta de luz ou água, recente)
+4️⃣ Telefone e e-mail que respondem: liga uma vez antes de fechar
+5️⃣ Contato de 1 cliente antiga que você possa ligar
+➕ Extra: certidão de antecedentes, de graça no gov.br, vale 90 dias
+
+Mensagem pronta pra mandar pra ela:
+"Oi! Antes de combinar o primeiro dia, eu peço isso pra toda diarista nova, é padrão meu: foto do RG ou CNH (frente e verso), uma selfie segurando o documento, um comprovante de residência e o contato de 1 cliente antiga. Te mando os meus dados também: meu nome completo e o endereço. Combinado?"
+
+Quer pular essa parte? No Limpaki a diarista já vem com documento, comprovante de residência e selfie verificados, e o preço combinado antes 👇
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=documentos
+[BOTÃO] Lista pra salvar → https://limpaki.com.br/documentos
