@@ -1,6 +1,6 @@
 {
   "voice": "../audio/13_voz.mp3",
-  "clip_volume": 0.2,
+  "clip_volume": 0,
   "clips": [
     {"src": "../brutos/13_cena1_ana_cancelou.mp4", "dur": 8,
      "caps": [{"t": 0.0, "end": 8.0, "text": "A diarista cancelou em cima da hora", "big": true}]},
