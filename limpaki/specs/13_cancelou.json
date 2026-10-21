@@ -3,14 +3,15 @@
   "clip_volume": 0,
   "clips": [
     {"src": "../brutos/13_cena1_ana_cancelou.mp4", "dur": 8,
-     "caps": [{"t": 0.0, "end": 8.0, "text": "A diarista cancelou em cima da hora", "big": true}]},
+     "caps": [{"t": 0.0, "end": 8.0, "text": "A diarista cancelou em cima da hora", "big": true},
+              {"t": 4.9, "end": 8.0, "text": "3 coisas pra isso não te pegar de novo"}]},
     {"src": "../brutos/13_cena2_popo.mp4", "dur": 8,
-     "caps": [{"t": 0.0, "end": 2.6, "text": "3 coisas pra isso não te pegar de novo"},
-              {"t": 2.6, "end": 4.4, "text": "1. Confirma na véspera"},
-              {"t": 4.4, "end": 6.2, "text": "2. Tenha uma 2ª diarista na agenda"},
-              {"t": 6.2, "end": 8.0, "text": "3. Combina o aviso mínimo pra cancelar"}]},
-    {"src": "../brutos/13_cena3_ju_chega.mp4", "dur": 8,
-     "caps": [{"t": 0.0, "end": 8.0, "text": "Se der ruim, você já sabe quem chamar"}]}
+     "caps": [{"t": 0.2, "end": 3.2, "text": "1. Confirma na véspera, por mensagem"},
+              {"t": 3.2, "end": 6.9, "text": "2. Tenha uma 2ª diarista na agenda"},
+              {"t": 6.9, "end": 8.0, "text": "3. Combina o aviso mínimo pra cancelar"}]},
+    {"src": "../brutos/13_cena3_ju_chega.mp4", "start": 2.6, "dur": 5.4,
+     "caps": [{"t": 0.0, "end": 2.2, "text": "3. Combina o aviso mínimo pra cancelar"},
+              {"t": 2.2, "end": 5.4, "text": "Se der ruim, você já sabe quem chamar"}]}
   ],
-  "end": {"pre": "Comenta", "word": "PLANO", "sub": "que eu te mando o meu plano B no direct", "dur": 2.5}
+  "end": {"pre": "Comenta", "word": "PLANO", "sub": "que eu te mando o meu plano B no direct", "dur": 3.6}
 }

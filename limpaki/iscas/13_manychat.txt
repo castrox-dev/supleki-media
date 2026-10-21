@@ -1,0 +1,24 @@
+=== MANYCHAT — automação "PLANO" (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no Reel 13 contendo: plano, plano b, planob
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Quero o plano B"):
+Oi! Vi seu comentário no vídeo da diarista que cancelou 😅
+Clica aqui embaixo que eu te mando o meu plano B.
+
+DM 2 (lista + mensagem pronta + botões):
+Plano B pra diarista que cancela 👇
+
+1️⃣ Confirma na véspera por mensagem. Não respondeu até a noite? Já aciona o plano B.
+2️⃣ Tenha uma 2ª diarista na agenda: faz uma faxina de teste antes de precisar.
+3️⃣ Combina antes o aviso mínimo pra cancelar (ex.: 24 horas).
+4️⃣ Deixa uma lista do que entra na faxina e onde ficam os produtos: quem vier no lugar já sabe o que fazer.
+
+Mensagem pronta pra mandar pra diarista:
+"Oi! Pra gente se organizar: eu te mando uma mensagem na véspera pra confirmar, tá? E se precisar cancelar, me avisa com pelo menos 24 horas, porque aí consigo chamar outra pessoa. Combinado?"
+
+Precisa de alguém hoje? No Limpaki você vê diaristas perto de você, com documento e selfie verificados, e o preço combinado antes 👇
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=plano
+[BOTÃO] Plano B pra salvar → https://limpaki.com.br/plano
