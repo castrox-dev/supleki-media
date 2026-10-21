@@ -27,6 +27,7 @@ Oferta de diaristas já está resolvida (200+ cadastradas). Todo conteúdo fala 
 
 ## Fila (nesta ordem; pular os que exigem filmagem real até o usuário mandar vídeo bruto)
 Arco combinado com o usuário em 18/10: educar o cliente sobre o que pedir/checar numa diarista (sem marca) e, alguns dias depois, mostrar que o Limpaki JÁ FAZ essas checagens por ele.
+- 17 — "Nem 13, nem 22: vote Popó" (paródia de propaganda eleitoral; 2º turno é domingo 25/10) — PRONTO, pedido pelo usuário em 21/10 pra sair na TARDE DE 22/10 no lugar do 09: reels/17_popo2026.mp4 (25,6 s, narração Roberta sincronizada, trilha baixa; versão TikTok reels/17_popo2026_tiktok.mp4 4,5 MB), capa reels/17_popo2026_cover.jpg, story stories/17_story.jpg, legenda iscas/17_legenda.txt, isca POPÓ: site/popo.html + iscas/17_manychat.txt (inclui regra de moderação: esconder comentário sobre candidato real). REGRAS: só números 13/22, NUNCA nome de candidato/partido; CTA = comentar POPÓ + compartilhar. Bônus domingo à noite: Story "Popó eleito com 100% dos votos" com enquete Popó/Popó.
 - 09 — "Como eu acho diarista de confiança hoje" — primeira menção ao Limpaki, de passagem
 - 16 — "Tudo isso que eu te ensinei a checar, o Limpaki já checa" — retoma 12 (GUIA) e 15: selfie refeita a cada 15 dias, documento, comprovante de residência, e-mail verificado, avaliação dos clientes, preço combinado antes, pagamento pelo app — conversão, CTA pro site
 - 11 — Popó: "o que a gente faz de diferente" — conversão em seguidor/cliente (só com base aquecida)

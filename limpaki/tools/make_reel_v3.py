@@ -9,7 +9,8 @@ Spec:
   "clip_volume": 0.25,                    (som ambiente dos clipes)
   "clips": [
     {"src": "../brutos/13_cena1.mp4", "start": 0, "dur": 8,
-     "caps": [{"t": 0.0, "end": 4.5, "text": "Sábado de manhã...", "big": true}]}
+     "caps": [{"t": 0.0, "end": 4.5, "text": "Sábado de manhã...", "big": true}],
+     "overlays": [{"png": "../iscas/17_moldura.png", "t": 0, "end": 99}]}   (opcional: PNG 1080x1920 por cima)
   ],
   "voice_segments": [{"from": 0, "to": 4.5, "at": 0, "tempo": 1.0}],   (opcional: corta a narração em frases e põe cada uma no segundo certo do vídeo final)
   "end": {"pre": "Comenta", "word": "PLANO", "sub": "que eu te mando o plano B no direct", "dur": 3.0}
@@ -93,6 +94,11 @@ def main(spec_path, out):
             inputs += ["-i", png]
             flt += f";[{last}][{j+1}:v]overlay=0:0:enable='between(t,{cap['t']},{cap['end']})'[v{j+1}]"
             last = f"v{j+1}"
+        for ov in c.get("overlays", []):  # PNGs prontos (ex.: moldura de campanha), mesma regra de t/end
+            inputs += ["-i", P(ov["png"])]
+            idx = (len(inputs) - 6) // 2  # o 1º input (vídeo) ocupa 6 itens; cada png, 2
+            flt += f";[{last}][{idx}:v]overlay=0:0:enable='between(t,{ov.get('t', 0)},{ov.get('end', 999)})'[o{idx}]"
+            last = f"o{idx}"
         seg = f"{tmp}/s{i}.mp4"
         vol = spec.get("clip_volume", 0.25)
         run(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", flt + f";[0:a]volume={vol},aresample=44100,apad[a]",

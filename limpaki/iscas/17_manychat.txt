@@ -1,0 +1,29 @@
+=== MANYCHAT — automação "POPÓ" (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no Reel 17 contendo: popó, popo, popô, plano
+
+RESPOSTA PÚBLICA (alternar): "Popó agradece o voto 🧹 Mandei no direct" / "Voto computado! Tá no seu direct 📩" / "Enviei o plano de governo no direct 📩"
+
+DM 1 (boas-vindas + botão "Quero o plano de governo"):
+Oi! Popó agradece o voto 🧹😄
+Clica aqui embaixo que eu te mando o plano de governo (que na real é a lista do que combinar com a diarista antes da faxina).
+
+DM 2 (lista + botões):
+Plano de governo do Popó 2026 👇
+
+1️⃣ Faxina geral em todas as casas = o que a faxina padrão inclui: chão de todos os cômodos, banheiro completo, cozinha por fora, cama arrumada e lixo recolhido.
+2️⃣ Fim da poeira atrás do sofá = pó dos móveis e prateleiras, vidro e espelho por dentro. Atrás do sofá, só se você pedir antes.
+3️⃣ Sábado livre pra todo brasileiro = o que é extra e se combina à parte: roupa, geladeira e armário por dentro, vidro alto, área externa, pós-obra.
+4️⃣ Preço combinado antes, sem susto = fecha o valor e a lista por mensagem antes do dia.
+
+Mensagem pronta pra mandar pra diarista:
+"Oi! Pra gente alinhar antes do dia: a faxina é chão, banheiro, cozinha por fora, pó dos móveis, cama e lixo. Roupa, geladeira e armário por dentro a gente combina à parte, se precisar. O valor fechado é R$ ___, tá bom pra você?"
+
+Quer votar de verdade? No Limpaki você vê diaristas perto de você, com documento e selfie verificados, e o preço combinado antes 👇
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=popo
+[BOTÃO] Plano de governo pra salvar → https://limpaki.com.br/popo
+
+=== MODERAÇÃO (post de eleição) ===
+- Comentário atacando ou defendendo candidato/partido real: ESCONDER (hide_comment pelo conector), sem responder.
+- Comentário na zoeira ("Popó 2026!", "meu voto é do Popó"): responder na brincadeira ("Voto computado 🧹").
+- Nunca responder com opinião sobre a eleição real. O Popó é candidato da faxina, só isso.
