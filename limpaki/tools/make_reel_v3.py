@@ -11,6 +11,7 @@ Spec:
     {"src": "../brutos/13_cena1.mp4", "start": 0, "dur": 8,
      "caps": [{"t": 0.0, "end": 4.5, "text": "Sábado de manhã...", "big": true}]}
   ],
+  "voice_segments": [{"from": 0, "to": 4.5, "at": 0, "tempo": 1.0}],   (opcional: corta a narração em frases e põe cada uma no segundo certo do vídeo final)
   "end": {"pre": "Comenta", "word": "PLANO", "sub": "que eu te mando o plano B no direct", "dur": 3.0}
 }
 Legendas: caixa branca com texto escuro (Inter), "big" = hook em cima.
@@ -83,7 +84,9 @@ def main(spec_path, out):
     segs = []
     for i, c in enumerate(spec["clips"]):
         inputs = ["-ss", str(c.get("start", 0)), "-t", str(c["dur"]), "-i", P(c["src"])]
-        flt = f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,fps=30[v0]"
+        sp = c.get("speed", 1.0); hold = c.get("hold", 0)
+        flt = (f"[0:v]setpts=PTS/{sp},scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,fps=30"
+               + (f",tpad=stop_mode=clone:stop_duration={hold}" if hold else "") + "[v0]")
         last = "v0"
         for j, cap in enumerate(c.get("caps", [])):
             png = f"{tmp}/c{i}_{j}.png"; caption_png(cap["text"], cap.get("big"), png)
@@ -92,9 +95,9 @@ def main(spec_path, out):
             last = f"v{j+1}"
         seg = f"{tmp}/s{i}.mp4"
         vol = spec.get("clip_volume", 0.25)
-        run(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", flt + f";[0:a]volume={vol},aresample=44100[a]",
+        run(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", flt + f";[0:a]volume={vol},aresample=44100,apad[a]",
              "-map", f"[{last}]", "-map", "[a]", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
-             "-c:a", "aac", "-ar", "44100", "-ac", "2", seg])
+             "-c:a", "aac", "-ar", "44100", "-ac", "2", "-t", str(c["dur"] / sp + hold), seg])
         segs.append(seg)
     if spec.get("end"):
         e = spec["end"]; png = f"{tmp}/end.jpg"; end_card(e, png); seg = f"{tmp}/end.mp4"
@@ -106,8 +109,34 @@ def main(spec_path, out):
     joined = f"{tmp}/j.mp4"
     run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-c:v", "libx264", "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "aac", joined])
     if spec.get("voice"):
-        run(["ffmpeg", "-v", "error", "-y", "-i", joined, "-i", P(spec["voice"]), "-filter_complex",
-             "[1:a]volume=1.6,apad[vo];[0:a][vo]amix=inputs=2:duration=first:normalize=0[a]",
+        vs = spec.get("voice_segments")
+        if vs:
+            parts = []
+            for k, v in enumerate(vs):
+                tempo = v.get("tempo", 1.0)
+                parts.append(f"[1:a]atrim={v['from']}:{v['to']},asetpts=PTS-STARTPTS,atempo={tempo},adelay={int(v['at']*1000)}:all=1[p{k}]")
+            vflt = ";".join(parts) + ";" + "".join(f"[p{k}]" for k in range(len(vs))) + f"amix=inputs={len(vs)}:normalize=0,volume=1.6,apad[vo]"
+        else:
+            vflt = "[1:a]volume=1.6,apad[vo]"
+        extra, mflt = [], ";[0:a][vo]amix=inputs=2:duration=first:normalize=0[a]"
+        if spec.get("music"):
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            import wave, numpy as np
+            from make_reel_v2 import music, SR
+            total = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", joined],
+                                         capture_output=True, text=True).stdout)
+            m = music(total); m = m / max(1e-9, np.max(np.abs(m))) * 0.9
+            mw = f"{tmp}/m.wav"
+            with wave.open(mw, "w") as wf:
+                wf.setnchannels(1); wf.setsampwidth(2); wf.setframerate(SR); wf.writeframes((m * 32767).astype(np.int16).tobytes())
+            extra = ["-i", mw]
+            mv = spec.get("music_vol", 0.12)
+            mflt = (f";[2:a]volume={mv}[mu];[mu][vo]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=300[mud];"
+                    "[0:a][vo][mud]amix=inputs=3:duration=first:normalize=0[a]")
+            vflt = vflt.replace("apad[vo]", "apad,asplit=2[vo][vsc]").replace("[mu][vo]side", "[mu][vsc]side")
+            mflt = mflt.replace("[mu][vo]side", "[mu][vsc]side")
+        run(["ffmpeg", "-v", "error", "-y", "-i", joined, "-i", P(spec["voice"]), *extra, "-filter_complex",
+             vflt + mflt,
              "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", out])
     else:
         run(["ffmpeg", "-v", "error", "-y", "-i", joined, "-c", "copy", "-movflags", "+faststart", out])

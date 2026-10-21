@@ -1,17 +1,104 @@
 {
-  "voice": "../audio/13_voz.mp3",
-  "clip_volume": 0,
-  "clips": [
-    {"src": "../brutos/13_cena1_ana_cancelou.mp4", "dur": 8,
-     "caps": [{"t": 0.0, "end": 8.0, "text": "A diarista cancelou em cima da hora", "big": true},
-              {"t": 4.9, "end": 8.0, "text": "3 coisas pra isso não te pegar de novo"}]},
-    {"src": "../brutos/13_cena2_popo.mp4", "dur": 8,
-     "caps": [{"t": 0.2, "end": 3.2, "text": "1. Confirma na véspera, por mensagem"},
-              {"t": 3.2, "end": 6.9, "text": "2. Tenha uma 2ª diarista na agenda"},
-              {"t": 6.9, "end": 8.0, "text": "3. Combina o aviso mínimo pra cancelar"}]},
-    {"src": "../brutos/13_cena3_ju_chega.mp4", "start": 2.6, "dur": 5.4,
-     "caps": [{"t": 0.0, "end": 2.2, "text": "3. Combina o aviso mínimo pra cancelar"},
-              {"t": 2.2, "end": 5.4, "text": "Se der ruim, você já sabe quem chamar"}]}
-  ],
-  "end": {"pre": "Comenta", "word": "PLANO", "sub": "que eu te mando o meu plano B no direct", "dur": 3.6}
+ "voice": "../audio/13_voz.mp3",
+ "clip_volume": 0,
+ "clips": [
+  {
+   "src": "../brutos/13_cena1_ana_cancelou.mp4",
+   "dur": 8,
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 8.0,
+     "text": "A diarista cancelou em cima da hora",
+     "big": true
+    },
+    {
+     "t": 4.9,
+     "end": 8.0,
+     "text": "3 coisas pra isso não te pegar de novo"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/13_cena2_popo.mp4",
+   "dur": 7,
+   "speed": 0.74,
+   "hold": 1.15,
+   "caps": [
+    {
+     "t": 0.6,
+     "end": 4.05,
+     "text": "1. Confirma na véspera, por mensagem"
+    },
+    {
+     "t": 4.05,
+     "end": 7.4,
+     "text": "2. Tenha uma 2ª diarista na agenda"
+    },
+    {
+     "t": 7.4,
+     "end": 10.6,
+     "text": "3. Combina o aviso mínimo pra cancelar"
+    }
+   ],
+   "start": 1.0
+  },
+  {
+   "src": "../brutos/13_cena3_ju_chega.mp4",
+   "start": 1.5,
+   "dur": 5.0,
+   "caps": [
+    {
+     "t": 0.4,
+     "end": 5.0,
+     "text": "Se der ruim, você já sabe quem chamar"
+    }
+   ]
+  }
+ ],
+ "voice_segments": [
+  {
+   "from": 0.0,
+   "to": 4.5,
+   "at": 0.0
+  },
+  {
+   "from": 4.85,
+   "to": 7.7,
+   "at": 4.9
+  },
+  {
+   "from": 8.15,
+   "to": 10.85,
+   "at": 8.7
+  },
+  {
+   "from": 11.15,
+   "to": 14.4,
+   "at": 12.1
+  },
+  {
+   "from": 14.85,
+   "to": 18.05,
+   "at": 15.4
+  },
+  {
+   "from": 18.2,
+   "to": 20.85,
+   "at": 19.0
+  },
+  {
+   "from": 21.35,
+   "to": 24.8,
+   "at": 23.7
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "PLANO",
+  "sub": "que eu te mando o meu plano B no direct",
+  "dur": 3.8
+ },
+ "music": true,
+ "music_vol": 0.12
 }
