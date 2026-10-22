@@ -1,0 +1,55 @@
+# Splash Piscinas Itaipuaçu — agenda de conteúdo
+
+Perfil: **@splashitaipuacu** (Splash Piscinas | Itaipuaçu). O @splashmaricaitaipuacu não existe mais.
+Responsável: o usuário (social media contratado). Ele aprova pelo celular.
+
+## 1. Fatos da marca (só use o que está aqui ou o que o usuário confirmar)
+- Loja de piscinas de fibra, acessórios e tratamento. Atende Itaipuaçu e região (Maricá). Loja no Barroco, Itaipuaçu.
+- WhatsApp: (21) 98395-4914. Link da bio: linkki.vercel.app/splash
+- Destaques do perfil: Clientes, Instalações, Acessórios, Piscinas.
+- A marca já usa nas artes "a piscina mais premiada do Brasil" e "duto ecológico" — pode repetir como fala da marca, sem inventar prêmio específico.
+- **Promoção Primavera (válida até 03/11/2026):** Tradicional SPA Standard 6 m, de R$ 26.070 por R$ 19.790 à vista, ou entrada de R$ 5.990 + 15x de R$ 1.263. Inclui cascata (3 opções), LED (3 opções), hidromassagem, completa e instalada; brinde: toda a parte hidráulica. Depois de 03/11 NÃO cite esses preços sem o usuário confirmar a nova oferta.
+- Nunca invente preço, prazo, garantia, número de clientes ou depoimento.
+
+## 2. Diagnóstico (22/10/2026, Insights 30 dias)
+- 2.109 seguidores, só 412 contas viram algo; seguidores líquidos +0; 28 interações no mês.
+- Picos só nos dias com post; dias seguidos com zero. Stories (1,9 mil) quase só para seguidores; Reels 679; posts 153.
+- Melhor post: carrossel "5 sinais de que é hora de ter sua piscina" (65 views, 5 curtidas, 1 comentário, 2 repostagens). Flyers de promoção rendem 12–17 views.
+- Conclusão: constância diária, conteúdo útil > promoção, Reels com coisa real, stories espalhados com interação.
+
+## 3. Regras da rotina diária
+- 1 post de feed por dia + 1 Story automático (chamada pro post) + 2 Stories interativos que o USUÁRIO posta à mão (enquete/caixinha/quiz não saem pela API).
+- No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
+- Visual: azul Splash (gerado por tools/), texto grande, 1 ideia por slide. Sem emoji dentro da arte.
+- Legenda: 1ª linha = gancho; corpo curto; CTA "Comenta PISCINA que a gente te manda no direct" OU "chama no WhatsApp (21) 98395-4914"; busca local na legenda (piscina de fibra em Maricá / Itaipuaçu); 4–6 hashtags (#piscinadefibra #itaipuacu #marica #piscina + específicas).
+- Publicar só depois do "publica" do usuário.
+- Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
+
+## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
+01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — pendente
+02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
+03. [reel – exige vídeo real] Instalação do começo ao fim em 30 s (time-lapse) — pendente
+04. [carrossel] 6 perguntas pra fazer antes de comprar piscina — pendente
+05. [promo] Promoção Primavera: SPA Standard 6 m — o que vem incluso (válida até 03/11) — pendente
+06. [carrossel] Quanto espaço precisa no quintal pra cada tamanho de piscina — pendente
+07. [reel texto+voz] 4 erros que fazem a água ficar verde — pendente
+08. [carrossel] Quanto tempo leva da compra ao primeiro mergulho (etapas) — pendente
+09. [reel – exige vídeo real] Cliente estreando a piscina / depoimento — pendente
+10. [carrossel] Cascata, LED e hidromassagem: vale a pena? — pendente
+11. [carrossel] Checklist da semana: manutenção em 10 minutos — pendente
+12. [reel texto+voz] Piscina pequena em quintal pequeno: 4 ideias — pendente
+13. [carrossel] Piscina com criança em casa: 5 cuidados de segurança — pendente
+14. [reel – exige vídeo real] Tour pela loja no Barroco / modelos expostos — pendente
+15. [carrossel] O que é o duto ecológico e por que importa — pendente
+16. [promo] Última chamada da oferta / nova oferta (confirmar com o usuário) — pendente
+17. [carrossel] Mito ou verdade: 5 coisas que falam de piscina de fibra — pendente
+18. [carrossel] Piscina valoriza o imóvel? O que considerar — pendente
+19. [reel texto+voz] Contagem regressiva pro verão: instale antes da correria de dezembro — pendente
+20. [carrossel] Dúvidas que mais chegam no WhatsApp (respondidas) — pendente
+
+## 5. Ideias de Stories interativos (o usuário posta)
+Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "Quantos litros tem uma piscina de 6 m?", caixinha "Pergunta o que quiser sobre piscina", termômetro "Quanta vontade de piscina hoje?", contagem regressiva "Fim da Promoção Primavera 03/11", repost de cliente marcando o perfil, bastidor da loja com "toca pra chamar no WhatsApp" (figurinha de link).
+
+## 6. Diário de publicações
+| data | nº | formato | tema | media id | status |
+|---|---|---|---|---|---|
