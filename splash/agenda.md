@@ -22,7 +22,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
 - Visual: identidade Splash = AZUL + ROSA (azul de fundo, rosa #E6157E nas etiquetas, destaques, botões e faixa inferior; só azul é a iGUi, não usar). Gerado por tools/, texto grande, 1 ideia por slide. Sem emoji dentro da arte.
 - Legenda: 1ª linha = gancho; corpo curto; CTA "Comenta PISCINA que a gente te manda no direct" OU "chama no WhatsApp (21) 98395-4914"; busca local na legenda (piscina de fibra em Maricá / Itaipuaçu); 4–6 hashtags (#piscinadefibra #itaipuacu #marica #piscina + específicas).
-- Publicar só depois do "publica" do usuário.
+- Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar para 19h45 (Meta indica seguidores mais ativos ~20h). Não usar Windsor para a Splash.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
