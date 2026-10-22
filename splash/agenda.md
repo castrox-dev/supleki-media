@@ -18,11 +18,12 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Conclusão: constância diária, conteúdo útil > promoção, Reels com coisa real, stories espalhados com interação.
 
 ## 3. Regras da rotina diária
-- 1 post de feed por dia + 1 Story automático (chamada pro post) + 2 Stories interativos que o USUÁRIO posta à mão (enquete/caixinha/quiz não saem pela API).
+- POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + 2 Stories interativos que o USUÁRIO posta à mão (~10h e ~18h; enquete/caixinha/quiz não saem pela automação).
+- Os 2 posts do dia têm formatos/temas diferentes; no máximo 1 promo por dia e no máximo 2 promos por semana.
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
 - Visual: identidade Splash = AZUL + ROSA (azul de fundo, rosa #E6157E nas etiquetas, destaques, botões e faixa inferior; só azul é a iGUi, não usar). Gerado por tools/, texto grande, 1 ideia por slide. Sem emoji dentro da arte.
 - Legenda: 1ª linha = gancho; corpo curto; CTA "Comenta PISCINA que a gente te manda no direct" OU "chama no WhatsApp (21) 98395-4914"; busca local na legenda (piscina de fibra em Maricá / Itaipuaçu); 4–6 hashtags (#piscinadefibra #itaipuacu #marica #piscina + específicas).
-- Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar para 19h45 (Meta indica seguidores mais ativos ~20h). Não usar Windsor para a Splash.
+- Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar post 1 às 12h e post 2 às 19h45 (Meta indica seguidores mais ativos ~20h); stories nos horários acima. Uma aprovação por dia cobre tudo. Não usar Windsor para a Splash.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
