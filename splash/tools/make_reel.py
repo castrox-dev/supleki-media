@@ -22,6 +22,7 @@ TURQ = (18, 104, 196)
 TURQ_DARK = (7, 56, 128)
 INK = (8, 28, 64)
 WHITE = (255, 255, 255)
+PINK = (230, 21, 126)
 SOFT = (226, 240, 255)
 FONT_DIR = "/usr/share/fonts/opentype/inter/"
 
@@ -72,7 +73,8 @@ def bg(progress_frac):
     d = ImageDraw.Draw(img)
     # barra de progresso (topo, dentro da zona segura)
     d.rounded_rectangle((60, 230, W - 60, 242), 6, fill=(255, 255, 255, 80))
-    d.rounded_rectangle((60, 230, 60 + (W - 120) * progress_frac, 242), 6, fill=WHITE)
+    d.rounded_rectangle((60, 230, 60 + (W - 120) * progress_frac, 242), 6, fill=PINK)
+    d.rectangle((0, H - 36, W, H), fill=PINK)
     return img
 
 
@@ -106,11 +108,11 @@ def render_data(card, t, prog, idx):
     d.rounded_rectangle((cx, cy, cx + cw, cy + ch), 56, fill=WHITE)
     # numero do card
     fn = F_BOLD(44)
-    d.rounded_rectangle((cx + 60, cy + 60, cx + 170, cy + 130), 35, fill=SOFT)
-    d.text((cx + 83, cy + 72), f"{idx:02d}", font=fn, fill=TURQ_DARK)
+    d.rounded_rectangle((cx + 60, cy + 60, cx + 170, cy + 130), 35, fill=PINK)
+    d.text((cx + 83, cy + 72), f"{idx:02d}", font=fn, fill=WHITE)
     # label
     fl = F_SEMI(54)
-    d.text((cx + 200, cy + 76), card["label"].upper(), font=fl, fill=TURQ_DARK)
+    d.text((cx + 200, cy + 76), card["label"].upper(), font=fl, fill=PINK)
     # valor grande com pop
     b = ease_out(min(1, max(0, t - 0.25) / 0.35))
     # escolhe o maior tamanho em que o valor cabe em 2 linhas

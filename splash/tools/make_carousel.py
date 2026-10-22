@@ -23,6 +23,7 @@ TURQ_DARK = (7, 56, 128)
 INK = (8, 28, 64)
 GREY = (84, 100, 128)
 WHITE = (255, 255, 255)
+PINK = (230, 21, 126)
 SOFT = (226, 240, 255)
 RED = (214, 69, 69)
 FD = "/usr/share/fonts/opentype/inter/"
@@ -68,22 +69,23 @@ def bg(idx, total):
     x0 = (W - (n * 2 * r + (n - 1) * gap)) / 2
     for i in range(n):
         x = x0 + i * (2 * r + gap)
-        d.ellipse((x, 70, x + 2 * r, 70 + 2 * r), fill=WHITE if i == idx else (255, 255, 255, 90), outline=WHITE, width=2)
+        d.ellipse((x, 70, x + 2 * r, 70 + 2 * r), fill=PINK if i == idx else (255, 255, 255, 90), outline=WHITE, width=2)
+    d.rectangle((0, H - 28, W, H), fill=PINK)
     return img
 
 
 def tag(d, text, y):
     f = F_BOLD(36)
     tw = d.textlength(text, font=f) + 70
-    d.rounded_rectangle(((W - tw) / 2, y, (W + tw) / 2, y + 74), 37, fill=WHITE)
-    d.text(((W - tw) / 2 + 35, y + 16), text, font=f, fill=TURQ_DARK)
+    d.rounded_rectangle(((W - tw) / 2, y, (W + tw) / 2, y + 74), 37, fill=PINK)
+    d.text(((W - tw) / 2 + 35, y + 16), text, font=f, fill=WHITE)
     return y + 74
 
 
 def icon(d, kind, x, y, s=44):
     if kind == "check":
         d.rounded_rectangle((x, y, x + s, y + s), 12, fill=SOFT)
-        d.line([(x + 11, y + s / 2 + 2), (x + s / 2 - 3, y + s - 12), (x + s - 9, y + 11)], fill=TURQ_DARK, width=6, joint="curve")
+        d.line([(x + 11, y + s / 2 + 2), (x + s / 2 - 3, y + s - 12), (x + s - 9, y + 11)], fill=PINK, width=6, joint="curve")
     elif kind == "x":
         d.rounded_rectangle((x, y, x + s, y + s), 12, fill=(253, 232, 232))
         d.line([(x + 12, y + 12), (x + s - 12, y + s - 12)], fill=RED, width=6)
@@ -102,8 +104,8 @@ def slide_hook(s, idx, total):
     if s.get("sub"):
         fs = F_SEMI(44)
         tw = d.textlength(s["sub"], font=fs) + 80
-        d.rounded_rectangle(((W - tw) / 2, y + 40, (W + tw) / 2, y + 128), 44, fill=WHITE)
-        d.text(((W - tw) / 2 + 40, y + 60), s["sub"], font=fs, fill=INK)
+        d.rounded_rectangle(((W - tw) / 2, y + 40, (W + tw) / 2, y + 128), 44, fill=PINK)
+        d.text(((W - tw) / 2 + 40, y + 60), s["sub"], font=fs, fill=WHITE)
     # seta "arrasta"
     fa = F_MED(34)
     d.text(((W - d.textlength("arrasta  →", font=fa)) / 2, H - 130), "arrasta  →", font=fa, fill=SOFT)
@@ -169,8 +171,8 @@ def slide_cta(s, idx, total):
     if s.get("save"):
         fb = F_SEMI(40)
         tw = d.textlength(s["save"], font=fb) + 90
-        d.rounded_rectangle(((W - tw) / 2, y + 80, (W + tw) / 2, y + 170), 45, fill=WHITE)
-        d.text(((W - tw) / 2 + 45, y + 101), s["save"], font=fb, fill=TURQ_DARK)
+        d.rounded_rectangle(((W - tw) / 2, y + 80, (W + tw) / 2, y + 170), 45, fill=PINK)
+        d.text(((W - tw) / 2 + 45, y + 101), s["save"], font=fb, fill=WHITE)
     return img
 
 

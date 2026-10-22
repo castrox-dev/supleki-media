@@ -13,6 +13,7 @@ TURQ = (18, 104, 196)
 TURQ_DARK = (7, 56, 128)
 INK = (8, 28, 64)
 WHITE = (255, 255, 255)
+PINK = (230, 21, 126)
 SOFT = (226, 240, 255)
 FD = "/usr/share/fonts/opentype/inter/"
 
@@ -46,8 +47,9 @@ def main(hook, sub, out, cover=None):
     ft = ImageFont.truetype(FD + "Inter-Bold.otf", 44)
     tag = os.environ.get("STORY_TAG", "POST NOVO NO PERFIL")
     tw = d.textlength(tag, font=ft) + 80
-    d.rounded_rectangle(((W - tw) / 2, 330, (W + tw) / 2, 420), 45, fill=WHITE)
-    d.text(((W - tw) / 2 + 40, 350), tag, font=ft, fill=TURQ_DARK)
+    d.rounded_rectangle(((W - tw) / 2, 330, (W + tw) / 2, 420), 45, fill=PINK)
+    d.text(((W - tw) / 2 + 40, 350), tag, font=ft, fill=WHITE)
+    d.rectangle((0, H - 36, W, H), fill=PINK)
     # hook
     fh = ImageFont.truetype(FD + "InterDisplay-Black.otf", 112)
     lines = wrap(d, hook, fh, 920)

@@ -20,7 +20,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 ## 3. Regras da rotina diária
 - 1 post de feed por dia + 1 Story automático (chamada pro post) + 2 Stories interativos que o USUÁRIO posta à mão (enquete/caixinha/quiz não saem pela API).
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
-- Visual: azul Splash (gerado por tools/), texto grande, 1 ideia por slide. Sem emoji dentro da arte.
+- Visual: identidade Splash = AZUL + ROSA (azul de fundo, rosa #E6157E nas etiquetas, destaques, botões e faixa inferior; só azul é a iGUi, não usar). Gerado por tools/, texto grande, 1 ideia por slide. Sem emoji dentro da arte.
 - Legenda: 1ª linha = gancho; corpo curto; CTA "Comenta PISCINA que a gente te manda no direct" OU "chama no WhatsApp (21) 98395-4914"; busca local na legenda (piscina de fibra em Maricá / Itaipuaçu); 4–6 hashtags (#piscinadefibra #itaipuacu #marica #piscina + específicas).
 - Publicar só depois do "publica" do usuário.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
