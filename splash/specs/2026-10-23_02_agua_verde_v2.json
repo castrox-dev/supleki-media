@@ -1,0 +1,8 @@
+{"fps": 30, "cards": [
+ {"type": "hook", "photo": "fotos/site_tradicional_modelo_6m.png", "label": "Dica de tratamento", "title": "4 erros que deixam a água", "kw": "verde", "sub": "o 2º quase todo mundo esquece", "top": 900, "dur": 3.0},
+ {"type": "data", "photo": "fotos/site_tradicional_semipastilhada_6m.png", "label": "Erro 1", "value": "Deixar o cloro <span class='pk'>baixar</span>", "note": "sem cloro, a alga cresce rápido no calor", "dur": 3.4},
+ {"type": "data", "photo": "fotos/site_tradicional_fn01.png", "label": "Erro 2", "value": "Esquecer do <span class='pk' style='text-transform:none'>pH</span>", "note": "o ideal fica entre 7,0 e 7,4", "dur": 3.4},
+ {"type": "data", "photo": "fotos/site_tradicional_modelo_8m.png", "label": "Erro 3", "value": "Desligar o filtro <span class='pk'>por dias</span>", "note": "água parada é convite pra alga", "size": 130, "dur": 3.4},
+ {"type": "data", "photo": "fotos/site_tradicional_prainha_fn02.png", "label": "Erro 4", "value": "Deixar folha <span class='pk'>no fundo</span>", "note": "sujeira orgânica vira comida pra alga", "dur": 3.4},
+ {"type": "cta", "photo": "fotos/site_tradicional_semipastilhada_6m.png", "title": "Comenta <span class='pk'>PISCINA</span>", "sub": "que a gente te ajuda a acertar a água", "btn": "WhatsApp (21) 98395-4914", "top": 1000, "dur": 4.0}
+]}
