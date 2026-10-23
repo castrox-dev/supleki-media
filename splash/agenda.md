@@ -39,7 +39,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Preço da promo varia por loja (oficial mostra Tradicional 6 m SPA por R$ 18.790; fabricaigui.rj R$ 19.552; nossa loja R$ 19.790): usar SEMPRE o da agenda/usuário.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
-01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; via Windsor)
+01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; via Windsor) — v2 com fotos oficiais do site publicada 2026-10-23 16h20 (media 17977937034129290)
 02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
 03. [reel – exige vídeo real] Instalação do começo ao fim em 30 s (time-lapse) — pendente (vídeo pedido ao usuário em 2026-10-23)
 04. [carrossel] 6 perguntas pra fazer antes de comprar piscina — pendente
