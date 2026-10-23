@@ -30,6 +30,14 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar post 1 às 12h e post 2 às 19h45 (Meta indica seguidores mais ativos ~20h); stories nos horários acima. Uma aprovação por dia cobre tudo. Windsor: liberado pelo usuário em 23/10/2026 só pela conta splashitaipuacu (instagram, account 17841426236740818); publica na hora (não agenda) e usa URLs públicas raw.githubusercontent.com do repo. Nunca usar limpakibrasil/supleki.app para a Splash.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
+## 3b. Padrão visual da marca (prints dos perfis oficiais em 23/10/2026, em splash/referencias/)
+- **Sempre foto ou vídeo REAL de piscina** (pronta, com água, deck, paisagismo, gente feliz). Nada de card só com fundo azul liso e texto: isso foge do padrão.
+- **Promo (@splashpiscinasoficial):** foto de piscina no topo + cascos brancos dos 3 modelos (Tradicional / Com SPA / Com prainha) + título grande 3D colorido (ex.: "PRIMAVERA TRADICIONAL", "LIQUIDA FECHA INVERNO", "+DE 25% OFF" em selo) + caixas de preço Standard x Luxo (de R$ / por R$ à vista / entrada + 15x) em rosa e azul + selo "PRONTA ENTREGA" + rodapé "Todas as versões acompanham… / Completa e instalada / Brindes: toda parte hidráulica" + logos Splash + iGUi. Às vezes uma modelo sorrindo de chapéu ao lado dos cascos. Ideal: usar a arte oficial da rede e só trocar preço/contato da loja.
+- **Educativo:** texto grande, fonte condensada pesada, branco/azul com contorno, por cima de foto real de piscina (ex.: "3 COISAS QUE VOCÊ DEVERIA OBSERVAR antes de comprar sua piscina"; "VOCÊ SABE COMO É FEITA SUA PISCINA?").
+- **Reels:** vídeo real (instalação com guindaste, piscina na loja, gente da equipe falando pra câmera, eventos, tour de modelo com legenda "NAVAGIO por 2,25 e 86cm"). Palavra-chave em itálico condensado na capa (estilo iGUi: "PISCINA", "VIDRO", "VANTAGENS").
+- **Logos:** Splash rosa+azul com respingo (e o selo novo arco-íris "é fácil ser feliz" com coqueiro, tons pastel turquesa/amarelo/laranja/rosa) + iGUi (oval azul). Assinaturas: "É fácil ser feliz", "A sua piscina" (iGUi), "a melhor e mais premiada piscina do Brasil".
+- Preço da promo varia por loja (oficial mostra Tradicional 6 m SPA por R$ 18.790; fabricaigui.rj R$ 19.552; nossa loja R$ 19.790): usar SEMPRE o da agenda/usuário.
+
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
 01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; via Windsor)
 02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
