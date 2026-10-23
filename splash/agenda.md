@@ -9,6 +9,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Destaques do perfil: Clientes, Instalações, Acessórios, Piscinas.
 - A marca já usa nas artes "a piscina mais premiada do Brasil" e "duto ecológico" — pode repetir como fala da marca, sem inventar prêmio específico.
 - **Promoção Primavera (válida até 03/11/2026):** Tradicional SPA Standard 6 m, de R$ 26.070 por R$ 19.790 à vista, ou entrada de R$ 5.990 + 15x de R$ 1.263. Inclui cascata (3 opções), LED (3 opções), hidromassagem, completa e instalada; brinde: toda a parte hidráulica. Depois de 03/11 NÃO cite esses preços sem o usuário confirmar a nova oferta.
+- Instalação de fibra TAMBÉM levanta parede/alvenaria (correção do usuário 23/10). Nunca dizer "sem parede" ou "sem obra"; o diferencial é casco pronto e acabado (sem azulejo/rejunte).
 - Nunca invente preço, prazo, garantia, número de clientes ou depoimento.
 
 ## 2. Diagnóstico (22/10/2026, Insights 30 dias)
@@ -59,7 +60,7 @@ Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "
 | 2026-10-23 09h22 | S-0 | story | Bom dia! Hoje tem dica | 18118089296586914 | publicado via Windsor |
 | 2026-10-23 09h22 | S-A | story | Dica pH 7,0–7,4 (repost após o bom dia) | 17966245526984780 | publicado via Windsor |
 | 2026-10-23 10h | S-int1 | story interativo (usuário) | Enquete Fibra ou alvenaria? | – | publicado pelo usuário |
-| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | 18120704462098930 | publicado via Windsor |
+| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | 18120704462098930 | publicado via Windsor; tirado do ar pelo usuário (slide 4 dizia "sem levantar parede": ERRADO, fibra também tem alvenaria na instalação); refeito v2 |
 | 2026-10-23 12h15 | S-B | story | Chamada post 1 | 18107664008212906 | publicado via Windsor |
 | 2026-10-23 18h | S-int2 | story interativo (usuário) | Quiz pH ideal | – | com o usuário |
 | 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
