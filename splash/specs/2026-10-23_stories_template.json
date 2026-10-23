@@ -1,0 +1,20 @@
+{"stories": [
+ {"name": "2026-10-23_00_bom_dia_tpl", "photo": "fotos/site_tradicional_modelo_6m.png", "tag": "Splash Itaipuaçu",
+  "title": "Bom dia!<br>Hoje tem <span class='pk'>dica de piscina</span> por aqui", "size": 118,
+  "sub": "Fica de olho nos stories: dica rápida pra deixar sua água cristalina."},
+ {"name": "2026-10-23_01_dica_ph_tpl", "photo": "fotos/site_tradicional_fn01.png", "focus": 0.6, "tag": "Dica Splash",
+  "title": "<span style='text-transform:none'>pH</span> ideal da piscina:<br><span class='pk'>7,0 a 7,4</span>", "size": 124,
+  "sub": "Fora dessa faixa a água desequilibra e a alga aparece. Dúvida? Chama no direct."},
+ {"name": "2026-10-23_02_post_fibra_x_alvenaria_tpl", "photo": "fotos/site_tradicional_prainha_fn02.png", "focus": 0.55, "tag": "Post novo no perfil",
+  "title": "Fibra ou alvenaria?<br><span class='pk'>5 diferenças</span> que pesam no bolso", "size": 112,
+  "btn": "Toca aqui e vê o post"},
+ {"name": "2026-10-23_03_post_agua_verde_tpl", "photo": "fotos/site_tradicional_semipastilhada_6m.png", "tag": "Reel novo no perfil",
+  "title": "Sua piscina ficou <span class='pk'>verde?</span>", "size": 130,
+  "sub": "Quase sempre é um desses 4 erros. O 2º quase todo mundo esquece.", "btn": "Toca aqui e assiste"},
+ {"name": "2026-10-23_int1_enquete_tpl", "photo": "fotos/site_tradicional_modelo_8m.png", "tag": "Enquete",
+  "title": "Pensa em ter piscina <span class='pk'>nesse verão?</span>", "size": 116,
+  "sticker": "figurinha de enquete aqui: Sim! / Só sonhando"},
+ {"name": "2026-10-23_int2_caixinha_tpl", "photo": "fotos/site_tradicional_prainha_fn02.png", "focus": 0.4, "tag": "Responde aí",
+  "title": "Qual piscina <span class='pk'>cabe no seu quintal?</span>", "size": 116,
+  "sub": "Me fala o tamanho que eu te digo.", "sticker": "caixinha de perguntas aqui"}
+]}
