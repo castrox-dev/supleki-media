@@ -59,7 +59,7 @@ Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "
 | 2026-10-23 09h22 | S-0 | story | Bom dia! Hoje tem dica | 18118089296586914 | publicado via Windsor |
 | 2026-10-23 09h22 | S-A | story | Dica pH 7,0–7,4 (repost após o bom dia) | 17966245526984780 | publicado via Windsor |
 | 2026-10-23 10h | S-int1 | story interativo (usuário) | Enquete Fibra ou alvenaria? | – | publicado pelo usuário |
-| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
+| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | 18120704462098930 | publicado via Windsor |
 | 2026-10-23 12h15 | S-B | story | Chamada post 1 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 18h | S-int2 | story interativo (usuário) | Quiz pH ideal | – | com o usuário |
 | 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
