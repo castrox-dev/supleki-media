@@ -23,11 +23,11 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
 - Visual: identidade Splash = AZUL + ROSA (azul de fundo, rosa #E6157E nas etiquetas, destaques, botões e faixa inferior; só azul é a iGUi, não usar). Gerado por tools/, texto grande, 1 ideia por slide. Sem emoji dentro da arte.
 - Legenda: 1ª linha = gancho; corpo curto; CTA "Comenta PISCINA que a gente te manda no direct" OU "chama no WhatsApp (21) 98395-4914"; busca local na legenda (piscina de fibra em Maricá / Itaipuaçu); 4–6 hashtags (#piscinadefibra #itaipuacu #marica #piscina + específicas).
-- Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar post 1 às 12h e post 2 às 19h45 (Meta indica seguidores mais ativos ~20h); stories nos horários acima. Uma aprovação por dia cobre tudo. Não usar Windsor para a Splash.
+- Publicar só depois do "publica" do usuário, pelo Meta Business Suite no Chrome dele (asset_id=1385017348222164, business_id=419105448772778; "Post to" = IGUi Maricá - Itaipuaçu + splashitaipuacu). Agendar post 1 às 12h e post 2 às 19h45 (Meta indica seguidores mais ativos ~20h); stories nos horários acima. Uma aprovação por dia cobre tudo. Windsor: liberado pelo usuário em 23/10/2026 só pela conta splashitaipuacu (instagram, account 17841426236740818); publica na hora (não agenda) e usa URLs públicas raw.githubusercontent.com do repo. Nunca usar limpakibrasil/supleki.app para a Splash.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
-01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; postagem manual)
+01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; via Windsor)
 02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
 03. [reel – exige vídeo real] Instalação do começo ao fim em 30 s (time-lapse) — pendente (vídeo pedido ao usuário em 2026-10-23)
 04. [carrossel] 6 perguntas pra fazer antes de comprar piscina — pendente
@@ -54,10 +54,10 @@ Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "
 ## 6. Diário de publicações
 | data | nº | formato | tema | media id | status |
 |---|---|---|---|---|---|
-| 2026-10-23 09h30 | S-A | story | Dica pH 7,0–7,4 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
+| 2026-10-23 09h17 | S-A | story | Dica pH 7,0–7,4 | 17917265610524177 | publicado via Windsor |
 | 2026-10-23 10h | S-int1 | story interativo (usuário) | Enquete Fibra ou alvenaria? | – | com o usuário |
-| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
-| 2026-10-23 12h15 | S-B | story | Chamada post 1 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
+| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
+| 2026-10-23 12h15 | S-B | story | Chamada post 1 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 18h | S-int2 | story interativo (usuário) | Quiz pH ideal | – | com o usuário |
-| 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
-| 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
+| 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
+| 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
