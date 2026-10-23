@@ -1,0 +1,9 @@
+{"slides": [
+ {"type": "hook", "title": "Fibra ou alvenaria? 5 diferenças que pesam no bolso", "sub": "Veja antes de fechar qualquer orçamento"},
+ {"type": "text", "label": "RESUMO", "title": "A fibra chega pronta. A alvenaria é uma obra.", "sub": "Isso muda o prazo, a mão de obra, a limpeza, o gasto com produto e o risco de vazamento."},
+ {"type": "text", "label": "1 · PRAZO", "title": "Poucos dias x 30 a 45 dias de obra", "sub": "O casco de fibra já vem pronto de fábrica. Menos tempo de obra, menos dor de cabeça."},
+ {"type": "text", "label": "2 · MÃO DE OBRA", "title": "Menos gente e menos material", "sub": "Sem levantar parede, sem assentar azulejo e sem sobra de material na obra."},
+ {"type": "list", "label": "3 E 4 · LIMPEZA E PRODUTOS", "icon": "check", "items": [["Superfície lisa", "sem rejunte poroso pra alga se esconder"], ["Menos escovação", "limpeza mais rápida no dia a dia"], ["Água mais fácil de equilibrar", "costuma pedir menos correção"]]},
+ {"type": "text", "label": "5 · VAZAMENTO", "title": "Peça única não tem rejunte pra trincar", "sub": "A fibra é um bloco só. Na alvenaria, uma fissura na estrutura pode virar vazamento."},
+ {"type": "cta", "title": "Comenta PISCINA", "sub": "que a gente te manda os modelos e o preço no direct", "save": "Salva pra consultar depois"}
+]}

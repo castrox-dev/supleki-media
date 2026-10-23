@@ -1,0 +1,8 @@
+{"fps": 30, "cards": [
+ {"type": "hook", "title": "4 erros que deixam a água da piscina verde", "sub": "o 2º quase todo mundo esquece", "dur": 3.0},
+ {"type": "data", "label": "Erro 1", "value": "Deixar o cloro baixar", "note": "sem cloro, a alga cresce rápido no calor", "dur": 3.4},
+ {"type": "data", "label": "Erro 2", "value": "Esquecer do pH", "note": "o ideal fica entre 7,0 e 7,4", "dur": 3.4},
+ {"type": "data", "label": "Erro 3", "value": "Desligar o filtro por dias", "note": "água parada é convite pra alga", "dur": 3.4},
+ {"type": "data", "label": "Erro 4", "value": "Deixar folha no fundo", "note": "sujeira orgânica vira comida pra alga", "dur": 3.4},
+ {"type": "cta", "title": "Comenta PISCINA", "sub": "que a gente te ajuda com a água", "dur": 3.4}
+]}
