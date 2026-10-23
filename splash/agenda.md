@@ -10,6 +10,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - A marca já usa nas artes "a piscina mais premiada do Brasil" e "duto ecológico" — pode repetir como fala da marca, sem inventar prêmio específico.
 - **Promoção Primavera (válida até 03/11/2026):** Tradicional SPA Standard 6 m, de R$ 26.070 por R$ 19.790 à vista, ou entrada de R$ 5.990 + 15x de R$ 1.263. Inclui cascata (3 opções), LED (3 opções), hidromassagem, completa e instalada; brinde: toda a parte hidráulica. Depois de 03/11 NÃO cite esses preços sem o usuário confirmar a nova oferta.
 - Instalação de fibra TAMBÉM levanta parede/alvenaria (correção do usuário 23/10). Nunca dizer "sem parede" ou "sem obra"; o diferencial é casco pronto e acabado (sem azulejo/rejunte).
+- Do site oficial splashpiscinas.com (23/10/2026): slogan "É Fácil Ser Feliz"; modelos Tradicional (3,50 a 9,00 m, pastilha de porcelana Atlas nas bordas; 6/7/8 m com SPA e com prainha), Cancun, Bonaire, Tortuga, Navagio, Atalaia, Farol da Barra, Tropical, Italiana ("modelo mais vendido da Splash no Brasil"), Nassau (borda infinita); produtos Thermas Kelvin, iGUi Stone, Clorador iGUi. Promos nacionais no site (Festival das compactas até 26/10, Clorador até 19/11) NÃO valem para a loja sem confirmação do usuário.
 - Nunca invente preço, prazo, garantia, número de clientes ou depoimento.
 
 ## 2. Diagnóstico (22/10/2026, Insights 30 dias)
@@ -19,7 +20,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Conclusão: constância diária, conteúdo útil > promoção, Reels com coisa real, stories espalhados com interação.
 
 ## 3. Regras da rotina diária
-- **PADRÃO DA MARCA (Ana Paula, responsável, 23/10/2026): ANTES de criar qualquer post, olhar as postagens do Instagram oficial da Splash / iGUi e usar como base. Pode copiar o conteúdo e só adaptar fonte, fundo e detalhes, mas o post tem que seguir o básico do que a marca oficial posta.** (perfis oficiais: a confirmar com o usuário)
+- **PADRÃO DA MARCA (Ana Paula, responsável, 23/10/2026): ANTES de criar qualquer post, olhar as postagens do Instagram oficial da Splash / iGUi e usar como base. Pode copiar o conteúdo e só adaptar fonte, fundo e detalhes, mas o post tem que seguir o básico do que a marca oficial posta.** Perfis oficiais de referência: instagram.com/splashpiscinasoficial e instagram.com/fabricaigui.rj; site splashpiscinas.com. O Instagram bloqueia leitura automática: usar prints que o usuário mandar (pasta splash/referencias/).
 - Primeiro story do dia = abertura "Bom dia!" (ex.: "Bom dia! Hoje tem dica de piscina por aqui"), logo antes do Story A de dica/pergunta (pedido do usuário 23/10).
 - POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + 2 Stories interativos que o USUÁRIO posta à mão (~10h e ~18h; enquete/caixinha/quiz não saem pela automação).
 - Os 2 posts do dia têm formatos/temas diferentes; no máximo 1 promo por dia e no máximo 2 promos por semana.
