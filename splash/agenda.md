@@ -27,13 +27,13 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
-01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — produzido 2026-10-23 (aguardando 'publica')
+01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; postagem manual)
 02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
 03. [reel – exige vídeo real] Instalação do começo ao fim em 30 s (time-lapse) — pendente (vídeo pedido ao usuário em 2026-10-23)
 04. [carrossel] 6 perguntas pra fazer antes de comprar piscina — pendente
 05. [promo] Promoção Primavera: SPA Standard 6 m — o que vem incluso (válida até 03/11) — pendente
 06. [carrossel] Quanto espaço precisa no quintal pra cada tamanho de piscina — pendente
-07. [reel texto+voz] 4 erros que fazem a água ficar verde — produzido 2026-10-23 (sem voz: ElevenLabs com rate limit; aguardando 'publica')
+07. [reel texto+voz] 4 erros que fazem a água ficar verde — feito 2026-10-23 (sem voz: ElevenLabs com rate limit; aprovado; postagem manual)
 08. [carrossel] Quanto tempo leva da compra ao primeiro mergulho (etapas) — pendente
 09. [reel – exige vídeo real] Cliente estreando a piscina / depoimento — pendente
 10. [carrossel] Cascata, LED e hidromassagem: vale a pena? — pendente
@@ -54,10 +54,10 @@ Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "
 ## 6. Diário de publicações
 | data | nº | formato | tema | media id | status |
 |---|---|---|---|---|---|
-| 2026-10-23 09h30 | S-A | story | Dica pH 7,0–7,4 | – | aguardando "publica" |
+| 2026-10-23 09h30 | S-A | story | Dica pH 7,0–7,4 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
 | 2026-10-23 10h | S-int1 | story interativo (usuário) | Enquete Fibra ou alvenaria? | – | com o usuário |
-| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | – | aguardando "publica" |
-| 2026-10-23 12h15 | S-B | story | Chamada post 1 | – | aguardando "publica" |
+| 2026-10-23 12h | 01 | carrossel 7 slides | Fibra x alvenaria (tema 01) | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
+| 2026-10-23 12h15 | S-B | story | Chamada post 1 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
 | 2026-10-23 18h | S-int2 | story interativo (usuário) | Quiz pH ideal | – | com o usuário |
-| 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aguardando "publica" |
-| 2026-10-23 20h | S-C | story | Chamada post 2 | – | aguardando "publica" |
+| 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
+| 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; agendamento manual pelo usuário (sem Chrome nesta execução) |
