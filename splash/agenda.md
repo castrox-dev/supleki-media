@@ -18,6 +18,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Conclusão: constância diária, conteúdo útil > promoção, Reels com coisa real, stories espalhados com interação.
 
 ## 3. Regras da rotina diária
+- Primeiro story do dia = abertura "Bom dia!" (ex.: "Bom dia! Hoje tem dica de piscina por aqui"), logo antes do Story A de dica/pergunta (pedido do usuário 23/10).
 - POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + 2 Stories interativos que o USUÁRIO posta à mão (~10h e ~18h; enquete/caixinha/quiz não saem pela automação).
 - Os 2 posts do dia têm formatos/temas diferentes; no máximo 1 promo por dia e no máximo 2 promos por semana.
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
