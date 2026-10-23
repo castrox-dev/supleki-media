@@ -12,6 +12,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Instalação de fibra TAMBÉM levanta parede/alvenaria (correção do usuário 23/10). Nunca dizer "sem parede" ou "sem obra"; o diferencial é casco pronto e acabado (sem azulejo/rejunte).
 - Do site oficial splashpiscinas.com (23/10/2026): slogan "É Fácil Ser Feliz"; modelos Tradicional (3,50 a 9,00 m, pastilha de porcelana Atlas nas bordas; 6/7/8 m com SPA e com prainha), Cancun, Bonaire, Tortuga, Navagio, Atalaia, Farol da Barra, Tropical, Italiana ("modelo mais vendido da Splash no Brasil"), Nassau (borda infinita); produtos Thermas Kelvin, iGUi Stone, Clorador iGUi. Promos nacionais no site (Festival das compactas até 26/10, Clorador até 19/11) NÃO valem para a loja sem confirmação do usuário.
 - Nunca invente preço, prazo, garantia, número de clientes ou depoimento.
+- **A loja também vende produtos** (renda extra): carrinho/aspirador, cloro e produtos de tratamento, clorador, bomba, peças, registro "borboletinha". Lista com marcas e preços: o usuário vai pedir à Ana Paula (pendente em 23/10). Até chegar, só citar categorias, sem preço nem marca. Quando chegar: criar fila de conteúdo de produto ("o que comprar pra manter a piscina", kits, reposição) com CTA pro WhatsApp.
 
 ## 2. Diagnóstico (22/10/2026, Insights 30 dias)
 - 2.109 seguidores, só 412 contas viram algo; seguidores líquidos +0; 28 interações no mês.
@@ -22,7 +23,9 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 ## 3. Regras da rotina diária
 - **PADRÃO DA MARCA (Ana Paula, responsável, 23/10/2026): ANTES de criar qualquer post, olhar as postagens do Instagram oficial da Splash / iGUi e usar como base. Pode copiar o conteúdo e só adaptar fonte, fundo e detalhes, mas o post tem que seguir o básico do que a marca oficial posta.** Perfis oficiais de referência: instagram.com/splashpiscinasoficial e instagram.com/fabricaigui.rj; site splashpiscinas.com. O Instagram bloqueia leitura automática: usar prints que o usuário mandar (pasta splash/referencias/).
 - Primeiro story do dia = abertura "Bom dia!" (ex.: "Bom dia! Hoje tem dica de piscina por aqui"), logo antes do Story A de dica/pergunta (pedido do usuário 23/10).
-- POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + 2 Stories interativos que o USUÁRIO posta à mão (~10h e ~18h; enquete/caixinha/quiz não saem pela automação).
+- POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + **1 Story interativo a cada 2 dias** que o USUÁRIO posta à mão (~18h).
+- **Stories interativos só com INTENÇÃO DE COMPRA** (decisão 23/10, após o usuário questionar se enquete vende piscina): nada de quiz/curiosidade/enquete genérica. Usar perguntas que revelam quem quer comprar — enquete "Pensa em ter piscina nesse verão? Sim / Só sonhando", caixinha "Me fala o tamanho do seu quintal que eu te digo qual piscina cabe", figurinha de link pro WhatsApp. Quem responde "Sim" ou manda medida = lead: avisar a Ana Paula / chamar no direct. Resto dos stories = prova e desejo (instalação, cliente, loja, promo com link).
+- Papel do orgânico: vitrine que passa confiança pra quem chega pelo anúncio (Maricá) e pelo WhatsApp; a venda de piscina vem principalmente de anúncio + atendimento.
 - Os 2 posts do dia têm formatos/temas diferentes; no máximo 1 promo por dia e no máximo 2 promos por semana.
 - No máximo 1 post promocional a cada 4–5 posts. Nunca dois flyers seguidos.
 - Visual: identidade Splash = AZUL + ROSA (azul de fundo, rosa #E6157E nas etiquetas, destaques, botões e faixa inferior; só azul é a iGUi, não usar). Gerado por tools/, texto grande, 1 ideia por slide. Sem emoji dentro da arte.
@@ -31,12 +34,14 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Dias de "exige vídeo real": pedir ao usuário um vídeo (instalação, cliente, loja) em vez de inventar; se ele não mandar, trocar pelo próximo item da fila.
 
 ## 3b. Padrão visual da marca (prints dos perfis oficiais em 23/10/2026, em splash/referencias/)
-- **Sempre foto ou vídeo REAL de piscina** (pronta, com água, deck, paisagismo, gente feliz). Nada de card só com fundo azul liso e texto: isso foge do padrão.
+- **VIBE SPLASH é obrigatória; foto real é bem-vinda, não obrigatória** (correção do usuário 23/10 19h): clima animado, meio infantil, de festa na piscina — letras 3D tipo bexiga (rosa com borda branca + contorno azul), pílulas azuis com borda branca, sol, boia rosa/branca, folhas tropicais, hibisco, respingos d'água, fundo de água turquesa com bolhas rosa. Stories podem ser só arte, sem foto. O que foge do padrão é card azul liso, sério/corporativo.
+- **Capas oficiais de referência salvas** (23/10): referencias/2026-10-23_capa_oficial_primavera_tradicional.jpg (linguagem "festa", promo) e referencias/2026-10-23_capa_oficial_3_coisas_observar.jpg (linguagem "foto": foto real + faixas azuis + palavra gigante branca com contorno azul, educativo).
+- **Ferramenta atual: tools/splash_kit.py (v4)** — componentes HTML/SVG (bubble, pill, pink, card, strip, giant, sun, boia, leaf, hibisco, gotas, onda, logo) renderizados com Playwright. Exemplo completo de uso: tools/build_2026-10-23_v4.py (stories, carrossel 1080x1350, capa e reel com ffmpeg). make_story_v3 e anteriores ficam só de histórico.
 - **Promo (@splashpiscinasoficial):** foto de piscina no topo + cascos brancos dos 3 modelos (Tradicional / Com SPA / Com prainha) + título grande 3D colorido (ex.: "PRIMAVERA TRADICIONAL", "LIQUIDA FECHA INVERNO", "+DE 25% OFF" em selo) + caixas de preço Standard x Luxo (de R$ / por R$ à vista / entrada + 15x) em rosa e azul + selo "PRONTA ENTREGA" + rodapé "Todas as versões acompanham… / Completa e instalada / Brindes: toda parte hidráulica" + logos Splash + iGUi. Às vezes uma modelo sorrindo de chapéu ao lado dos cascos. Ideal: usar a arte oficial da rede e só trocar preço/contato da loja.
 - **Educativo:** texto grande, fonte condensada pesada, branco/azul com contorno, por cima de foto real de piscina (ex.: "3 COISAS QUE VOCÊ DEVERIA OBSERVAR antes de comprar sua piscina"; "VOCÊ SABE COMO É FEITA SUA PISCINA?").
 - **Reels:** vídeo real (instalação com guindaste, piscina na loja, gente da equipe falando pra câmera, eventos, tour de modelo com legenda "NAVAGIO por 2,25 e 86cm"). Palavra-chave em itálico condensado na capa (estilo iGUi: "PISCINA", "VIDRO", "VANTAGENS").
 - **Logos:** Splash rosa+azul com respingo (e o selo novo arco-íris "é fácil ser feliz" com coqueiro, tons pastel turquesa/amarelo/laranja/rosa) + iGUi (oval azul). Assinaturas: "É fácil ser feliz", "A sua piscina" (iGUi), "a melhor e mais premiada piscina do Brasil".
-- Ferramenta no padrão: tools/make_story_v3.py (logo oficial no topo, título arredondado Baloo 2 branco/contorno azul/sombra rosa, onda azul, rodapé rosa com WhatsApp). v2 (água + fonte condensada itálica) foi REPROVADO pelo usuário: "nada a ver com a Splash". Com foto real da loja, passar como 4º argumento.
+- (antigo) tools/make_story_v3.py (logo oficial no topo, título arredondado Baloo 2 branco/contorno azul/sombra rosa, onda azul, rodapé rosa com WhatsApp). v2 (água + fonte condensada itálica) foi REPROVADO pelo usuário: "nada a ver com a Splash". Com foto real da loja, passar como 4º argumento.
 - Preço da promo varia por loja (oficial mostra Tradicional 6 m SPA por R$ 18.790; fabricaigui.rj R$ 19.552; nossa loja R$ 19.790): usar SEMPRE o da agenda/usuário.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
@@ -61,8 +66,8 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 19. [reel texto+voz] Contagem regressiva pro verão: instale antes da correria de dezembro — pendente
 20. [carrossel] Dúvidas que mais chegam no WhatsApp (respondidas) — pendente
 
-## 5. Ideias de Stories interativos (o usuário posta)
-Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "Quantos litros tem uma piscina de 6 m?", caixinha "Pergunta o que quiser sobre piscina", termômetro "Quanta vontade de piscina hoje?", contagem regressiva "Fim da Promoção Primavera 03/11", repost de cliente marcando o perfil, bastidor da loja com "toca pra chamar no WhatsApp" (figurinha de link).
+## 5. Ideias de Stories interativos (o usuário posta; só intenção de compra)
+Enquete "Pensa em ter piscina nesse verão? Sim / Só sonhando", "Você já tem piscina? Sim / Ainda não" (quem tem = cliente de produto), caixinha "Me fala o tamanho do seu quintal que eu te digo qual piscina cabe", caixinha "Qual sua dúvida antes de comprar piscina?", contagem regressiva "Fim da Promoção Primavera 03/11", repost de cliente marcando o perfil, bastidor da loja com "toca pra chamar no WhatsApp" (figurinha de link).
 
 ## 6. Diário de publicações
 | data | nº | formato | tema | media id | status |
@@ -76,3 +81,4 @@ Enquete "Fibra ou alvenaria?", "Você já tem piscina? Sim / Ainda não", quiz "
 | 2026-10-23 18h | S-int2 | story interativo (usuário) | Quiz pH ideal | – | com o usuário |
 | 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
+| 2026-10-23 19h10 | v4 | refação | Conteúdo do dia refeito no padrão dos reels oficiais (PRIMAVERA TRADICIONAL / 3 COISAS): stories *_v4, carrossel fibra_x_alvenaria_v4_01–08, reel agua_verde_v4 + capa | – | arquivos prontos; aguardando o usuário decidir o que republicar |
