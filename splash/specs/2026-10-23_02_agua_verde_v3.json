@@ -1,0 +1,14 @@
+{"fps": 30, "cards": [
+ {"photo": "fotos/site_tradicional_modelo_6m.png", "green": true, "icon": "alert", "label": "Dica de tratamento",
+  "words": ["Sua", "piscina", "ficou", "*verde?"], "size": 170, "note": "Quase sempre é um desses 4 erros", "dur": 3.6},
+ {"photo": "fotos/site_tradicional_semipastilhada_6m.png", "num": "01", "icon": "drop", "step": 1, "label": "Erro 1",
+  "words": ["Deixar", "o", "cloro", "*baixar"], "note": "sem cloro, a alga cresce rápido no calor", "dur": 2.6},
+ {"photo": "fotos/site_tradicional_fn01.png", "num": "02", "icon": "ph", "step": 2, "label": "Erro 2",
+  "words": ["Esquecer", "do", "*pH"], "size": 160, "note": "o ideal fica entre 7,0 e 7,4", "dur": 4.4},
+ {"photo": "fotos/site_tradicional_modelo_8m.png", "num": "03", "icon": "fan", "step": 3, "label": "Erro 3",
+  "words": ["Desligar", "o", "filtro", "*por", "*dias"], "size": 130, "note": "água parada é convite pra alga", "dur": 2.6},
+ {"photo": "fotos/site_tradicional_prainha_fn02.png", "num": "04", "icon": "leaf", "step": 4, "label": "Erro 4",
+  "words": ["Deixar", "folha", "*no", "*fundo"], "note": "sujeira orgânica vira comida pra alga", "dur": 3.0},
+ {"photo": "fotos/site_tradicional_semipastilhada_6m.png", "icon": "chat", "label": "Quer ajuda?",
+  "words": ["Comenta", "*PISCINA"], "size": 170, "note": "que a gente te ajuda a acertar a água", "btn": "WhatsApp (21) 98395-4914", "dur": 4.4}
+]}
