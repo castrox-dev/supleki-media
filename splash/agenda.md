@@ -36,6 +36,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - **Educativo:** texto grande, fonte condensada pesada, branco/azul com contorno, por cima de foto real de piscina (ex.: "3 COISAS QUE VOCÊ DEVERIA OBSERVAR antes de comprar sua piscina"; "VOCÊ SABE COMO É FEITA SUA PISCINA?").
 - **Reels:** vídeo real (instalação com guindaste, piscina na loja, gente da equipe falando pra câmera, eventos, tour de modelo com legenda "NAVAGIO por 2,25 e 86cm"). Palavra-chave em itálico condensado na capa (estilo iGUi: "PISCINA", "VIDRO", "VANTAGENS").
 - **Logos:** Splash rosa+azul com respingo (e o selo novo arco-íris "é fácil ser feliz" com coqueiro, tons pastel turquesa/amarelo/laranja/rosa) + iGUi (oval azul). Assinaturas: "É fácil ser feliz", "A sua piscina" (iGUi), "a melhor e mais premiada piscina do Brasil".
+- Ferramenta no padrão: tools/make_story_v2.py (fundo de água ou foto real, título condensado itálico branco com contorno azul, selo rosa, rodapé branco com logo Splash+iGUi oficial + Itaipuaçu/WhatsApp). Usar no lugar do make_story.py antigo. Com foto real da loja, passar como 4º argumento.
 - Preço da promo varia por loja (oficial mostra Tradicional 6 m SPA por R$ 18.790; fabricaigui.rj R$ 19.552; nossa loja R$ 19.790): usar SEMPRE o da agenda/usuário.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
