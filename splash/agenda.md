@@ -19,6 +19,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 - Conclusão: constância diária, conteúdo útil > promoção, Reels com coisa real, stories espalhados com interação.
 
 ## 3. Regras da rotina diária
+- **PADRÃO DA MARCA (Ana Paula, responsável, 23/10/2026): ANTES de criar qualquer post, olhar as postagens do Instagram oficial da Splash / iGUi e usar como base. Pode copiar o conteúdo e só adaptar fonte, fundo e detalhes, mas o post tem que seguir o básico do que a marca oficial posta.** (perfis oficiais: a confirmar com o usuário)
 - Primeiro story do dia = abertura "Bom dia!" (ex.: "Bom dia! Hoje tem dica de piscina por aqui"), logo antes do Story A de dica/pergunta (pedido do usuário 23/10).
 - POR DIA: 2 posts de feed (12h e 19h45) + 3 Stories automáticos (~9h30 dica/pergunta, ~12h15 chamada do post do almoço, ~20h chamada do post da noite) + 2 Stories interativos que o USUÁRIO posta à mão (~10h e ~18h; enquete/caixinha/quiz não saem pela automação).
 - Os 2 posts do dia têm formatos/temas diferentes; no máximo 1 promo por dia e no máximo 2 promos por semana.
