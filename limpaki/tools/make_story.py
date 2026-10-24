@@ -3,6 +3,7 @@
 
 Uso: python3 make_story.py "hook do post" "linha de apoio" out.jpg [capa_do_post.jpg]
 Tag do topo: env STORY_TAG (padrão "POST NOVO NO PERFIL"); sem capa o texto fica centralizado.
+Tema: env STORY_THEME=light inverte (fundo branco, texto turquesa) pra variar entre os dias.
 """
 import os
 import sys
@@ -38,20 +39,24 @@ def centered(d, lines, f, y, fill, lh):
 
 
 def main(hook, sub, out, cover=None):
-    img = Image.new("RGB", (W, H), TURQ)
+    light = os.environ.get("STORY_THEME") == "light"
+    bg, bg2 = (WHITE, SOFT) if light else (TURQ, TURQ_DARK)
+    tag_bg, tag_fg = (TURQ, WHITE) if light else (WHITE, TURQ_DARK)
+    hook_fg, sub_fg = (TURQ_DARK, INK) if light else (WHITE, SOFT)
+    img = Image.new("RGB", (W, H), bg)
     grad = Image.linear_gradient("L").resize((W, H)).rotate(12, expand=False)
-    img = Image.composite(Image.new("RGB", (W, H), TURQ_DARK), img, grad.point(lambda p: int(p * 0.35)))
+    img = Image.composite(Image.new("RGB", (W, H), bg2), img, grad.point(lambda p: int(p * 0.35)))
     d = ImageDraw.Draw(img)
     # tag topo
     ft = ImageFont.truetype(FD + "Inter-Bold.otf", 44)
     tag = os.environ.get("STORY_TAG", "POST NOVO NO PERFIL")
     tw = d.textlength(tag, font=ft) + 80
-    d.rounded_rectangle(((W - tw) / 2, 330, (W + tw) / 2, 420), 45, fill=WHITE)
-    d.text(((W - tw) / 2 + 40, 350), tag, font=ft, fill=TURQ_DARK)
+    d.rounded_rectangle(((W - tw) / 2, 330, (W + tw) / 2, 420), 45, fill=tag_bg)
+    d.text(((W - tw) / 2 + 40, 350), tag, font=ft, fill=tag_fg)
     # hook
     fh = ImageFont.truetype(FD + "InterDisplay-Black.otf", 112)
     lines = wrap(d, hook, fh, 920)
-    y = centered(d, lines, fh, 520 if cover else 640, WHITE, 122)
+    y = centered(d, lines, fh, 520 if cover else 640, hook_fg, 122)
     # capa do post como "card" inclinado
     if cover:
         c = Image.open(cover).convert("RGB")
@@ -74,7 +79,7 @@ def main(hook, sub, out, cover=None):
     # apoio
     fs = ImageFont.truetype(FD + "Inter-SemiBold.otf", 52)
     sl = wrap(d, sub, fs, 880)
-    centered(d, sl, fs, max(y + 40, H - 660) if cover else y + 70, SOFT, 64)
+    centered(d, sl, fs, max(y + 40, H - 660) if cover else y + 70, sub_fg, 64)
     img.save(out, quality=92)
     print("ok", out)
 
