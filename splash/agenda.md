@@ -84,9 +84,9 @@ Enquete "Pensa em ter piscina nesse verão? Sim / Só sonhando", "Você já tem 
 | 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 19h10 | v4 | refação | Conteúdo do dia refeito no padrão dos reels oficiais (PRIMAVERA TRADICIONAL / 3 COISAS): stories *_v4, carrossel fibra_x_alvenaria_v4_01–08, reel agua_verde_v4 + capa | – | arquivos prontos; aguardando o usuário decidir o que republicar |
-| 2026-10-24 09h30 | S-0 + S-A | story | Bom dia (sábado) + dica tirar folhas todo dia | – | produzido; aguardando "publica" |
-| 2026-10-24 12h | 01 | carrossel 6 slides | Quanto custa manter a piscina por mês (tema 02) | – | produzido; aguardando "publica" |
-| 2026-10-24 12h15 | S-B | story | Chamada post 1 | – | produzido; aguardando "publica" |
+| 2026-10-24 09h30 | S-0 + S-A | story | Bom dia (sábado) + dica tirar folhas todo dia | – | aprovado ("pode ir"); sem Chrome nesta execução → postagem manual pelo usuário |
+| 2026-10-24 12h | 01 | carrossel 6 slides | Quanto custa manter a piscina por mês (tema 02) | – | aprovado ("pode ir"); sem Chrome nesta execução → postagem manual pelo usuário |
+| 2026-10-24 12h15 | S-B | story | Chamada post 1 | – | aprovado ("pode ir"); sem Chrome nesta execução → postagem manual pelo usuário |
 | 2026-10-24 18h | S-int | story interativo (usuário) | Caixinha "Qual piscina cabe no seu quintal?" | – | com o usuário |
-| 2026-10-24 19h45 | 02 | reel 21 s (sem voz) | Quintal pequeno: 4 ideias (tema 12) | – | produzido; aguardando "publica" |
-| 2026-10-24 20h | S-C | story | Chamada post 2 | – | produzido; aguardando "publica" |
+| 2026-10-24 19h45 | 02 | reel 21 s (sem voz) | Quintal pequeno: 4 ideias (tema 12) | – | aprovado ("pode ir"); sem Chrome nesta execução → postagem manual pelo usuário |
+| 2026-10-24 20h | S-C | story | Chamada post 2 | – | aprovado ("pode ir"); sem Chrome nesta execução → postagem manual pelo usuário |
