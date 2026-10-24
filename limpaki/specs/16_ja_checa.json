@@ -1,0 +1,35 @@
+{
+ "fps": 30,
+ "music": true,
+ "music_vol": 0.45,
+ "voice": "../audio/16_voz.mp3",
+ "scenes": [
+  {
+   "type": "hook",
+   "title": "Tudo que te ensinei a checar, o Limpaki já checa",
+   "sub": "por você, antes de ela entrar",
+   "dur": 4.71
+  },
+  {
+   "type": "list",
+   "label": "O LIMPAKI JÁ CHECA",
+   "icon": "check",
+   "dur": 15.55,
+   "at": [0.05, 4.26, 7.8, 10.26, 12.68],
+   "items": [
+    ["Documento verificado", "mais comprovante de residência e e-mail"],
+    ["Selfie a cada 15 dias", "ela prova que é ela mesma"],
+    ["Preço combinado antes", "aparece na tela antes de confirmar"],
+    ["Pagamento pelo app", "com garantia, sem dinheiro na mão"],
+    ["Você avalia depois", "de cada faxina, e ela te avalia"]
+   ]
+  },
+  {
+   "type": "cta",
+   "pre": "Comenta",
+   "word": "FAXINA",
+   "sub": "que eu te mando no direct como pedir a sua",
+   "dur": 3.2
+  }
+ ]
+}
