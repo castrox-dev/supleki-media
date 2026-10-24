@@ -48,7 +48,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 
 ## 4. Fila de temas (pegue o próximo "pendente"; marque "feito AAAA-MM-DD")
 01. [carrossel] Fibra x alvenaria: 5 diferenças que pesam no bolso — feito 2026-10-23 (aprovado; via Windsor) — v2 com fotos oficiais do site publicada 2026-10-23 16h20 (media 17977937034129290)
-02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — pendente
+02. [carrossel] Quanto custa manter uma piscina de fibra por mês (cloro, energia do filtro, limpeza) — feito 2026-10-24 (produzido; aguardando "publica")
 03. [reel – exige vídeo real] Instalação do começo ao fim em 30 s (time-lapse) — pendente (vídeo pedido ao usuário em 2026-10-23)
 04. [carrossel] 6 perguntas pra fazer antes de comprar piscina — pendente
 05. [promo] Promoção Primavera: SPA Standard 6 m — o que vem incluso (válida até 03/11) — pendente
@@ -58,7 +58,7 @@ Responsável: o usuário (social media contratado). Ele aprova pelo celular.
 09. [reel – exige vídeo real] Cliente estreando a piscina / depoimento — pendente
 10. [carrossel] Cascata, LED e hidromassagem: vale a pena? — pendente
 11. [carrossel] Checklist da semana: manutenção em 10 minutos — pendente
-12. [reel texto+voz] Piscina pequena em quintal pequeno: 4 ideias — pendente
+12. [reel texto+voz] Piscina pequena em quintal pequeno: 4 ideias — feito 2026-10-24 (produzido; narração Beatriz gerada no ElevenLabs mas sem download no sandbox → reel sem voz; aguardando "publica")
 13. [carrossel] Piscina com criança em casa: 5 cuidados de segurança — pendente
 14. [reel – exige vídeo real] Tour pela loja no Barroco / modelos expostos — pendente
 15. [carrossel] O que é o duto ecológico e por que importa — pendente
@@ -84,3 +84,9 @@ Enquete "Pensa em ter piscina nesse verão? Sim / Só sonhando", "Você já tem 
 | 2026-10-23 19h45 | 02 | reel 20 s (sem voz) | 4 erros da água verde (tema 07) | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 20h | S-C | story | Chamada post 2 | – | aprovado; sai via Windsor no horário (lembrete agendado) |
 | 2026-10-23 19h10 | v4 | refação | Conteúdo do dia refeito no padrão dos reels oficiais (PRIMAVERA TRADICIONAL / 3 COISAS): stories *_v4, carrossel fibra_x_alvenaria_v4_01–08, reel agua_verde_v4 + capa | – | arquivos prontos; aguardando o usuário decidir o que republicar |
+| 2026-10-24 09h30 | S-0 + S-A | story | Bom dia (sábado) + dica tirar folhas todo dia | – | produzido; aguardando "publica" |
+| 2026-10-24 12h | 01 | carrossel 6 slides | Quanto custa manter a piscina por mês (tema 02) | – | produzido; aguardando "publica" |
+| 2026-10-24 12h15 | S-B | story | Chamada post 1 | – | produzido; aguardando "publica" |
+| 2026-10-24 18h | S-int | story interativo (usuário) | Caixinha "Qual piscina cabe no seu quintal?" | – | com o usuário |
+| 2026-10-24 19h45 | 02 | reel 21 s (sem voz) | Quintal pequeno: 4 ideias (tema 12) | – | produzido; aguardando "publica" |
+| 2026-10-24 20h | S-C | story | Chamada post 2 | – | produzido; aguardando "publica" |

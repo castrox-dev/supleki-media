@@ -1,0 +1,58 @@
+{
+ "fps": 30,
+ "cards": [
+  {
+   "type": "hook",
+   "photo": "fotos/site_tradicional_modelo_6m.png",
+   "label": "Quintal pequeno",
+   "title": "Quintal pequeno também tem",
+   "kw": "piscina",
+   "sub": "4 ideias pra caber no seu espaço",
+   "top": 800,
+   "dur": 3.2
+  },
+  {
+   "type": "data",
+   "photo": "fotos/site_tradicional_fn01.png",
+   "label": "Ideia 1",
+   "value": "Modelo <span class='pk'>compacto</span>",
+   "note": "a Tradicional da Splash começa em 3,50 m",
+   "dur": 3.6
+  },
+  {
+   "type": "data",
+   "photo": "fotos/site_tradicional_prainha_fn02.png",
+   "label": "Ideia 2",
+   "value": "Banco <span class='pk'>dentro d'água</span>",
+   "note": "degraus largos viram lugar pra sentar e relaxar",
+   "size": 130,
+   "dur": 3.6
+  },
+  {
+   "type": "data",
+   "photo": "fotos/site_tradicional_semipastilhada_6m.png",
+   "label": "Ideia 3",
+   "value": "SPA com <span class='pk'>hidro</span>",
+   "note": "no quintal pequeno, relaxar vale mais que nadar",
+   "size": 140,
+   "dur": 3.6
+  },
+  {
+   "type": "data",
+   "photo": "fotos/site_tradicional_modelo_8m.png",
+   "label": "Ideia 4",
+   "value": "Cascata <span class='pk'>e LED</span>",
+   "note": "o quintal pequeno vira cenário à noite",
+   "dur": 3.6
+  },
+  {
+   "type": "cta",
+   "photo": "fotos/site_tradicional_modelo_6m.png",
+   "title": "Comenta <span class='pk'>PISCINA</span>",
+   "sub": "e manda a medida do seu quintal",
+   "btn": "WhatsApp (21) 98395-4914",
+   "top": 1000,
+   "dur": 4.2
+  }
+ ]
+}

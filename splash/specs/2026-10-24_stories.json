@@ -1,0 +1,17 @@
+{"stories": [
+ {"name": "2026-10-24_00_bom_dia", "photo": "fotos/site_tradicional_prainha_fn02.png", "focus": 0.45, "tag": "Splash Itaipuaçu",
+  "title": "Bom dia!<br>Sábado é dia de <span class='pk'>cuidar da piscina</span>", "size": 112,
+  "sub": "Fica nos stories: tem dica rápida pra você fazer hoje."},
+ {"name": "2026-10-24_01_dica_folhas", "photo": "fotos/site_tradicional_modelo_8m.png", "focus": 0.55, "tag": "Dica Splash",
+  "title": "Tira as folhas <span class='pk'>todo dia</span>", "size": 130,
+  "sub": "Folha no fundo vira comida pra alga e faz você gastar mais produto. Peneira na mão leva 2 minutos."},
+ {"name": "2026-10-24_02_post_custo", "photo": "fotos/site_tradicional_fn01.png", "focus": 0.6, "tag": "Post novo no perfil",
+  "title": "Quanto custa manter uma piscina <span class='pk'>por mês?</span>", "size": 112,
+  "sub": "Os 4 gastos que se repetem e onde dá pra economizar.", "btn": "Toca aqui e vê o post"},
+ {"name": "2026-10-24_03_post_quintal", "photo": "fotos/site_tradicional_modelo_6m.png", "tag": "Reel novo no perfil",
+  "title": "Quintal pequeno também tem <span class='pk'>piscina</span>", "size": 118,
+  "sub": "4 ideias pra caber no seu espaço.", "btn": "Toca aqui e assiste"},
+ {"name": "2026-10-24_int_caixinha_quintal", "photo": "fotos/site_tradicional_semipastilhada_6m.png", "tag": "Responde aí",
+  "title": "Qual piscina <span class='pk'>cabe no seu quintal?</span>", "size": 116,
+  "sub": "Me fala a medida (ex.: 5 x 8 m) que eu te digo.", "sticker": "caixinha de perguntas aqui"}
+]}

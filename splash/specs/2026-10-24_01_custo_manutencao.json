@@ -1,0 +1,66 @@
+{
+ "slides": [
+  {
+   "type": "hook",
+   "photo": "fotos/site_tradicional_modelo_6m.png",
+   "focus": 0.55,
+   "title": "Quanto custa manter a piscina <span class='pk'>por mês?</span>",
+   "sub": "O que entra na conta e onde dá pra economizar"
+  },
+  {
+   "type": "text",
+   "photo": "fotos/site_tradicional_fn01.png",
+   "focus": 0.6,
+   "label": "Resumo",
+   "title": "São <span class='pk'>4 gastos</span> que se repetem todo mês",
+   "size": 104,
+   "sub": "Produtos de tratamento, energia da bomba, limpeza e reposição de água. O tamanho da piscina e o quanto ela é usada mudam o valor."
+  },
+  {
+   "type": "text",
+   "photo": "fotos/site_tradicional_semipastilhada_6m.png",
+   "focus": 0.55,
+   "label": "1 · Produtos",
+   "title": "Cloro e pH: <span class='pk'>o gasto fixo</span>",
+   "size": 104,
+   "sub": "Medir a água antes de colocar produto evita desperdício. Na fibra, a superfície lisa dá menos lugar pra alga se esconder."
+  },
+  {
+   "type": "text",
+   "photo": "fotos/site_tradicional_modelo_8m.png",
+   "focus": 0.55,
+   "label": "2 · Energia",
+   "title": "A bomba do filtro <span class='pk'>entra na conta de luz</span>",
+   "size": 92,
+   "sub": "Ela não precisa ficar ligada o dia todo. Um timer liga só nas horas necessárias e ajuda a controlar o gasto."
+  },
+  {
+   "type": "list",
+   "photo": "fotos/site_tradicional_prainha_fn02.png",
+   "focus": 0.4,
+   "label": "3 e 4 · Limpeza e água",
+   "items": [
+    [
+     "Limpeza",
+     "você mesmo com peneira e aspirador, ou um piscineiro"
+    ],
+    [
+     "Reposição de água",
+     "sol e vento evaporam; capa ajuda a segurar"
+    ],
+    [
+     "Casco liso",
+     "escova rápido, sem rejunte pra encardir"
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "photo": "fotos/site_tradicional_semipastilhada_6m.png",
+   "focus": 0.5,
+   "title": "Comenta <span class='pk'>PISCINA</span>",
+   "sub": "que a gente te manda os modelos no direct",
+   "save": "Salva pra consultar depois"
+  }
+ ]
+}
