@@ -1,0 +1,31 @@
+=== MANYCHAT — automação "RIO" (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no Reel 14 contendo: rio, tabela, quero
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei a tabela no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Quero a tabela"):
+Oi! Vi seu comentário no vídeo de quanto custa diarista no Rio 👀
+Clica aqui embaixo que eu te mando a tabela completa de 2026, com o que faz o preço subir e o que combinar antes de fechar.
+
+DM 2 (tabela em texto + botões):
+Quanto custa diarista no Rio de Janeiro em 2026 👇
+
+1️⃣ Faxina simples (a diária): R$ 140 a 240 — apê padrão, 6 a 8 h
+2️⃣ Faxina pesada: R$ 240 a 380 — vidros, armários por dentro, geladeira
+3️⃣ Pós-obra: R$ 380 pra cima — sempre cobra à parte
+4️⃣ Por hora: R$ 20 a 40 — mas a maioria fecha por diária
+5️⃣ Toda semana: R$ 560 a 1.000 por mês (4 diárias)
+6️⃣ Casa grande, pet ou muito acumulada: 20% a 50% a mais
+
+Antes de fechar: manda foto dos cômodos, combina por escrito o que entra e o que é extra, e combina hora de chegada e de saída.
+
+Se quiser ver o preço na tela antes de confirmar: no Limpaki a diarista coloca o valor dela e entra só depois de documento, comprovante de residência, e-mail e selfie verificados.
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=rio
+[BOTÃO] Tabela pra salvar → https://limpaki.com.br/rio
+
+=== RESPOSTA MANUAL NO COMENTÁRIO (enquanto o fluxo não existe) ===
+Mandei no direct! 📩
+
+=== FONTES ===
+Odete (guia 2026, tabela por cidade: Rio simples 140-240, pesada 240-380, pós-obra 380+); GetNinjas diarista RJ (R$ 20-40/h, diária 100-200); Catraca Livre 12/05/2026 (capitais do Sudeste 180-250 a diária; imóveis grandes +20% a 50%); Cronoshare jan/2026 (Rio: diária 85-150, manutenção 120-200, pesada 160-260 — faixa mais baixa, citada só pra registro). Valor mensal = diária simples x 4.

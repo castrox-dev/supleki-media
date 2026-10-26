@@ -1,0 +1,56 @@
+{
+ "fps": 30,
+ "music": true,
+ "music_vol": 0.4,
+ "voice": "../audio/14_voz.mp3",
+ "scenes": [
+  {
+   "type": "hook",
+   "title": "Quanto custa uma diarista no Rio em 2026?",
+   "sub": "fui atrás dos números",
+   "dur": 4.9
+  },
+  {
+   "type": "list",
+   "label": "RIO DE JANEIRO, 2026",
+   "icon": "num",
+   "dur": 18.4,
+   "at": [
+    0.05,
+    3.84,
+    7.73,
+    10.91,
+    14.08
+   ],
+   "items": [
+    [
+     "R$ 140 a 240",
+     "faxina simples, a diária, apê padrão"
+    ],
+    [
+     "R$ 240 a 380",
+     "faxina pesada: vidros, armários por dentro"
+    ],
+    [
+     "R$ 380 pra cima",
+     "pós-obra, cobra à parte, sempre"
+    ],
+    [
+     "R$ 20 a 40 por hora",
+     "mas a maioria cobra diária"
+    ],
+    [
+     "R$ 560 a 1.000 por mês",
+     "faxina toda semana, 4 diárias"
+    ]
+   ]
+  },
+  {
+   "type": "cta",
+   "pre": "Comenta",
+   "word": "RIO",
+   "sub": "que eu te mando a tabela completa no direct",
+   "dur": 3.3
+  }
+ ]
+}
