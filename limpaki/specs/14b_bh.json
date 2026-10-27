@@ -7,29 +7,56 @@
   {
    "src": "../brutos/13_cena1_ana_cancelou.mp4",
    "start": 0.0,
-   "dur": 8.0,
+   "dur": 4.75,
+   "zoom": [1.0, 1.07],
    "caps": [
-    {"t": 0.0, "end": 4.75, "text": "Quanto custa diarista em BH em 2026?", "big": true},
-    {"t": 4.75, "end": 8.0, "text": "Faxina simples: R$ 170 a 220 a diária"}
+    {"t": 0.0, "end": 4.75, "text": "Quanto custa diarista em BH em 2026?", "big": true, "hl": ["BH", "2026"]}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena1_ana_cancelou.mp4",
+   "start": 4.75,
+   "dur": 3.25,
+   "zoom": [1.14, 1.18],
+   "caps": [
+    {"t": 0.0, "end": 3.25, "text": "Faxina simples:\nR$ 170 a 220 a diária", "hl": ["170", "220"]}
    ]
   },
   {
    "src": "../brutos/13_cena3_ju_chega.mp4",
    "start": 0.0,
-   "dur": 8.0,
-   "speed": 0.92,
+   "dur": 2.66,
+   "zoom": [1.0, 1.05],
    "caps": [
-    {"t": 0.0, "end": 2.66, "text": "Faxina PESADA: R$ 200 a 320"},
-    {"t": 2.66, "end": 5.18, "text": "PÓS-OBRA: R$ 320 pra cima"},
-    {"t": 5.18, "end": 8.7, "text": "Meia diária (4 h): R$ 95 a 145"}
+    {"t": 0.0, "end": 2.66, "text": "Faxina PESADA:\nR$ 200 a 320", "hl": ["200", "320"]}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena3_ju_chega.mp4",
+   "start": 2.66,
+   "dur": 2.52,
+   "zoom": [1.16, 1.2],
+   "caps": [
+    {"t": 0.0, "end": 2.52, "text": "PÓS-OBRA:\nR$ 320 pra cima", "hl": ["320"]}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena3_ju_chega.mp4",
+   "start": 5.18,
+   "dur": 2.82,
+   "speed": 0.8,
+   "zoom": [1.06, 1.12],
+   "caps": [
+    {"t": 0.0, "end": 3.52, "text": "Meia diária (4 h):\nR$ 95 a 145", "hl": ["4", "h):", "95", "145"]}
    ]
   },
   {
    "src": "../brutos/13_cena2_popo.mp4",
    "start": 1.0,
    "dur": 4.35,
+   "zoom": [1.0, 1.1],
    "caps": [
-    {"t": 0.0, "end": 4.35, "text": "Toda SEMANA: R$ 680 a 880 por mês"}
+    {"t": 0.0, "end": 4.35, "text": "Toda SEMANA:\nR$ 680 a 880 POR MÊS", "hl": ["680", "880"]}
    ]
   }
  ],
