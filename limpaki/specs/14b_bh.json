@@ -1,0 +1,37 @@
+{
+ "voice": "../audio/14b_voz.mp3",
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/13_cena1_ana_cancelou.mp4",
+   "start": 0.0,
+   "dur": 8.0,
+   "caps": [
+    {"t": 0.0, "end": 4.75, "text": "Quanto custa diarista em BH em 2026?", "big": true},
+    {"t": 4.75, "end": 8.0, "text": "Faxina simples: R$ 170 a 220 a diária"}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena3_ju_chega.mp4",
+   "start": 0.0,
+   "dur": 8.0,
+   "speed": 0.92,
+   "caps": [
+    {"t": 0.0, "end": 2.66, "text": "Faxina PESADA: R$ 200 a 320"},
+    {"t": 2.66, "end": 5.18, "text": "PÓS-OBRA: R$ 320 pra cima"},
+    {"t": 5.18, "end": 8.7, "text": "Meia diária (4 h): R$ 95 a 145"}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena2_popo.mp4",
+   "start": 1.0,
+   "dur": 4.35,
+   "caps": [
+    {"t": 0.0, "end": 4.35, "text": "Toda SEMANA: R$ 680 a 880 por mês"}
+   ]
+  }
+ ],
+ "end": {"pre": "Comenta", "word": "BH", "sub": "que eu te mando a tabela completa no direct", "dur": 3.0}
+}

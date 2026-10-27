@@ -1,0 +1,31 @@
+=== MANYCHAT — automação "BH" (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no Reel 14b contendo: bh, belo horizonte, tabela, quero
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei a tabela no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Quero a tabela"):
+Oi! Vi seu comentário no vídeo de quanto custa diarista em BH 👀
+Clica aqui embaixo que eu te mando a tabela completa de 2026, com o que faz o preço subir e o que combinar antes de fechar.
+
+DM 2 (tabela em texto + botões):
+Quanto custa diarista em Belo Horizonte em 2026 👇
+
+1️⃣ Faxina simples (a diária): R$ 170 a 220 — apê de 3 quartos, 6 a 8 h (média R$ 190). Apê grande: R$ 250 a 280
+2️⃣ Faxina pesada: R$ 200 a 320 — vidros, armários por dentro, geladeira
+3️⃣ Pós-obra: R$ 320 pra cima — sempre cobra à parte
+4️⃣ Meia diária (4 h): R$ 95 a 145 — apê pequeno ou manutenção
+5️⃣ Toda semana: R$ 680 a 880 por mês (4 diárias)
+6️⃣ Casa grande, pet ou muito acumulada: 20% a 50% a mais. Transporte e almoço não entram nesses valores
+
+Antes de fechar: manda foto dos cômodos, combina por escrito o que entra e o que é extra, e combina hora de chegada e de saída.
+
+Se quiser ver o preço na tela antes de confirmar: no Limpaki a diarista coloca o valor dela e entra só depois de documento, comprovante de residência, e-mail e selfie verificados.
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=bh
+[BOTÃO] Tabela pra salvar → https://limpaki.com.br/bh
+
+=== RESPOSTA MANUAL NO COMENTÁRIO (enquanto o fluxo não existe) ===
+Mandei no direct! 📩
+
+=== FONTES ===
+Mercado Mineiro, pesquisa de 20 e 21/08/2026 com 40 diaristas e agências de BH, publicada no Diário do Comércio em 24/08/2026 (diária R$ 170 a 220 em apê de 3 quartos/100 m², média R$ 190 — era R$ 184 em 2025; apê grande R$ 250 a 280; sem transporte e alimentação); Odete guia 2026, tabela por cidade (BH: simples 120-200, pesada 200-320, pós-obra 320+); Workfly 2026 (BH: diária comum 145-240, pesada 190-335, pós-obra 285-570, meia diária 95-145); Catraca Livre 12/05/2026 (imóveis grandes +20% a 50%); Portal 6 10/05/2026 (BH convencional 120-200, citado só pra registro). Valor mensal = diária simples (170-220) x 4.
