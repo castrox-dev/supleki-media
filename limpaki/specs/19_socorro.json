@@ -1,0 +1,79 @@
+{
+ "voice": "../audio/19_voz.mp3",
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/13_cena1_ana_cancelou.mp4",
+   "start": 3.0,
+   "dur": 4.4,
+   "zoom": [1.0, 1.08],
+   "caps": [
+    {"t": 0.0, "end": 2.45, "text": "A visita chega AMANHÃ", "big": true, "y": 1150},
+    {"t": 2.45, "end": 4.4, "text": "E a casa tá ASSIM", "big": true, "y": 1150}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena2_popo.mp4",
+   "start": 1.5,
+   "dur": 2.6,
+   "zoom": [1.04, 1.1],
+   "caps": [
+    {"t": 0.0, "end": 2.6, "text": "Respira.\nAbre o LIMPAKI"}
+   ]
+  },
+  {
+   "src": "../brutos/18_cena2_ana_pede.mp4",
+   "start": 0.4,
+   "dur": 3.6,
+   "zoom": [1.0, 1.07],
+   "caps": [
+    {"t": 0.0, "end": 1.9, "text": "ESCOLHE a diarista\nperto de você"},
+    {"t": 1.9, "end": 3.6, "text": "E marca pra AMANHÃ"}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena2_popo.mp4",
+   "start": 5.2,
+   "dur": 2.7,
+   "zoom": [1.08, 1.14],
+   "caps": [
+    {"t": 0.0, "end": 2.7, "text": "O PREÇO aparece\nantes de confirmar"}
+   ]
+  },
+  {
+   "src": "../brutos/13_cena3_ju_chega.mp4",
+   "start": 2.5,
+   "dur": 3.1,
+   "zoom": [1.0, 1.07],
+   "caps": [
+    {"t": 0.0, "end": 3.1, "text": "Documento e SELFIE\nverificados"}
+   ]
+  },
+  {
+   "src": "../brutos/19_cena_ju_sala.mp4",
+   "start": 5.5,
+   "dur": 1.6,
+   "zoom": [1.04, 1.1],
+   "caps": [
+    {"t": 0.0, "end": 1.6, "text": "Casa BRILHANDO"}
+   ]
+  },
+  {
+   "src": "../brutos/19_cena_ana_recebe.mp4",
+   "start": 1.2,
+   "dur": 1.6,
+   "zoom": [1.0, 1.08],
+   "caps": [
+    {"t": 0.0, "end": 1.6, "text": "Quando a VISITA chega"}
+   ]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "SOCORRO",
+  "sub": "que eu te mando o passo a passo no direct",
+  "dur": 3.4
+ }
+}
