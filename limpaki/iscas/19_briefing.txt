@@ -1,51 +1,33 @@
-=== BRIEFING POR CENA — REEL 19 "A visita chega amanhã" (23,0 s, 1080x1920) ===
-Narração: Roberta (ElevenLabs, Eleven v3), 23,0 s, "Limpakí". Trilha baixa (0.12). Palavra: SOCORRO.
+=== BRIEFING POR CENA — REEL 19 "A visita chega amanhã" v2 (23,1 s, 1080x1920) — TODAS as cenas novas (Flow, 28/10) ===
+Narração: Roberta (ElevenLabs, Eleven v3), 23,0 s, "Limpakí" (mantida). Trilha baixa (0.12). Palavra: SOCORRO.
 
-CENA 1 — 0,0 a 4,4 s — brutos/13_cena1_ana_cancelou.mp4 (trecho 3,0–7,4 s, novo trecho; zoom 1.00→1.08)
-  Vídeo: Ana (moletom cinza, coque) lê a mensagem no celular, cara de susto, olha a sala bagunçada (canecas no chão, roupa no sofá).
-  Texto na tela (hook, caixa grande, abaixo do rosto): "A visita chega AMANHÃ" → "E a casa tá ASSIM"
-  Narração: "A visita avisou: chego amanhã às dez. E a casa tá assim."
-  Direção: problema. Luz natural fria, Ana parada no meio da bagunça.
-
-CENA 2 — 4,4 a 7,0 s — brutos/13_cena2_popo.mp4 (trecho 1,5–4,1 s; zoom 1.04→1.10)
-  Vídeo: Popó (robô branco com laço turquesa e espanador) levanta o dedinho, sorrindo.
-  Texto: "Respira. / Abre o LIMPAKI"
-  Narração: "Respira. Abre o Limpakí."
-  Direção: virada. Primeira menção à marca, com o mascote.
-
-CENA 3 — 7,0 a 10,6 s — brutos/18_cena2_ana_pede.mp4 (trecho 0,4–4,0 s; zoom 1.00→1.07)
-  Vídeo: Ana no sofá, mexe no celular, começa a sorrir.
-  Texto: "ESCOLHE a diarista / perto de você" → "E marca pra AMANHÃ"
-  Narração: "Escolhe uma diarista perto de você e marca pra amanhã."
-  Direção: como resolve (1/2). Luz quente de fim de tarde.
-
-CENA 4 — 10,6 a 13,3 s — brutos/13_cena2_popo.mp4 (trecho 5,2–7,9 s; zoom 1.08→1.14)
-  Vídeo: Popó mostra o celular.
-  Texto: "O PREÇO aparece / antes de confirmar"
-  Narração: "O preço aparece antes de você confirmar."
-  Direção: garantia 1 (preço combinado antes).
-
-CENA 5 — 13,3 a 16,4 s — brutos/13_cena3_ju_chega.mp4 (trecho 2,5–5,6 s; zoom 1.00→1.07)
-  Vídeo: Ju (cacheada, camiseta branca, cardigã) chega na porta e cumprimenta Ana.
-  Texto: "Documento e SELFIE / verificados"
-  Narração: "Ela chega com documento e selfie verificados."
-  Direção: garantia 2 (verificação).
-
-CENA 6 — 16,4 a 18,0 s — brutos/19_cena_ju_sala.mp4 (NOVA, Flow; trecho 5,5–7,1 s; zoom 1.04→1.10)
-  Vídeo: Ju de avental azul-marinho ajeita as almofadas do sofá bege na sala da Ana e levanta sorrindo, mãos na cintura.
-  Texto: "Casa BRILHANDO"
-  Narração (início): "E quando a campainha toca, a casa já tá brilhando."
-  Direção: resultado. Corte rápido.
-
-CENA 7 — 18,0 a 19,6 s — brutos/19_cena_ana_recebe.mp4 (NOVA, Flow; trecho 1,2–2,8 s; zoom 1.00→1.08)
+CENA 1 — 0,0 a 2,45 s — brutos/19_cena1b_ana_sofa.mp4 (NOVA; trecho 0,3–2,75 s; zoom 1.00→1.08)
+  Vídeo: Ana (moletom cinza, coque, meias brancas) no sofá bege, lê a mensagem no celular e leva um susto (boca aberta).
+  Texto (hook, caixa grande, abaixo do rosto): "A visita chega AMANHÃ"
+  Narração: "A visita avisou: chego amanhã às dez."
+CENA 2 — 2,45 a 4,4 s — brutos/19_cena1b_ana_sofa.mp4 (NOVA; trecho 4,3–6,25 s; zoom 1.04→1.10)
+  Vídeo: Ana de pé, olha a sala bagunçada (roupa no sofá, canecas e pratos na mesinha, almofada no chão).
+  Texto: "E a casa tá ASSIM" | Narração: "E a casa tá assim."
+CENA 3 — 4,4 a 7,0 s — brutos/19_cena2_popo_novo.mp4 (NOVA; trecho 2,0–4,6 s; zoom 1.00→1.07)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador, "Popó" na tela facial) na sala da Ana, levanta o dedinho "calma".
+  Texto: "Respira. / Abre o LIMPAKI" | Narração: "Respira. Abre o Limpakí."
+CENA 4 — 7,0 a 10,6 s — brutos/19_cena1_ana_mensagem.mp4 (NOVA; trecho 0,5–2,9 s em câmera lenta 0,67x; zoom 1.08→1.16)
+  Vídeo: Ana no sofá, concentrada no celular, luz de manhã.
+  Texto: "ESCOLHE a diarista / perto de você" → "E marca pra AMANHÃ" | Narração: "Escolhe uma diarista perto de você e marca pra amanhã."
+CENA 5 — 10,6 a 13,3 s — brutos/19_cena2_popo_novo.mp4 (NOVA; trecho 6,0–8,0 s em câmera lenta 0,74x; zoom 1.06→1.12)
+  Vídeo: Popó mostra o celular pra câmera.
+  Texto: "O PREÇO aparece / antes de confirmar" | Narração: "O preço aparece antes de você confirmar."
+CENA 6 — 13,3 a 16,4 s — brutos/19_cena_ju_sala.mp4 (NOVA; trecho 0,3–3,4 s; zoom 1.00→1.07)
+  Vídeo: Ju (cacheada, camiseta branca, avental azul-marinho, luvas amarelas) passa pano na estante da sala da Ana, sorrindo.
+  Texto: "Documento e SELFIE / verificados" | Narração: "Ela chega com documento e selfie verificados."
+CENA 7 — 16,4 a 18,0 s — brutos/19_cena_ju_sala.mp4 (NOVA; trecho 5,6–7,2 s; zoom 1.06→1.12)
+  Vídeo: Ju ajeita as almofadas do sofá e levanta sorrindo, mãos na cintura.
+  Texto: "Casa BRILHANDO" | Narração (início): "E quando a campainha toca, a casa já tá brilhando."
+CENA 8 — 18,0 a 19,6 s — brutos/19_cena_ana_recebe.mp4 (NOVA; trecho 0,9–2,5 s; zoom 1.00→1.08)
   Vídeo: Ana abre a porta e recebe a visita (senhora de blusa floral e bolsa) na sala limpa e arrumada.
   Texto: "Quando a VISITA chega"
-  Narração (fim da mesma fala).
-  Direção: payoff emocional, alívio.
-
-CARD FINAL — 19,6 a 23,0 s — card turquesa premium
-  Texto: "Comenta / SOCORRO / que eu te mando o passo a passo no direct"
+CARD FINAL — 19,6 a 23,0 s — card turquesa: "Comenta / SOCORRO / que eu te mando o passo a passo no direct"
   Narração: "Comenta SOCORRO que eu te mando o passo a passo no direct."
 
-Capa: frame aos 0,8 s (Ana com o celular + "A visita chega AMANHÃ"). Story: stories/19_story.jpg (tema claro, frame da cena 7 em 4:5).
-Flow: 2 gerações novas hoje (10 créditos cada, Veo 3.1 Lite, 720p 9:16 8 s) — créditos voltaram a funcionar em 28/10.
+Capa: frame aos 0,8 s (Ana com o celular, "A visita chega AMANHÃ"). Story: stories/19_story.jpg (tema claro, frame da cena 8 em 4:5).
+Flow 28/10: 5 gerações novas no total (2 à tarde + 3 à noite: Ana lendo a mensagem x2 takes, Popó novo); créditos acabaram de novo às ~21:10. Nenhuma cena do 13 ou do 18 foi usada nesta versão.
