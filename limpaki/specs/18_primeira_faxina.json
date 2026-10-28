@@ -1,0 +1,114 @@
+{
+ "voice": "../audio/18_voz.mp3",
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/18_cena1_ana_cansada.mp4",
+   "start": 0.6,
+   "dur": 2.99,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.99,
+     "text": "A 1ª faxina pelo LIMPAKI é assim",
+     "big": true,
+     "hl": [
+      "1ª"
+     ],
+     "y": 1150
+    }
+   ]
+  },
+  {
+   "src": "../brutos/18_cena2_ana_pede.mp4",
+   "start": 0.4,
+   "dur": 4.45,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.31,
+     "text": "Você ESCOLHE a diarista\nperto de você"
+    },
+    {
+     "t": 2.31,
+     "end": 4.45,
+     "text": "E vê o PREÇO\nantes de confirmar"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/13_cena2_popo.mp4",
+   "start": 1.5,
+   "dur": 2.2,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.2,
+     "text": "O POPÓ confirma\ne avisa a hora"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/18_cena3_ju_limpa.mp4",
+   "start": 0.0,
+   "dur": 4.6,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.3,
+     "text": "Documento e SELFIE\nverificados"
+    },
+    {
+     "t": 2.3,
+     "end": 4.6,
+     "text": "E deixa tudo BRILHANDO"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/18_cena2_ana_pede.mp4",
+   "start": 4.2,
+   "dur": 3.73,
+   "zoom": [
+    1.1,
+    1.16
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.35,
+     "text": "Paga pelo app,\ncom GARANTIA"
+    },
+    {
+     "t": 2.35,
+     "end": 3.73,
+     "text": "E AVALIA no final"
+    }
+   ]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "QUERO",
+  "sub": "que eu te mando o passo a passo no direct",
+  "dur": 3.1
+ }
+}

@@ -37,7 +37,7 @@ def wrap(d, text, f, mw):
     return out
 
 
-def caption_png(text, big, path, hl=()):
+def caption_png(text, big, path, hl=(), y=None):
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(img)
     f = F("InterDisplay-Black.otf", 84 if big else 66)
     lines = []
@@ -45,7 +45,7 @@ def caption_png(text, big, path, hl=()):
         lines += wrap(d, part, f, 900)
     lh = 98 if big else 80
     bh = len(lines) * lh + 50
-    y0 = 260 if big else H - 560 - bh
+    y0 = y if y is not None else (260 if big else H - 560 - bh)
     bw = max(d.textlength(l, font=f) for l in lines) + 80
     # sombra suave + caixa
     sh = Image.new("RGBA", (W, H), (0, 0, 0, 0)); sd = ImageDraw.Draw(sh)
@@ -113,7 +113,7 @@ def main(spec_path, out):
                + (f",tpad=stop_mode=clone:stop_duration={hold}" if hold else "") + zflt + "[v0]")
         last = "v0"
         for j, cap in enumerate(c.get("caps", [])):
-            png = f"{tmp}/c{i}_{j}.png"; caption_png(cap["text"], cap.get("big"), png, cap.get("hl", ()))
+            png = f"{tmp}/c{i}_{j}.png"; caption_png(cap["text"], cap.get("big"), png, cap.get("hl", ()), cap.get("y"))
             T, E = cap["t"], cap["end"]; a = 0.28
             inputs += ["-loop", "1", "-t", str(c["dur"] / sp + hold), "-i", png]
             flt += (f";[{j+1}:v]format=rgba,fade=t=in:st={T}:d={a}:alpha=1[ck{j}]"
