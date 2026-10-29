@@ -1,0 +1,33 @@
+=== BRIEFING POR CENA — REEL 20 "Vai passar o sábado limpando de novo?" (20,4 s, 1080x1920) — TODAS as cenas novas (Flow, 29/10) ===
+Narração: Roberta (ElevenLabs, Eleven v3), 19,7 s, "Limpakí". Trilha baixa (0.12). Palavra: FOLGA.
+História: sábado de manhã, Ana olha a bagunça com rodo e balde na mão → Popó: "calma, pede no Limpakí" → Ana escolhe dia/horário e vê o preço → Ju chega (documento + selfie a cada 15 dias) e limpa a cozinha → Ana lendo no sofá da sala limpa, sábado de volta → CTA.
+
+CENA 1 — 0,0 a 2,9 s — brutos/20_cena1_ana_rodo.mp4 (NOVA; trecho 2,3–5,2 s; zoom 1.00→1.08)
+  Vídeo: Ana (moletom cinza, coque, meias brancas, luvas amarelas) de pé na sala bagunçada com rodo e balde, olha em volta e solta um suspiro de desânimo.
+  Texto (hook, caixa grande, abaixo do rosto): "Vai passar o SÁBADO / limpando?"
+  Narração: "Vai passar o sábado limpando de novo?"
+CENA 2 — 2,9 a 5,1 s — brutos/20_cena2_popo.mp4 (NOVA; trecho 1,0–3,2 s; zoom 1.00→1.07)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador, tela facial preta) na sala da Ana, olha pra câmera e balança a cabeça "calma".
+  Texto: "Calma. / Pede no LIMPAKI" | Narração: "Calma. Pede no Limpakí."
+CENA 3 — 5,1 a 7,0 s — brutos/20_cena3_ana_escolhe.mp4 (NOVA; trecho 1,6–3,5 s; zoom 1.04→1.10)
+  Vídeo: Ana sentada no sofá, rola o celular e sorri aliviada.
+  Texto: "Você ESCOLHE / o dia e o horário" | Narração: "Você escolhe o dia e o horário."
+CENA 4 — 7,0 a 9,3 s — brutos/20_cena2_popo.mp4 (NOVA; trecho 5,7–8,0 s; zoom 1.06→1.12)
+  Vídeo: Popó levanta o celular e aponta pra tela, animado.
+  Texto: "O PREÇO aparece / antes de confirmar" | Narração: "E vê o preço antes de confirmar."
+CENA 5 — 9,3 a 11,9 s — brutos/20_cena4_ju_cozinha.mp4 (NOVA; trecho 0,5–3,1 s; zoom 1.00→1.07)
+  Vídeo: Ju (cacheada, camiseta branca, avental azul-marinho, luvas amarelas) esfrega a pia da cozinha, sorrindo.
+  Texto: "Diarista com / DOCUMENTO verificado" | Narração: "A diarista chega com documento verificado..."
+CENA 6 — 11,9 a 14,3 s — brutos/20_cena4_ju_cozinha.mp4 (NOVA; trecho 4,6–7,0 s; zoom 1.06→1.12)
+  Vídeo: Ju organiza a louça limpa na bancada, luz da janela.
+  Texto: "SELFIE refeita / a cada 15 dias" | Narração: "...e selfie refeita a cada quinze dias."
+CENA 7 — 14,3 a 16,6 s — brutos/20_cena5_ana_folga.mp4 (NOVA; trecho 4,3–6,6 s; zoom 1.00→1.08)
+  Vídeo: Ana lendo um livro com uma caneca na poltrona da sala limpa, luz de fim de tarde, se espreguiça.
+  Texto: "Seu SÁBADO / volta a ser seu" | Narração: "E o seu sábado volta a ser seu."
+CARD FINAL — 16,6 a 20,4 s — card turquesa: "Comenta / FOLGA / que eu te mando o passo a passo no direct"
+  Narração: "Comenta FOLGA que eu te mando o passo a passo no direct."
+
+Capa: frame aos 0,8 s (Ana com rodo e balde, "Vai passar o SÁBADO limpando?"). Story: stories/20_story.jpg (tema claro, frame da cena 7 em 4:5).
+Flow 29/10: 5 gerações novas (50 créditos, Veo 3.1 Lite; a 1ª tentativa da cena 1 falhou e foi reembolsada, retry OK); créditos do Flow zerados ao final (renovam diariamente às 12:00). Nenhuma cena de Reel anterior foi usada.
+Clipes trazidos sem download: cenas 1, 4 e 5 via flow-content.google (fetch na página /edit); cenas 2 e 3 via o preview do grid (hover no tile → <video>.src flow.google.com/asb/... → abrir a URL numa aba → redireciona pra googlevideo.com → fetch na mesma origem; é um transcode 720p itag 22, ~1 MB).
+ElevenLabs: 465 créditos antes, 404 depois (v3 gera 2 takes; usado o take 1, 19,7 s).
