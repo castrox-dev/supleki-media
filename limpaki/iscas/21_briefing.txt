@@ -1,0 +1,34 @@
+=== BRIEFING POR CENA — REEL 21 "A diarista pediu um sinal no Pix antes de vir. Você paga?" (25,0 s, 1080x1920) — TODAS as cenas novas (Flow, 30/10) ===
+Narração: Roberta (ElevenLabs, Eleven v3), 24,6 s, "Limpakí". Trilha baixa (0.12). Palavra: SEGURO.
+História: Ana recebe a mensagem de uma "diarista" pedindo sinal no Pix e fica desconfiada → Popó alerta e acalma: no Limpakí ninguém paga adiantado pra desconhecido → Ana escolhe uma diarista com documento e selfie verificados → Popó mostra o preço na tela antes de confirmar → Ju chega e limpa a sala (pagamento pelo app, com garantia) → Ana tranquila no sofá da sala limpa → CTA.
+
+CENA 1 — 0,0 a 3,9 s — brutos/21_cena1_ana_mensagem.mp4 (NOVA; trecho 1,8–5,7 s; zoom 1.00→1.08)
+  Vídeo: Ana (moletom cinza, coque, meias brancas) no sofá bege, lê uma mensagem no celular; o sorriso vira cara de desconfiança, franze a testa.
+  Texto (hook, caixa grande, abaixo do rosto): "Diarista pediu SINAL / no Pix. Você paga?"
+  Narração: "A diarista pediu um sinal no Pix antes de vir. Você paga?"
+CENA 2 — 3,9 a 7,65 s — brutos/21_cena2_popo.mp4 (NOVA; trecho 0,6–4,35 s; zoom 1.00→1.07)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador, tela facial preta) na sala da Ana balança a cabeça "não" e depois faz gesto de "calma".
+  Texto: "No LIMPAKI você não / paga ADIANTADO" | Narração: "Calma. No Limpakí você não paga adiantado pra desconhecido."
+CENA 3 — 7,65 a 11,3 s — brutos/21_cena3_ana_escolhe.mp4 (NOVA; trecho 1,2–4,85 s; zoom 1.04→1.10)
+  Vídeo: Ana rola o celular com calma, lê um perfil e abre um sorriso aliviado.
+  Texto: "Diarista com DOCUMENTO / e SELFIE verificados" | Narração: "Você escolhe uma diarista com documento e selfie verificados."
+CENA 4 — 11,3 a 14,1 s — brutos/21_cena2_popo.mp4 (NOVA; trecho 5,0–7,8 s; zoom 1.06→1.12)
+  Vídeo: Popó em close, olhos grandes, mostra o celular pra câmera.
+  Texto: "O PREÇO aparece / antes de confirmar" | Narração: "O preço aparece na tela antes de confirmar."
+CENA 5 — 14,1 a 16,9 s — brutos/21_cena4_ju_sala.mp4 (NOVA; trecho 0,4–3,2 s; zoom 1.00→1.07)
+  Vídeo: Ju (cacheada, camiseta branca, avental azul-marinho, luvas amarelas) passa pano na estante e ajeita a planta da sala da Ana, luz dourada da janela.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "E o pagamento é pelo app, com garantia."
+CENA 6 — 16,9 a 18,0 s — brutos/21_cena4_ju_sala.mp4 (NOVA; trecho 4,3–5,4 s; zoom 1.06→1.12)
+  Vídeo: Ju dá um tapinha nas almofadas do sofá, sorrindo.
+  Texto: "Ela chega / e LIMPA" | Narração: "Ela chega, limpa,"
+CENA 7 — 18,0 a 20,05 s — brutos/21_cena5_ana_tranquila.mp4 (NOVA; trecho 2,6–4,65 s; zoom 1.00→1.08)
+  Vídeo: Ana relaxada no sofá da sala limpa, caneca numa mão e celular na outra, sorri e toma um gole.
+  Texto: "Você fica / TRANQUILA" | Narração: "e você fica tranquila."
+CARD FINAL — 20,05 a 24,9 s — card turquesa: "Comenta / SEGURO / que eu te mando a lista pra contratar sem cair em golpe"
+  Narração: "Comenta SEGURO que eu te mando no direct a lista pra contratar sem cair em golpe."
+
+Capa: frame aos 0,8 s (Ana lendo a mensagem, "Diarista pediu SINAL no Pix. Você paga?"). Story: stories/21_story.jpg (tema claro, frame da cena 1 aos 2,6 s em 4:5).
+Flow 30/10: 5 gerações novas (50 créditos, Veo 3.1 Lite), todas aproveitadas; créditos do Flow zerados ao final (renovam às 12:00). Nenhuma cena de Reel anterior foi usada.
+Clipes trazidos sem download: cenas 1–4 via flow-content.google (fetch na página /edit, fatias de 220k em browser_batch); cena 5 via preview do grid (hover no tile → <video>.src flow.google.com/asb/... → aba → googlevideo.com → fetch, transcode 720p 1,2 MB).
+ElevenLabs: uso foi de 404 pra 518 de 5.000 créditos do ciclo (texto de 24,6 s, Eleven v3; mp3 lido direto do player data:base64 em 3 fatias).
+Isca: palavra SEGURO, página site/seguro.html (nova, padrão da socorro.html; falta copiar pra public/ do limpae e push) + fluxo iscas/21_manychat.txt (AINDA NÃO criado no ManyChat). Fonte: Febraban (via Diário do Pará, 01/07/2025).
