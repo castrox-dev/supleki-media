@@ -1,0 +1,34 @@
+=== BRIEFING POR CENA — REEL 22 "Fez festa em casa ontem? Olha a sala." (20,3 s, 1080x1920) — TODAS as cenas novas (Flow, 31/10) ===
+Narração: Roberta (ElevenLabs, Eleven v3), 18,05 s, "Limpakí", começa aos 0,7 s. Trilha baixa (0.12). Palavra: FESTA.
+História: manhã de domingo depois da festa, Ana entra na sala e encara a bagunça (copos, garrafas, balões) → Popó acalma: pede no Limpakí e escolhe o horário → Ana escolhe uma diarista com documento e selfie verificados → Popó mostra o preço na tela antes de confirmar → Ju chega, recolhe copos e garrafas, passa pano na mesinha → Ju ajeita as almofadas, sofá limpo ("você curte o domingo em paz") → CTA.
+
+CENA 1 — 0,0 a 3,4 s — brutos/22_cena1_ana_festa.mp4 (NOVA; trecho 1,5–4,9 s; zoom 1.00→1.08)
+  Vídeo: Ana (moletom cinza, coque, meias brancas) para no meio da sala bagunçada de festa (copos, garrafas, balões murchos na mesinha e no chão), se inclina e leva a mão à testa, cara de "não acredito".
+  Texto (hook, caixa grande, abaixo do rosto): "Fez FESTA ontem? / Olha a sala."
+  Narração (0,7 s): "Fez festa ontem? Olha a sala."
+CENA 2 — 3,4 a 6,9 s — brutos/22_cena2_popo_fix.mp4 (NOVA; trecho 2,4–5,9 s; zoom 1.00→1.07)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador, tela facial preta) no meio da sala bagunçada olha pra câmera, sorri com os olhos e faz gesto de "calma".
+  Texto: "Pede no LIMPAKI / e escolhe o HORÁRIO" | Narração: "Calma. No Limpakí você pede uma diarista e escolhe o horário."
+CENA 3 — 6,9 a 8,7 s — brutos/22_cena3_ana_escolhe.mp4 (NOVA; trecho 1,8–3,6 s; zoom 1.04→1.10)
+  Vídeo: Ana no sofá rola o celular com calma e lê um perfil (copos e garrafas ainda na mesinha, em primeiro plano).
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 4 — 8,7 a 10,7 s — brutos/22_cena2_popo_fix.mp4 (NOVA; trecho 5,9–7,9 s; zoom 1.06→1.12)
+  Vídeo: Popó em close mostra o celular pra câmera.
+  Texto: "O PREÇO aparece / antes de confirmar" | Narração: "Preço antes de confirmar."
+CENA 5 — 10,7 a 12,4 s — brutos/22_cena4_ju_limpa.mp4 (NOVA; trecho 0,6–2,3 s; zoom 1.00→1.07)
+  Vídeo: Ju (cacheada, camiseta branca, avental azul-marinho, luvas amarelas) sorrindo recolhe copos e garrafas da mesinha num saco de lixo.
+  Texto: "Ela chega e / dá conta da LOUÇA" | Narração: "Ela chega e dá conta da louça,"
+CENA 6 — 12,4 a 14,1 s — brutos/22_cena4_ju_limpa.mp4 (NOVA; trecho 4,4–6,1 s; zoom 1.00→1.07)
+  Vídeo: Ju passa pano na mesinha de centro e se vira pro sofá.
+  Texto: "Do CHÃO, / da SALA inteira" | Narração: "do chão, da sala."
+CENA 7 — 14,1 a 16,2 s — brutos/22_cena4_ju_limpa.mp4 (NOVA; trecho 6,1–7,9 s em câmera lenta 0,87; zoom 1.07→1.14, continua o punch-in da cena 6)
+  Vídeo: Ju ajeita as almofadas do sofá bege, sala já arrumada, luz dourada.
+  Texto: "E você curte / o DOMINGO em paz" | Narração: "E você curte o domingo em paz."
+CARD FINAL — 16,2 a 20,3 s — card turquesa: "Comenta / FESTA / que eu te mando a lista da faxina pós-festa no direct"
+  Narração: "Comenta FESTA que eu te mando a lista no direct."
+
+Capa: frame aos 0,8 s (Ana na sala bagunçada, "Fez FESTA ontem? Olha a sala."). Story: stories/22_story.jpg (tema claro, frame da cena 1 aos 4,0 s em 4:5).
+Flow 31/10: 6 gerações (créditos: 50 → 0, renovam às 12:00). A 1ª versão do Popó saiu com a palavra "PIXAR" escrita no peito e na testa (o prompt dizia "estilo Pixar") — DESCARTADA; regerada sem citar Pixar ("animação 3D premium... corpo liso, sem letra, palavra, logo"). A 2ª versão ainda trouxe um texto minúsculo ("cal down") na tela do rosto a partir de 1 s: coberto com caixa preta rastreada (ffmpeg drawbox a cada 0,1 s) → brutos/22_cena2_popo_fix.mp4; e o trecho 0–2,4 s (balançando a cabeça) não foi usado. Nenhuma cena de Reel anterior foi usada. Faltou a cena "Ana relaxada no sofá limpo" (sem crédito) — o fechamento usa a Ju ajeitando as almofadas.
+Clipes trazidos sem download: fetch do flow-content.google na página /edit, base64 em fatias de 440k chars por chamada (limite do bridge ~450k; acima disso corta em 262k).
+ElevenLabs: só havia 295 créditos (não 5.000); o texto com <break> dava 465 e foi recusado ("Você ficou sem créditos") → roteiro enxuto de 278 caracteres sem tags; sobraram 22 créditos — PRÓXIMO REEL SEM NARRAÇÃO NOVA se não houver upgrade/renovação.
+Isca: palavra FESTA, página site/festa.html (nova, padrão da seguro.html; falta copiar pra public/ do limpae e push) + fluxo iscas/22_manychat.txt (AINDA NÃO criado no ManyChat). Legenda sem números (não precisou de fonte).

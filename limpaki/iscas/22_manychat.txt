@@ -1,0 +1,36 @@
+=== MANYCHAT — automação "FESTA" (Reel 22 — faxina pós-festa) (duplicar "GUIA - reel confiar na diarista (post 12)" e trocar post/palavra/textos) ===
+
+GATILHO: comentário no Reel 22 contendo: festa, lista, pós-festa, pos-festa
+
+RESPOSTA PÚBLICA (alternar): "Mandei no direct 📩" / "Tá no seu direct! 📩" / "Enviei no direct, dá uma olhada 📩"
+
+DM 1 (boas-vindas + botão "Me manda a lista"):
+Oi! Vi seu comentário no vídeo da festa 🥳
+Clica aqui embaixo que eu te mando a lista do que pedir na faxina pós-festa (e o que deixar pronto antes de ela chegar).
+
+DM 2 (lista + botões):
+Faxina pós-festa: a lista 🧹
+
+Antes de ela chegar (10 min):
+1️⃣ Recolhe garrafas, latas e copos num saco só (separa o reciclável)
+2️⃣ Guarda ou joga fora a comida que sobrou
+3️⃣ Tira a louça da pia e empilha do lado
+4️⃣ Guarda o que é de valor ou frágil
+5️⃣ Avisa o que derramou e onde (vinho, cerveja, vela)
+
+O que pedir:
+🍽️ Louça, copos e panelas (lavar, secar, guardar)
+🧽 Chão da sala, cozinha e banheiro (fala se tá grudento)
+🚽 Banheiro completo
+🛋️ Mesas, bancadas e sofá
+🗑️ Lixo pra fora (avisa a portaria se precisar)
+
+Costuma ser extra (combina antes): lavar roupa/toalha, forno e geladeira por dentro, lavar sofá ou tapete, área externa, casa grande (pode precisar de 2 diárias).
+
+No Limpaki você pede, escolhe o horário e vê o preço antes de confirmar. Toda diarista tem documento, comprovante de residência, e-mail e selfie verificados (selfie refeita a cada 15 dias), e o pagamento é pelo app, com garantia.
+
+[BOTÃO] Pedir uma diarista → https://webapp.limpaki.com.br/?utm_source=instagram&utm_medium=dm&utm_campaign=festa
+[BOTÃO] Lista pra salvar → https://limpaki.com.br/festa
+
+=== RESPOSTA MANUAL NO COMENTÁRIO (enquanto o fluxo não existe) ===
+Mandei no direct! 📩

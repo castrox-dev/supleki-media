@@ -1,0 +1,137 @@
+{
+ "voice": "../audio/22_voz.mp3",
+ "voice_segments": [
+  {
+   "from": 0,
+   "to": 18.1,
+   "at": 0.7,
+   "tempo": 1.0
+  }
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/22_cena1_ana_festa.mp4",
+   "start": 1.5,
+   "dur": 3.4,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 3.4,
+     "text": "Fez FESTA ontem?\nOlha a sala.",
+     "big": true,
+     "y": 1180
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena2_popo_fix.mp4",
+   "start": 2.4,
+   "dur": 3.5,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 3.5,
+     "text": "Pede no LIMPAKI\ne escolhe o HORÁRIO"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena3_ana_escolhe.mp4",
+   "start": 1.8,
+   "dur": 1.8,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 1.8,
+     "text": "DOCUMENTO e SELFIE\nverificados"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena2_popo_fix.mp4",
+   "start": 5.9,
+   "dur": 2.0,
+   "zoom": [
+    1.06,
+    1.12
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.0,
+     "text": "O PREÇO aparece\nantes de confirmar"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena4_ju_limpa.mp4",
+   "start": 0.6,
+   "dur": 1.7,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 1.7,
+     "text": "Ela chega e\ndá conta da LOUÇA"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena4_ju_limpa.mp4",
+   "start": 4.4,
+   "dur": 1.7,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 1.7,
+     "text": "Do CHÃO,\nda SALA inteira"
+    }
+   ]
+  },
+  {
+   "src": "../brutos/22_cena4_ju_limpa.mp4",
+   "start": 6.1,
+   "dur": 1.83,
+   "speed": 0.87,
+   "zoom": [
+    1.07,
+    1.14
+   ],
+   "caps": [
+    {
+     "t": 0.0,
+     "end": 2.1,
+     "text": "E você curte\no DOMINGO em paz"
+    }
+   ]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "FESTA",
+  "sub": "que eu te mando a lista da faxina pós-festa no direct",
+  "dur": 4.0
+ }
+}
