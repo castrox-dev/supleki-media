@@ -1,0 +1,59 @@
+{
+ "voice": "../audio/23_voz.mp3",
+ "voice_segments": [
+  {"from": 0, "to": 21.0, "at": 0.7, "tempo": 1.0}
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/23_cena1_ana_chega.mp4",
+   "start": 1.0, "dur": 3.0,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 3.0, "text": "Chegou de VIAGEM\ne a casa tá assim?", "big": true, "y": 1180}]
+  },
+  {
+   "src": "../brutos/23_cena1_ana_chega.mp4",
+   "start": 4.6, "dur": 2.6,
+   "zoom": [1.06, 1.13],
+   "caps": [{"t": 0.0, "end": 2.6, "text": "PÓ em tudo e\nzero vontade de limpar"}]
+  },
+  {
+   "src": "../brutos/23_cena2_popo_fix.mp4",
+   "start": 1.2, "dur": 3.9,
+   "zoom": [1.0, 1.07],
+   "caps": [{"t": 0.0, "end": 3.9, "text": "Pede no LIMPAKI\npra AMANHÃ cedo"}]
+  },
+  {
+   "src": "../brutos/23_cena3_ana_escolhe.mp4",
+   "start": 2.0, "dur": 3.4,
+   "zoom": [1.02, 1.09],
+   "caps": [{"t": 0.0, "end": 3.4, "text": "Escolhe o HORÁRIO\ne vê o PREÇO antes"}]
+  },
+  {
+   "src": "../brutos/23_cena4_ju_limpa.mp4",
+   "start": 1.6, "dur": 2.2,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.2, "text": "DOCUMENTO e SELFIE\nverificados"}]
+  },
+  {
+   "src": "../brutos/23_cena4_ju_limpa.mp4",
+   "start": 4.6, "dur": 2.2,
+   "zoom": [1.05, 1.12],
+   "caps": [{"t": 0.0, "end": 2.2, "text": "Pagamento pelo APP,\ncom GARANTIA"}]
+  },
+  {
+   "src": "../brutos/23_cena5_ana_desfaz_mala.mp4",
+   "start": 2.2, "dur": 1.9,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 1.9, "text": "Você só\nDESFAZ a MALA"}]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "VIAGEM",
+  "sub": "que eu te mando a lista da faxina pós-viagem no direct",
+  "dur": 4.0
+ }
+}
