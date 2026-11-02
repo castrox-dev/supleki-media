@@ -1,34 +1,34 @@
-=== BRIEFING POR CENA — REEL 23 "Chegou de viagem e a casa tá assim?" (23,2 s, 1080x1920) — TODAS as cenas novas (Flow, 01/11) ===
-Narração: Roberta (ElevenLabs, Eleven v3), roteiro em audio/23_roteiro.txt, "Limpakí", prevista pra começar aos 0,7 s. Trilha baixa (0.12). Palavra: VIAGEM.
-STATUS DA VOZ: o ElevenLabs estava com 22 créditos de 10.000 (sem renovação em 01/11) — a versão enviada pra aprovação (reels/23_viagem_semvoz.mp4) está SEM narração, só trilha + legendas; os tempos abaixo são a previsão pelo ritmo da Roberta. Assim que houver créditos, gerar audio/23_voz.mp3, rodar silencedetect, ajustar "dur" das cenas e renderizar reels/23_viagem.mp4.
+=== BRIEFING POR CENA — REEL 23 "Chegou de viagem e a casa tá assim?" (22,7 s, 1080x1920) — TODAS as cenas novas (Flow, 01/11) ===
+Narração: NIKA (Google AI Studio, Gemini Flash TTS, voz feminina "warm and approachable", estilo "narradora brasileira, calorosa e animada") — substituiu a Roberta porque o ElevenLabs ficou sem créditos e o usuário não quer pagar (02/11). Roteiro em audio/23_roteiro.txt, "Limpakí", 21,0 s, começa aos 0,67 s do vídeo (audio/23_voz.mp3; bruto audio/23_voz_gemini.wav 24 kHz). Trilha baixa (0.12). Palavra: VIAGEM.
+STATUS DA VOZ: gravada em 02/11 com a Nika (Gemini TTS) e sincronizada por silencedetect; tempos abaixo são os reais.
 História: Ana chega de viagem puxando a mala e encara a sala parada (cortina fechada, pó na estante, correspondência na mesinha) → Popó acalma: pede no Limpakí pra amanhã cedo → Ana escolhe horário e vê o preço no celular → Ju abre a cortina e tira o pó da estante (documento + selfie verificados; pagamento pelo app com garantia) → Ana desfaz a mala no sofá da sala limpa → CTA.
 
-CENA 1 — 0,0 a 3,0 s — brutos/23_cena1_ana_chega.mp4 (NOVA; trecho 1,0–4,0 s; zoom 1.00→1.06)
+CENA 1 — 0,0 a 3,3 s — brutos/23_cena1_ana_chega.mp4 (NOVA; trecho 1,0–4,3 s; zoom 1.00→1.06)
   Vídeo: Ana (moletom cinza, coque, calça preta) entra puxando a mala preta com rodinhas, para no meio da sala e olha ao redor: cortina fechada, correspondência acumulada na mesinha, estante empoeirada.
   Texto (hook, caixa grande, abaixo do rosto): "Chegou de VIAGEM / e a casa tá assim?"
-  Narração (0,7 s): "Chegou de viagem e a casa tá assim?"
-CENA 2 — 3,0 a 5,6 s — brutos/23_cena1_ana_chega.mp4 (NOVA; trecho 4,6–7,2 s; zoom 1.06→1.13, continua o punch-in)
+  Narração (0,67 s): "Chegou de viagem e a casa tá assim?"
+CENA 2 — 3,3 a 6,2 s — brutos/23_cena1_ana_chega.mp4 (NOVA; trecho 4,4–7,3 s; zoom 1.06→1.13, continua o punch-in)
   Vídeo: Ana apoia na mala, leva a mão à testa, cansada.
   Texto: "PÓ em tudo e / zero vontade de limpar" | Narração: "Pó em tudo e zero vontade de limpar."
-CENA 3 — 5,6 a 9,5 s — brutos/23_cena2_popo_fix.mp4 (NOVA; trecho 1,2–5,1 s; zoom 1.00→1.07)
+CENA 3 — 6,2 a 9,75 s — brutos/23_cena2_popo_fix.mp4 (NOVA; trecho 1,2–4,75 s; zoom 1.00→1.07)
   Vídeo: Popó (robô branco arredondado, laço turquesa, espanador, tela facial preta com olhos turquesa) na sala, com a mala ao lado, olha pra câmera, sorri com os olhos e faz gesto de "calma".
   Texto: "Pede no LIMPAKI / pra AMANHÃ cedo" | Narração: "Calma. No Limpakí você pede uma diarista pra amanhã cedo."
-CENA 4 — 9,5 a 12,9 s — brutos/23_cena3_ana_escolhe.mp4 (NOVA; trecho 2,0–5,4 s; zoom 1.02→1.09)
+CENA 4 — 9,75 a 12,45 s — brutos/23_cena3_ana_escolhe.mp4 (NOVA; trecho 2,0–4,7 s; zoom 1.02→1.09)
   Vídeo: Ana no sofá, mala fechada ao lado e correspondência na mesinha, rola o celular com calma e sorri de alívio.
   Texto: "Escolhe o HORÁRIO / e vê o PREÇO antes" | Narração: "Escolhe o horário e vê o preço antes de confirmar."
-CENA 5 — 12,9 a 15,1 s — brutos/23_cena4_ju_limpa.mp4 (NOVA; trecho 1,6–3,8 s; zoom 1.00→1.06)
+CENA 5 — 12,45 a 14,55 s — brutos/23_cena4_ju_limpa.mp4 (NOVA; trecho 1,6–3,7 s; zoom 1.00→1.06)
   Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) abre a cortina e a luz entra na sala.
   Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
-CENA 6 — 15,1 a 17,3 s — brutos/23_cena4_ju_limpa.mp4 (NOVA; trecho 4,6–6,8 s; zoom 1.05→1.12)
+CENA 6 — 14,55 a 16,75 s — brutos/23_cena4_ju_limpa.mp4 (NOVA; trecho 4,6–6,8 s; zoom 1.05→1.12)
   Vídeo: Ju passa pano na estante de madeira ao lado da TV, sorrindo.
   Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
-CENA 7 — 17,3 a 19,2 s — brutos/23_cena5_ana_desfaz_mala.mp4 (NOVA; trecho 2,2–4,1 s; zoom 1.00→1.06)
+CENA 7 — 16,75 a 18,65 s — brutos/23_cena5_ana_desfaz_mala.mp4 (NOVA; trecho 2,2–4,1 s; zoom 1.00→1.06)
   Vídeo: Ana no sofá da sala limpa e dourada, mala aberta ao lado, tira uma roupa dobrada, relaxada.
   Texto: "Você só / DESFAZ a MALA" | Narração: "Você só desfaz a mala."
-CARD FINAL — 19,2 a 23,2 s — card turquesa: "Comenta / VIAGEM / que eu te mando a lista da faxina pós-viagem no direct"
+CARD FINAL — 18,65 a 22,7 s — card turquesa: "Comenta / VIAGEM / que eu te mando a lista da faxina pós-viagem no direct"
   Narração: "Comenta VIAGEM que eu te mando a lista no direct."
 
 Capa: reels/23_viagem_cover.jpg (frame aos 0,8 s: Ana com a mala, "Chegou de VIAGEM e a casa tá assim?"). Story: stories/23_story.jpg (tema claro, frame da cena 1 aos 5,2 s em 4:5).
 Flow 01/11: 5 gerações, 50 → 0 créditos (renovam às 12:00). Popó veio com "pop°" escrito no peito → removido com ffmpeg delogo (x=314:y=706:w=112:h=96) → brutos/23_cena2_popo_fix.mp4. Ju saiu com pele mais clara que nos Reels anteriores (cabelo cacheado preso, camiseta branca, avental azul-marinho mantidos). Nenhuma cena de Reel anterior foi usada. Clipes trazidos sem download (fetch do flow-content.google na página /edit, fatias de 440k chars). ATENÇÃO Flow: o painel do app ficou estreito no meio da sessão e a caixa de prompt voltou pro modo direto com "x2" (20 créditos) — conferir x1 antes de gerar.
-ElevenLabs: 22 créditos (sem renovação em 01/11; promo Starter 30 mil créditos por US$1 até 08/11 na página de assinatura).
+ElevenLabs: 22 créditos, abandonado por ora (usuário não quer pagar). Voz agora pelo Google AI Studio (aistudio.google.com/generate-speech, gratuito na conta do usuário): Speaker Nika + Style em português; áudio lido do <audio>.src data:audio/wav;base64 em 6 fatias de 230k.
 Isca: palavra VIAGEM, página site/viagem.html (nova, padrão da festa.html; falta copiar pra public/ do limpae e push) + fluxo iscas/23_manychat.txt (AINDA NÃO criado no ManyChat). Legenda sem números (não precisou de fonte).
