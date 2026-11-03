@@ -1,0 +1,59 @@
+{
+ "voice": "../audio/24_voz.mp3",
+ "voice_segments": [
+  {"from": 0, "to": 25.3, "at": 0.4, "tempo": 1.0}
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/24_cena1_ana_caixa.mp4",
+   "start": 0.6, "dur": 3.53,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 3.53, "text": "APÊ NOVO\ne ele tá assim?", "big": true, "y": 1180}]
+  },
+  {
+   "src": "../brutos/24_cena1_ana_caixa.mp4",
+   "start": 3.9, "dur": 3.93,
+   "zoom": [1.06, 1.13],
+   "caps": [{"t": 0.0, "end": 3.93, "text": "PÓ, chão grudento\ne 20 CAIXAS pra abrir"}]
+  },
+  {
+   "src": "../brutos/24_cena2_popo_fix.mp4",
+   "start": 2.2, "dur": 4.82,
+   "zoom": [1.0, 1.07],
+   "caps": [{"t": 0.0, "end": 4.82, "text": "Pede no LIMPAKI\nantes de DESENCAIXOTAR"}]
+  },
+  {
+   "src": "../brutos/24_cena3_ana_escolhe.mp4",
+   "start": 2.5, "dur": 3.16,
+   "zoom": [1.02, 1.09],
+   "caps": [{"t": 0.0, "end": 3.16, "text": "Escolhe o DIA\ne vê o PREÇO antes"}]
+  },
+  {
+   "src": "../brutos/24_cena4_ju_limpa.mp4",
+   "start": 0.5, "dur": 2.3,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.3, "text": "DOCUMENTO e SELFIE\nverificados"}]
+  },
+  {
+   "src": "../brutos/24_cena4_ju_limpa.mp4",
+   "start": 4.4, "dur": 2.22,
+   "zoom": [1.05, 1.12],
+   "caps": [{"t": 0.0, "end": 2.22, "text": "Pagamento pelo APP,\ncom GARANTIA"}]
+  },
+  {
+   "src": "../brutos/24_cena5_ana_desencaixota.mp4",
+   "start": 4.8, "dur": 2.45,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.45, "text": "Só abre as CAIXAS\nna casa LIMPA"}]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "MUDANÇA",
+  "sub": "que eu te mando a lista da faxina de mudança no direct",
+  "dur": 3.6
+ }
+}

@@ -1,0 +1,34 @@
+=== BRIEFING POR CENA — REEL 24 "Pegou as chaves do apê novo e ele tá assim?" (26,1 s, 1080x1920) — TODAS as cenas novas (Flow, 03/11) ===
+Narração: NIKA (Google AI Studio, Gemini 3.8 Flash TTS, "warm and approachable", estilo "narradora brasileira, calorosa e animada, ritmo de vídeo curto"). Roteiro em audio/24_roteiro.txt, "Limpakí", bruto 28,4 s (audio/24_voz_gemini.wav, 24 kHz) → pausas longas cortadas pra 0,3 s + atempo 1,08 + loudnorm = 25,2 s (audio/24_voz.mp3), começa aos 0,4 s do vídeo. Trilha baixa (0.12). Palavra: MUDANÇA.
+História: Ana entra no apê novo com uma caixa de mudança e encara o sofá embalado em plástico, pó e caixas por todo lado → Popó acalma: pede no Limpakí pra antes de desencaixotar → Ana, sentada numa caixa, escolhe o dia e vê o preço no celular → Ju passa pano no chão e limpa a estante (documento + selfie verificados; pagamento pelo app com garantia) → Ana desencaixota e põe um porta-retrato na estante da sala limpa, luz dourada → CTA.
+
+CENA 1 — 0,0 a 3,5 s — brutos/24_cena1_ana_caixa.mp4 (NOVA; trecho 0,6–4,1 s; zoom 1.00→1.06)
+  Vídeo: Ana (moletom cinza, coque, calça preta, meias brancas) entra na sala carregando uma caixa de papelão; sofá bege coberto com plástico, estante de madeira com TV, planta ao lado da janela, caixas de mudança pelo chão, piso com pó.
+  Texto (hook, caixa grande, abaixo do rosto): "APÊ NOVO / e ele tá assim?"
+  Narração (0,4 s): "Pegou as chaves do apê novo e ele tá assim?"
+CENA 2 — 3,5 a 7,5 s — brutos/24_cena1_ana_caixa.mp4 (NOVA; trecho 3,9–7,8 s; zoom 1.06→1.13, continua o punch-in)
+  Vídeo: Ana apoia a caixa sobre outra, se abaixa e, no fim, close do rosto cansado olhando a bagunça.
+  Texto: "PÓ, chão grudento / e 20 CAIXAS pra abrir" | Narração: "Pó por tudo, chão grudento e vinte caixas pra abrir."
+CENA 3 — 7,5 a 12,3 s — brutos/24_cena2_popo_fix.mp4 (NOVA; trecho 2,2–7,0 s; zoom 1.00→1.07)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador branco, tela facial preta com olhos turquesa e bochechas rosadas) entre as caixas da sala, olha pra câmera, faz gesto de "calma" e mostra o celular.
+  Texto: "Pede no LIMPAKI / antes de DESENCAIXOTAR" | Narração: "Calma. No Limpakí você pede uma faxina pra antes de desencaixotar."
+CENA 4 — 12,3 a 15,4 s — brutos/24_cena3_ana_escolhe.mp4 (NOVA; trecho 2,5–5,7 s; zoom 1.02→1.09)
+  Vídeo: Ana sentada em cima de uma caixa fechada, caixas ao redor, rola o celular com as duas mãos e abre um sorriso de alívio.
+  Texto: "Escolhe o DIA / e vê o PREÇO antes" | Narração: "Escolhe o dia e vê o preço antes de confirmar."
+CENA 5 — 15,4 a 17,7 s — brutos/24_cena4_ju_limpa.mp4 (NOVA; trecho 0,5–2,8 s; zoom 1.00→1.06)
+  Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) ajoelhada passando pano no piso claro, caixas empilhadas ao fundo, sorrindo pra câmera.
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 6 — 17,7 a 20,0 s — brutos/24_cena4_ju_limpa.mp4 (NOVA; trecho 4,4–6,6 s; zoom 1.05→1.12)
+  Vídeo: Ju de pé limpa a estante de madeira ao lado da TV com um pano, de perfil, luz da janela.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
+CENA 7 — 20,0 a 22,4 s — brutos/24_cena5_ana_desencaixota.mp4 (NOVA; trecho 4,8–7,25 s; zoom 1.00→1.06)
+  Vídeo: Ana ajoelhada na sala limpa e dourada, tira um porta-retrato da caixa, coloca na estante e sorri.
+  Texto: "Só abre as CAIXAS / na casa LIMPA" | Narração: "Você só abre as caixas na casa limpa."
+CARD FINAL — 22,4 a 26,1 s — card turquesa: "Comenta / MUDANÇA / que eu te mando a lista da faxina de mudança no direct"
+  Narração: "Comenta MUDANÇA que eu te mando a lista no direct."
+
+Capa: reels/24_mudanca_cover.jpg (frame aos 0,8 s: Ana com a caixa, "APÊ NOVO e ele tá assim?"). Story: stories/24_story.jpg (tema claro, frame da cena 1 aos 1,2 s em 4:5).
+Flow 03/11: 5 gerações, 50 → 0 créditos (renovam às 12:00; o banner "Seus créditos acabaram" apareceu logo depois da 5ª aprovação, que ainda entrou). Popó veio com "POPÓ" escrito em letras minúsculas turquesa na tela do rosto, acima dos olhos → coberto com retângulo preto rastreado pelos olhos (scipy, frame a frame) → brutos/24_cena2_popo_fix.mp4. ATENÇÃO Flow (agente): mandar um prompt novo enquanto a pergunta "Aprovar?" anterior está aberta CANCELA a geração anterior ("A resposta foi cancelada") — aprovar primeiro, esperar o agente terminar, só então mandar o próximo. Nenhuma cena de Reel anterior foi usada. Clipes trazidos sem download: hover no tile → <video>.currentSrc (flow.google.com/asb/...) → abrir numa aba → redireciona pra googlevideo.com → fetch na mesma origem → base64 em fatias de 440k chars (browser_batch, 2 por chamada) → join_b64.py.
+Google AI Studio (TTS): UI nova em 03/11 ("Create new dialog", modelo Gemini 3.8 Flash TTS, Speaker settings → escolher Nika na lista "Commercial Voiceover"; Style é um chip no bloco de fala). O <audio> da página NÃO traz mais o áudio (src de 0,08 s); o botão Download salvou o WAV em Downloads como <uuid>.tmp (RIFF válido) → staged pro container.
+ElevenLabs: não usado (22 créditos, usuário não quer pagar).
+Isca: palavra MUDANÇA, página site/mudanca.html (nova, padrão da viagem.html; falta copiar pra public/ do limpae e push) + fluxo iscas/24_manychat.txt (AINDA NÃO criado no ManyChat). Legenda sem números (não precisou de fonte).
