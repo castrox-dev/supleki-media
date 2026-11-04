@@ -1,0 +1,35 @@
+=== BRIEFING POR CENA — REEL 25 "Trabalha de casa e a casa tá assim?" (26,6 s, 1080x1920) — TODAS as cenas novas (Flow, 04/11) ===
+Narração: NIKA (Google AI Studio, Gemini 3.8 Flash TTS, "warm and approachable", estilo "narradora brasileira, calorosa e animada, ritmo de vídeo curto"). Roteiro em audio/25_roteiro.txt, "Limpakí", bruto 25,2 s (audio/25_voz_gemini.wav) → loudnorm = 25,3 s (audio/25_voz.mp3), começa aos 0,3 s do vídeo. Trilha baixa (0.12). Palavra: FOCO.
+História: Ana numa videochamada no sofá, notebook no colo, canecas, pratos e papéis por tudo → tira o fone, olha a bagunça e suspira → Popó acalma: pede no Limpakí a diarista pra enquanto você trabalha → Ana escolhe o horário no celular e vê o preço → Ju recolhe louça e passa pano na mesinha enquanto Ana trabalha ao fundo (documento + selfie verificados; pagamento pelo app com garantia) → Ana tira o fone e se espreguiça na sala limpa, luz dourada → CTA.
+
+CENA 1 — 0,0 a 3,0 s — brutos/25_cena1_ana_homeoffice.mp4 (NOVA; trecho 0,3–3,3 s; zoom 1.00→1.06)
+  Vídeo: Ana (moletom cinza, coque, fone de ouvido) sorrindo numa videochamada, notebook no colo, no sofá bege; na mesinha canecas usadas, prato sujo e papel amassado; estante de madeira com TV, planta, roupas jogadas no sofá.
+  Texto (hook, caixa grande, abaixo do rosto): "HOME OFFICE / e a casa tá assim?"
+  Narração (0,3 s): "Trabalha de casa e a casa tá assim?"
+CENA 2 — 3,0 a 6,2 s — brutos/25_cena1_ana_homeoffice.mp4 (NOVA; trecho 3,6–6,8 s; zoom 1.06→1.13, continua o punch-in)
+  Vídeo: Ana encerra a chamada, tira o fone, olha a bagunça ao redor e esfrega os olhos cansada.
+  Texto: "REUNIÃO, louça na pia / e PÓ no notebook" | Narração: "Reunião atrás de reunião, louça na pia e pó no notebook."
+CENA 3 — 6,2 a 12,1 s — brutos/25_cena2_popo_fix.mp4 (NOVA; trecho 0,6–6,5 s; zoom 1.00→1.10)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador branco, tela facial preta com olhos turquesa e bochechas rosadas) na sala ao lado da mesinha com notebook e canecas, olha pra câmera, faz gesto de calma e mostra o celular.
+  Texto 1 (6,2–10,65 s): "CALMA. No LIMPAKI / você pede a diarista" | Narração: "Calma. No Limpakí você pede a diarista"
+  Texto 2 (10,65–12,1 s): "pra ENQUANTO / você TRABALHA" | Narração: "pra enquanto você trabalha."
+CENA 4 — 12,1 a 15,1 s — brutos/25_cena3_ana_escolhe.mp4 (NOVA; trecho 1,0–4,0 s; zoom 1.02→1.09)
+  Vídeo: Ana no sofá com o notebook ao lado, segura o celular com as duas mãos, rola a tela e sorri de alívio.
+  Texto: "Escolhe o HORÁRIO / e vê o PREÇO antes" | Narração: "Escolhe o horário e vê o preço antes de confirmar."
+CENA 5 — 15,1 a 17,3 s — brutos/25_cena4_ju_limpa.mp4 (NOVA; trecho 0,5–2,7 s; zoom 1.00→1.06)
+  Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) recolhe os pratos da mesinha de centro; ao fundo, Ana trabalha no notebook com fone, sentada perto da janela.
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 6 — 17,3 a 19,4 s — brutos/25_cena4_ju_limpa.mp4 (NOVA; trecho 4,4–6,6 s; zoom 1.05→1.12)
+  Vídeo: Ju passa pano na mesinha de madeira e sorri pra câmera, Ana ao fundo concentrada.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
+CENA 7 — 19,4 a 23,0 s — brutos/25_cena5_ana_fecha.mp4 (NOVA; trecho 2,6–6,1 s; zoom 1.00→1.06)
+  Vídeo: Ana na sala limpa e dourada de fim de tarde tira o fone, estica os braços e sorri aliviada; mesinha limpa, notebook na frente.
+  Texto: "Acabou o EXPEDIENTE / e a casa tá LIMPA" | Narração: "Você fecha o notebook e a casa já tá limpa."
+CARD FINAL — 23,0 a 26,6 s — card turquesa: "Comenta / FOCO / que eu te mando a lista da faxina no home office no direct"
+  Narração: "Comenta FOCO que eu te mando a lista no direct."
+
+Capa: reels/25_foco_cover.jpg (frame aos 0,8 s: Ana sorrindo na chamada, "HOME OFFICE e a casa tá assim?"). Story: stories/25_story.jpg (tema claro, frame do Reel aos 5,0 s em 4:5, "Reel novo").
+Flow 04/11: 5 gerações, 50 → 0 créditos (renovam às 12:00; o banner "Seus créditos acabaram" apareceu depois da 5ª aprovação, que entrou). Popó veio com "Ppō" escrito em letras minúsculas na tela do rosto, acima dos olhos → faixa superior da tela (39% da altura) pintada de preto frame a frame (tools/fix_popo_face.py, novo) → brutos/25_cena2_popo_fix.mp4. Clipes trazidos sem download: abrir o tile (/edit/<id>) → URL flow-content.google/video/<id> em performance.getEntriesByType('resource') → fetch → base64 em window.__s → fatias de 440k chars (browser_batch, 2 por chamada) → join_b64.py. Nenhuma cena de Reel anterior foi usada.
+Google AI Studio (TTS): "Create new dialog" → Speaker settings → Nika (Commercial Voiceover) → Style custom → Run; o <audio> da página não traz o áudio (0,04 s); o botão Download salvou "Generated Audio November 04, 2026 - 4_54PM.wav" em Downloads → staged → audio/25_voz_gemini.wav.
+ElevenLabs: não usado (22 créditos, usuário não quer pagar).
+Isca: palavra FOCO, página site/foco.html (nova, padrão da mudanca.html; falta copiar pra public/ do limpae e push) + fluxo iscas/25_manychat.txt (AINDA NÃO criado no ManyChat). Legenda sem números (não precisou de fonte).
