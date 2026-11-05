@@ -1,0 +1,62 @@
+{
+ "voice": "../audio/26_voz.mp3",
+ "voice_segments": [
+  {"from": 0, "to": 24.3, "at": 0.3, "tempo": 1.0}
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/26_cena1_ana_bebe.mp4",
+   "start": 0.2, "dur": 2.8,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.8, "text": "BEBÊ chegou\ne a casa tá assim?", "big": true, "y": 1180}]
+  },
+  {
+   "src": "../brutos/26_cena1_ana_bebe.mp4",
+   "start": 3.4, "dur": 4.2,
+   "zoom": [1.06, 1.14],
+   "caps": [{"t": 0.0, "end": 4.2, "text": "MAMADEIRA na pia,\nroupinha por TUDO"}]
+  },
+  {
+   "src": "../brutos/26_cena2_popo.mp4",
+   "start": 0.8, "dur": 5.1,
+   "zoom": [1.0, 1.1],
+   "caps": [
+    {"t": 0.0, "end": 2.9, "text": "CALMA. No LIMPAKI\nvocê pede a diarista"},
+    {"t": 2.9, "end": 5.1, "text": "e escolhe o HORÁRIO\nda SONECA"}
+   ]
+  },
+  {
+   "src": "../brutos/26_cena3_ana_escolhe.mp4",
+   "start": 2.0, "dur": 2.0,
+   "zoom": [1.02, 1.09],
+   "caps": [{"t": 0.0, "end": 2.0, "text": "Vê o PREÇO\nantes de confirmar"}]
+  },
+  {
+   "src": "../brutos/26_cena4_ju_limpa.mp4",
+   "start": 0.6, "dur": 2.4,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.4, "text": "DOCUMENTO e SELFIE\nverificados"}]
+  },
+  {
+   "src": "../brutos/26_cena4_ju_limpa.mp4",
+   "start": 4.6, "dur": 2.5,
+   "zoom": [1.05, 1.12],
+   "caps": [{"t": 0.0, "end": 2.5, "text": "Pagamento pelo APP,\ncom GARANTIA"}]
+  },
+  {
+   "src": "../brutos/26_cena5_ana_descansa.mp4",
+   "start": 3.0, "dur": 2.6,
+   "zoom": [1.0, 1.07],
+   "caps": [{"t": 0.0, "end": 2.6, "text": "Enquanto ela LIMPA,\nvocê DESCANSA"}]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "BEBÊ",
+  "sub": "que eu te mando a lista da faxina com bebê em casa no direct",
+  "dur": 3.6
+ }
+}

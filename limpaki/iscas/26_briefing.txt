@@ -1,0 +1,35 @@
+=== BRIEFING POR CENA — REEL 26 "Bebê chegou e a casa ficou assim?" (25,2 s, 1080x1920) — TODAS as cenas novas (Flow, 05/11) ===
+Narração: NIKA (Google AI Studio, Gemini 3.8 Flash TTS, "warm and approachable", estilo "narradora brasileira, calorosa e animada, ritmo de vídeo curto"). Roteiro em audio/26_roteiro.txt, "Limpakí", bruto 26,8 s (audio/26_voz_gemini.wav) → pausas longas cortadas pra 0,3 s + atempo 1,05 + loudnorm = 24,2 s (audio/26_voz.mp3), começa aos 0,3 s do vídeo. Trilha baixa (0.12). Palavra: BEBÊ.
+História: Ana, com olheiras, nina o bebê recém-nascido no colo no meio da sala cheia de mamadeira, fralda e roupinha → Popó, ao lado do moisés com o bebê dormindo, faz "shh" e mostra o celular: pede no Limpakí e escolhe o horário da soneca → Ana no sofá, bebê dormindo no moisés ao lado, escolhe no celular e vê o preço → Ju recolhe mamadeiras e passa pano na mesinha em silêncio enquanto Ana descansa com o bebê ao fundo (documento + selfie verificados; pagamento pelo app com garantia) → Ana deitada no sofá da sala limpa, luz dourada, bebê dormindo no peito → CTA.
+
+CENA 1 — 0,0 a 2,8 s — brutos/26_cena1_ana_bebe.mp4 (NOVA; trecho 0,2–3,0 s; zoom 1.00→1.06)
+  Vídeo: Ana (moletom cinza, coque, olheiras) em pé/sentada na sala ninando o bebê enrolado na manta branca; na mesinha e no sofá bege, mamadeiras, pacote de fraldas aberto, roupinhas e cobertor; estante de madeira com TV, planta.
+  Texto (hook, caixa grande, abaixo do rosto): "BEBÊ chegou / e a casa tá assim?"
+  Narração (0,3 s): "Bebê chegou e a casa ficou assim?"
+CENA 2 — 2,8 a 7,0 s — brutos/26_cena1_ana_bebe.mp4 (NOVA; trecho 3,4–7,6 s; zoom 1.06→1.14, continua o punch-in)
+  Vídeo: Ana olha a bagunça ao redor, faz cara de cansaço e suspira com o bebê no colo.
+  Texto: "MAMADEIRA na pia, / roupinha por TUDO" | Narração: "Mamadeira na pia, roupinha por tudo e nenhum minuto pra limpar."
+CENA 3 — 7,0 a 12,1 s — brutos/26_cena2_popo.mp4 (NOVA; trecho 0,8–5,9 s; zoom 1.00→1.10)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador branco, tela facial preta com olhos turquesa e bochechas rosadas, SEM texto na tela desta vez) ao lado do moisés de vime com o bebê dormindo; faz "shh" com o dedo e depois mostra o celular.
+  Texto 1 (7,0–9,9 s): "CALMA. No LIMPAKI / você pede a diarista" | Narração: "Calma. No Limpakí você pede a diarista"
+  Texto 2 (9,9–12,1 s): "e escolhe o HORÁRIO / da SONECA" | Narração: "e escolhe o horário da soneca."
+CENA 4 — 12,1 a 14,1 s — brutos/26_cena3_ana_escolhe.mp4 (NOVA; trecho 2,0–4,0 s; zoom 1.02→1.09)
+  Vídeo: Ana no sofá, moisés com o bebê dormindo em primeiro plano, segura o celular com as duas mãos e sorri de alívio.
+  Texto: "Vê o PREÇO / antes de confirmar" | Narração: "Vê o preço antes de confirmar."
+CENA 5 — 14,1 a 16,5 s — brutos/26_cena4_ju_limpa.mp4 (NOVA; trecho 0,6–3,0 s; zoom 1.00→1.06)
+  Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) recolhe mamadeiras e roupinhas da mesinha numa cestinha; ao fundo, Ana na poltrona com o bebê no colo.
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 6 — 16,5 a 19,0 s — brutos/26_cena4_ju_limpa.mp4 (NOVA; trecho 4,6–7,1 s; zoom 1.05→1.12)
+  Vídeo: Ju passa pano na mesinha de madeira sorrindo, Ana e o bebê ao fundo.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
+CENA 7 — 19,0 a 21,6 s — brutos/26_cena5_ana_descansa.mp4 (NOVA; trecho 3,0–5,6 s; zoom 1.00→1.07)
+  Vídeo: Ana deitada no sofá bege da sala limpa, luz dourada de fim de tarde, bebê dormindo no peito; fecha os olhos e sorri.
+  Texto: "Enquanto ela LIMPA, / você DESCANSA" | Narração: "Enquanto ela limpa, você descansa com o bebê."
+CARD FINAL — 21,6 a 25,2 s — card turquesa: "Comenta / BEBÊ / que eu te mando a lista da faxina com bebê em casa no direct"
+  Narração: "Comenta BEBÊ que eu te mando a lista no direct."
+
+Capa: reels/26_bebe_cover.jpg (frame aos 0,8 s: Ana com o bebê no colo, "BEBÊ chegou e a casa tá assim?"). Story: stories/26_story.jpg (tema claro, frame do Reel aos 1,2 s em 4:5, "Reel novo").
+Flow 05/11: 5 gerações, 50 → 0 créditos (renovam às 12:00); o Popó veio limpo (sem texto na tela), não precisou de fix. Prompts em specs/26_prompts_flow.txt. A geração 1 terminou mas o agente mostrou "Algo deu errado. Tente de novo" (o vídeo ficou no grid; NÃO clicar em "Tentar de novo", gasta crédito). O editor novo do Flow (/edit/<id>) é canvas, não expõe <video>: pegar o clipe por hover no tile do grid → <video>.currentSrc (flow.google.com/asb/...=mm,22,15) → navegar pra essa URL (redireciona pra googlevideo.com) → fetch na mesma origem → base64 em window.__s → fatias de 440k (browser_batch, 2 por chamada) → tools/join_b64.py (novo no repo; aceita JSON e texto puro). Nenhuma cena de Reel anterior foi usada.
+Google AI Studio (TTS): "Create new dialog" → Speaker settings → Nika (Commercial Voiceover) → Style custom → Run (26 s); o <audio> da página segue sem o áudio (0,04 s) e hooks de fetch/XHR não funcionam (o javascript_tool roda em mundo isolado); o botão Download salvou "Generated Audio November 05, 2026 - 5_10PM.wav" em Downloads → staged → audio/26_voz_gemini.wav.
+ElevenLabs: não usado (22 créditos, usuário não quer pagar).
+Isca: palavra BEBÊ, página site/bebe.html (nova, padrão da foco.html; falta copiar pra public/ do limpae e push) + fluxo iscas/26_manychat.txt (AINDA NÃO criado no ManyChat; gatilho aceita "bebê", "bebe" e "bb"). Legenda sem números (não precisou de fonte).
