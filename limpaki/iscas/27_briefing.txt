@@ -1,0 +1,36 @@
+=== BRIEFING POR CENA — REEL 27 "Cachorro em casa e o pelo tá por tudo?" (25,3 s, 1080x1920) — TODAS as cenas novas (Flow, 06/11) ===
+Narração: NIKA (Google AI Studio, Gemini 3.8 Flash TTS, "warm and approachable", estilo "narradora brasileira, calorosa e animada, ritmo de vídeo curto"). Roteiro em audio/27_roteiro.txt, "Limpakí", bruto 25,3 s (audio/27_voz_gemini.wav, lido direto do <audio>.src data:audio/wav da página, sem download) → atempo 1,05 + loudnorm = 24,1 s (audio/27_voz.mp3), começa aos 0,3 s do vídeo. Trilha baixa (0.12). Palavra: PET.
+História: Ana passa o rolo adesivo no sofá cheio de pelo com o cachorro do lado e se assusta com a quantidade → Popó, ao lado do cachorro, faz "calma" e mostra o celular: pede no Limpakí e avisa que tem pet → Ana no sofá com o cachorro no colo escolhe no celular e vê o preço → Ju aspira o sofá e o tapete e passa pano na mesinha com o cachorro olhando (documento + selfie verificados; pagamento pelo app com garantia) → Ana brinca com o cachorro no tapete da sala limpa, luz dourada → CTA.
+
+CENA 1 — 0,0 a 3,0 s — brutos/27_cena1_ana_pelo.mp4 (NOVA; trecho 0,2–3,2 s; zoom 1.00→1.06)
+  Vídeo: Ana (moletom cinza, coque) sentada no sofá bege coberto de pelo passando o rolo adesivo; cachorro de pelo dourado deitado ao lado; brinquedo de corda no chão; estante de madeira com TV, planta.
+  Texto (hook, caixa grande, acima do rosto): "CACHORRO em casa / e PELO por tudo?"
+  Narração (0,6 s): "Tem cachorro em casa e o pelo tá por tudo?"
+CENA 2 — 3,0 a 8,0 s — brutos/27_cena1_ana_pelo.mp4 (NOVA; trecho 3,4–8,4 s; zoom 1.06→1.14, continua o punch-in)
+  Vídeo: Ana levanta a folha do rolo cheia de pelo, faz cara de choque e suspira olhando o cachorro.
+  Texto 1 (3,0–5,4 s): "SOFÁ, TAPETE, / chão..." | Narração: "Sofá, tapete, chão."
+  Texto 2 (5,4–8,0 s): "Limpa HOJE, / amanhã tá IGUAL" | Narração: "Você limpa hoje e amanhã tá igual."
+CENA 3 — 8,0 a 12,55 s — brutos/27_cena2_popo.mp4 (NOVA; trecho 1,2–5,75 s; zoom 1.00→1.10)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, esfregão branco, tela facial preta com olhos turquesa e bochechas rosadas, sem texto) em pé no tapete ao lado de um cachorro pequeno; faz gesto de calma e depois mostra o celular com olhos brilhando.
+  Texto 1 (8,0–10,3 s): "CALMA. No LIMPAKI / você pede a diarista" | Narração: "Calma. No Limpakí você pede a diarista"
+  Texto 2 (10,3–12,55 s): "e avisa que tem / PET em casa" | Narração: "e avisa que tem pet em casa."
+CENA 4 — 12,55 a 14,45 s — brutos/27_cena3_ana_escolhe.mp4 (NOVA; trecho 1,5–3,4 s; zoom 1.02→1.09)
+  Vídeo: Ana no sofá com o cachorro deitado no colo, celular numa mão, faz carinho nele com a outra e sorri de alívio.
+  Texto: "Vê o PREÇO / antes de confirmar" | Narração: "Vê o preço antes de confirmar."
+CENA 5 — 14,45 a 16,7 s — brutos/27_cena4_ju_aspira.mp4 (NOVA; trecho 0,4–2,65 s; zoom 1.00→1.06)
+  Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) passa o aspirador no tapete cheio de pelo; o cachorro observa sentado ao lado.
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 6 — 16,7 a 19,25 s — brutos/27_cena4_ju_aspira.mp4 (NOVA; trecho 4,8–7,35 s; zoom 1.05→1.12)
+  Vídeo: Ju passa pano na mesinha de madeira sorrindo pra câmera, cachorro ao fundo.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
+CENA 7 — 19,25 a 21,6 s — brutos/27_cena5_ana_brinca.mp4 (NOVA; trecho 4,4–6,75 s; zoom 1.00→1.07)
+  Vídeo: Ana sentada no tapete limpo da sala, luz dourada de fim de tarde, o cachorro pula no colo e lambe o rosto dela; ela ri.
+  Texto: "Enquanto ela LIMPA, / você BRINCA com ele" | Narração: "Enquanto ela limpa, você brinca com ele."
+CARD FINAL — 21,6 a 25,3 s — card turquesa: "Comenta / PET / que eu te mando a lista da faxina com pet em casa no direct"
+  Narração: "Comenta PET que eu te mando a lista no direct."
+
+Capa: reels/27_pet_cover.jpg (frame aos 0,8 s: Ana com o rolo adesivo e o cachorro, "CACHORRO em casa e PELO por tudo?"). Story: stories/27_story.jpg (tema claro, frame da cena 1 aos 1,0 s em 4:5, "Reel novo").
+Flow 06/11: 7 aprovações, 5 vídeos entregues (50 → 0 créditos, renovam às 12:00). A cena 1 original ("passa a mão na calça e olha a mão cheia de pelo") FALHOU 2 vezes ("Não foi possível gerar o vídeo", reembolso prometido) — reescrita com o rolo adesivo e saiu de primeira. Popó veio limpo (sem texto), com esfregão em vez de espanador. Atenção: o cachorro do Popó (cena 3) é um spitz laranja e o das cenas da Ana/Ju é um cocker dourado — mesma cor, raça diferente. Prompts em specs/27_prompts_flow.txt (cena 1 = versão com rolo adesivo). Clipes via hover no tile do grid → <video>.currentSrc (flow.google.com/asb/…) → navegar pra URL (googlevideo) → fetch → base64 em window.__s → fatias de 440k (browser_batch, MÁX. 2 por chamada; 3 estoura o bridge) → tools/join_b64.py. Nenhuma cena de Reel anterior foi usada.
+Google AI Studio (TTS): hoje o <audio>.src da página TROUXE o áudio inteiro (data:audio/wav;base64, 1,6 M chars, 25,3 s) — não precisou do botão Download. "Sempre aprovar" do Flow fica bloqueado pelo classificador de permissões (configuração permanente) — aprovar 1 a 1.
+ElevenLabs: não usado (22 créditos, usuário não quer pagar).
+Isca: palavra PET, página site/pet.html (nova, padrão da bebe.html; falta copiar pra public/ do limpae e push) + fluxo iscas/27_manychat.txt (AINDA NÃO criado no ManyChat; gatilho aceita "pet", "cachorro", "gato", "pelo", "lista"). Legenda sem números (não precisou de fonte).

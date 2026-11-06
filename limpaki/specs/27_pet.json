@@ -1,0 +1,65 @@
+{
+ "voice": "../audio/27_voz.mp3",
+ "voice_segments": [
+  {"from": 0, "to": 24.14, "at": 0.3, "tempo": 1.0}
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/27_cena1_ana_pelo.mp4",
+   "start": 0.2, "dur": 3.0,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 3.0, "text": "CACHORRO em casa\ne PELO por tudo?", "big": true, "y": 200}]
+  },
+  {
+   "src": "../brutos/27_cena1_ana_pelo.mp4",
+   "start": 3.4, "dur": 5.0,
+   "zoom": [1.06, 1.14],
+   "caps": [
+    {"t": 0.0, "end": 2.4, "text": "SOFÁ, TAPETE,\nchão..."},
+    {"t": 2.4, "end": 5.0, "text": "Limpa HOJE,\namanhã tá IGUAL"}
+   ]
+  },
+  {
+   "src": "../brutos/27_cena2_popo.mp4",
+   "start": 1.2, "dur": 4.55,
+   "zoom": [1.0, 1.1],
+   "caps": [
+    {"t": 0.0, "end": 2.3, "text": "CALMA. No LIMPAKI\nvocê pede a diarista"},
+    {"t": 2.3, "end": 4.55, "text": "e avisa que tem\nPET em casa"}
+   ]
+  },
+  {
+   "src": "../brutos/27_cena3_ana_escolhe.mp4",
+   "start": 1.5, "dur": 1.9,
+   "zoom": [1.02, 1.09],
+   "caps": [{"t": 0.0, "end": 1.9, "text": "Vê o PREÇO\nantes de confirmar"}]
+  },
+  {
+   "src": "../brutos/27_cena4_ju_aspira.mp4",
+   "start": 0.4, "dur": 2.25,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.25, "text": "DOCUMENTO e SELFIE\nverificados"}]
+  },
+  {
+   "src": "../brutos/27_cena4_ju_aspira.mp4",
+   "start": 4.8, "dur": 2.55,
+   "zoom": [1.05, 1.12],
+   "caps": [{"t": 0.0, "end": 2.55, "text": "Pagamento pelo APP,\ncom GARANTIA"}]
+  },
+  {
+   "src": "../brutos/27_cena5_ana_brinca.mp4",
+   "start": 4.4, "dur": 2.35,
+   "zoom": [1.0, 1.07],
+   "caps": [{"t": 0.0, "end": 2.35, "text": "Enquanto ela LIMPA,\nvocê BRINCA com ele"}]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "PET",
+  "sub": "que eu te mando a lista da faxina com pet em casa no direct",
+  "dur": 3.6
+ }
+}
