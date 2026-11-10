@@ -1,0 +1,40 @@
+=== BRIEFING POR CENA — REEL 28 "Tem vergonha de chamar diarista com a casa assim?" (25,2 s, 1080x1920) — TODAS as cenas novas (Flow, 10/11) ===
+Narração: NIKA (Google AI Studio, Gemini 3.8 Flash TTS, "warm and approachable", estilo "narradora brasileira, calorosa e animada, ritmo de vídeo curto"). Roteiro em audio/28_roteiro.txt, "Limpakí", bruto 26,4 s (audio/28_voz_gemini.wav, lido direto do <audio>.src data:audio/wav da página, sem download) → silêncio inicial cortado + atempo 1,07 + loudnorm = 24,6 s (audio/28_voz.mp3), começa aos 0,3 s do vídeo. Trilha baixa (0.12). Palavra: RELAXA.
+História: Ana em pé na sala bagunçada (roupa no sofá, canecas na mesinha) olha o celular, cobre o rosto com vergonha e hesita → Popó faz gesto de "relaxa" e mostra o celular: ela vem exatamente pra isso, ninguém te julga; no Limpakí você pede a diarista → Ana sentada no braço do sofá escolhe no celular e sorri aliviada (vê o preço antes) → Ju recolhe e dobra as roupas do sofá e junta as canecas, sorrindo, sem julgar (documento + selfie verificados; pagamento pelo app com garantia) → Ana encolhida no sofá limpo com uma caneca de café, luz dourada → CTA.
+
+CENA 1 — 0,0 a 2,6 s — brutos/28_cena1_ana_vergonha.mp4 (NOVA; trecho 0,3–2,9 s; zoom 1.00→1.06)
+  Vídeo: Ana (moletom cinza, coque) em pé no meio da sala bagunçada: roupas no sofá bege, canecas e pratos na mesinha, almofada no chão; celular na mão, olha a bagunça.
+  Texto (hook, caixa grande, no terço de baixo pra não cobrir o rosto): "VERGONHA de / chamar DIARISTA?"
+  Narração (0,3 s): "Tem vergonha de chamar diarista com a casa assim?"
+CENA 2 — 2,6 a 6,2 s — brutos/28_cena1_ana_vergonha.mp4 (NOVA; trecho 3,2–6,8 s; zoom 1.06→1.14, continua o punch-in)
+  Vídeo: Ana cobre o rosto com a mão, morde o lábio e olha o celular hesitando.
+  Texto 1 (2,6–4,85 s): "LOUÇA na pia, / ROUPA no sofá" | Narração: "Louça na pia, roupa no sofá,"
+  Texto 2 (4,85–6,2 s): "PÓ por tudo" | Narração: "pó por tudo."
+CENA 3 — 6,2 a 10,5 s — brutos/28_cena2_popo_fix.mp4 (NOVA; trecho 1,0–5,3 s; zoom 1.00→1.08)
+  Vídeo: Popó (robô branco arredondado, laço turquesa, espanador branco, tela facial preta com olhos turquesa e bochechas rosadas) em pé na sala bagunçada, faz gesto de "relaxa" com a mão e sorri.
+  Texto 1 (6,2–9,2 s): "RELAXA. Ela vem / exatamente pra ISSO" | Narração: "Relaxa. Ela vem exatamente pra isso."
+  Texto 2 (9,2–10,5 s): "NINGUÉM / te julga" | Narração: "Ninguém te julga."
+CENA 4 — 10,5 a 12,65 s — brutos/28_cena2_popo_fix.mp4 (NOVA; trecho 5,5–7,65 s; zoom 1.08→1.14)
+  Vídeo: Popó em close mostra o celular com a tela turquesa, olhos brilhando.
+  Texto: "No LIMPAKI você / pede a DIARISTA" | Narração: "No Limpakí você pede a diarista"
+CENA 5 — 12,65 a 14,25 s — brutos/28_cena3_ana_escolhe.mp4 (NOVA; trecho 4,6–6,2 s; zoom 1.02→1.08)
+  Vídeo: Ana sentada no braço do sofá, roupas atrás dela, rola a tela do celular e sorri aliviada.
+  Texto: "e vê o PREÇO / antes de confirmar" | Narração: "e vê o preço antes de confirmar."
+CENA 6 — 14,25 a 16,5 s — brutos/28_cena4_ju_arruma.mp4 (NOVA; trecho 0,4–2,65 s; zoom 1.00→1.06)
+  Vídeo: Ju (cacheada presa, camiseta branca, avental azul-marinho, luvas amarelas) recolhe e dobra as roupas do sofá, sorrindo.
+  Texto: "DOCUMENTO e SELFIE / verificados" | Narração: "Documento e selfie verificados."
+CENA 7 — 16,5 a 18,9 s — brutos/28_cena4_ju_arruma.mp4 (NOVA; trecho 4,6–7,0 s; zoom 1.05→1.12)
+  Vídeo: Ju junta as canecas da mesinha de centro olhando pra câmera, simpática.
+  Texto: "Pagamento pelo APP, / com GARANTIA" | Narração: "Pagamento pelo app, com garantia."
+CENA 8 — 18,9 a 21,8 s — brutos/28_cena5_ana_relaxa.mp4 (NOVA; trecho 2,0–4,9 s; zoom 1.00→1.07)
+  Vídeo: Ana encolhida no sofá bege limpo, caneca de café nas mãos, sorrindo pra janela, luz dourada de fim de tarde.
+  Texto 1 (18,9–20,5 s): "Você só recolhe / o BÁSICO" | Narração: "Você só recolhe o básico."
+  Texto 2 (20,5–21,8 s): "O resto / é com ELA" | Narração: "O resto é com ela."
+CARD FINAL — 21,8 a 25,2 s — card turquesa: "Comenta / RELAXA / que eu te mando a lista dos 10 minutos antes da faxina no direct"
+  Narração: "Comenta RELAXA que eu te mando a lista no direct."
+
+Capa: reels/28_relaxa_cover.jpg (frame aos 0,8 s: Ana em pé na sala bagunçada, "VERGONHA de chamar DIARISTA?"). Story: stories/28_story.jpg (tema claro, frame da cena 2 aos 4,0 s em 4:5, "Reel novo").
+Flow 10/11: 5 gerações, 5 vídeos de primeira (50 → 0 créditos, renovam às 12:00). Popó veio no padrão (branco, laço turquesa, espanador, mostra o celular) mas com um emblema turquesa pequeno no peito → apagado por inpaint com tools/fix_popo_chest.py (NOVO: acha a tela facial, procura componente turquesa pequeno centralizado abaixo dela e faz cv2.inpaint) = brutos/28_cena2_popo_fix.mp4. Prompts em specs/28_prompts_flow.txt. Clipes via hover no tile do grid → <video>.currentSrc (flow.google.com/asb/…) → navegar pra URL (googlevideo) → fetch → base64 em window.__s → fatias de 440k (browser_batch, 2 por chamada) → tools/join_b64.py. Nenhuma cena de Reel anterior foi usada.
+Google AI Studio (TTS): o <audio>.src da página trouxe o áudio inteiro (data:audio/wav;base64, 1,69 M chars, 26,4 s), sem download; a primeira leitura aos 20 s veio com 0,04 s (ainda gerando) — esperar mais 10 s. "Sempre aprovar" do Flow segue bloqueado: aprovar 1 a 1.
+ElevenLabs: não usado (22 créditos, usuário não quer pagar).
+Isca: palavra RELAXA, página site/relaxa.html (nova, padrão da pet.html; falta copiar pra public/ do limpae e push) + fluxo iscas/28_manychat.txt (AINDA NÃO criado no ManyChat; gatilho aceita "relaxa", "vergonha", "lista", "bagunça"). Legenda sem números (não precisou de fonte).

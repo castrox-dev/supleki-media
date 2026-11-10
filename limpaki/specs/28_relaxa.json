@@ -1,0 +1,74 @@
+{
+ "voice": "../audio/28_voz.mp3",
+ "voice_segments": [
+  {"from": 0, "to": 24.56, "at": 0.3, "tempo": 1.0}
+ ],
+ "clip_volume": 0,
+ "music": true,
+ "music_vol": 0.12,
+ "clips": [
+  {
+   "src": "../brutos/28_cena1_ana_vergonha.mp4",
+   "start": 0.3, "dur": 2.6,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.6, "text": "VERGONHA de\nchamar DIARISTA?", "big": true, "y": 1250}]
+  },
+  {
+   "src": "../brutos/28_cena1_ana_vergonha.mp4",
+   "start": 3.2, "dur": 3.6,
+   "zoom": [1.06, 1.14],
+   "caps": [
+    {"t": 0.0, "end": 2.25, "text": "LOUÇA na pia,\nROUPA no sofá"},
+    {"t": 2.25, "end": 3.6, "text": "PÓ por tudo"}
+   ]
+  },
+  {
+   "src": "../brutos/28_cena2_popo_fix.mp4",
+   "start": 1.0, "dur": 4.3,
+   "zoom": [1.0, 1.08],
+   "caps": [
+    {"t": 0.0, "end": 3.0, "text": "RELAXA. Ela vem\nexatamente pra ISSO"},
+    {"t": 3.0, "end": 4.3, "text": "NINGUÉM\nte julga"}
+   ]
+  },
+  {
+   "src": "../brutos/28_cena2_popo_fix.mp4",
+   "start": 5.5, "dur": 2.15,
+   "zoom": [1.08, 1.14],
+   "caps": [{"t": 0.0, "end": 2.15, "text": "No LIMPAKI você\npede a DIARISTA"}]
+  },
+  {
+   "src": "../brutos/28_cena3_ana_escolhe.mp4",
+   "start": 4.6, "dur": 1.6,
+   "zoom": [1.02, 1.08],
+   "caps": [{"t": 0.0, "end": 1.6, "text": "e vê o PREÇO\nantes de confirmar"}]
+  },
+  {
+   "src": "../brutos/28_cena4_ju_arruma.mp4",
+   "start": 0.4, "dur": 2.25,
+   "zoom": [1.0, 1.06],
+   "caps": [{"t": 0.0, "end": 2.25, "text": "DOCUMENTO e SELFIE\nverificados"}]
+  },
+  {
+   "src": "../brutos/28_cena4_ju_arruma.mp4",
+   "start": 4.6, "dur": 2.4,
+   "zoom": [1.05, 1.12],
+   "caps": [{"t": 0.0, "end": 2.4, "text": "Pagamento pelo APP,\ncom GARANTIA"}]
+  },
+  {
+   "src": "../brutos/28_cena5_ana_relaxa.mp4",
+   "start": 2.0, "dur": 2.9,
+   "zoom": [1.0, 1.07],
+   "caps": [
+    {"t": 0.0, "end": 1.6, "text": "Você só recolhe\no BÁSICO"},
+    {"t": 1.6, "end": 2.9, "text": "O resto\né com ELA"}
+   ]
+  }
+ ],
+ "end": {
+  "pre": "Comenta",
+  "word": "RELAXA",
+  "sub": "que eu te mando a lista dos 10 minutos antes da faxina no direct",
+  "dur": 3.4
+ }
+}
